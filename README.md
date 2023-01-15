@@ -56,7 +56,7 @@
 
 ## Astro 
 
-- [cssninjaStudio/krypton](https://github.com/cssninjaStudio/krypton) - 🚀 Free Bulma ICO / Crypto template
+- [cssninjaStudio/krypton](https://github.com/cssninjaStudio/krypton) - 🚀 Free Astro + Bulma ICO / Crypto template
 
 ## AutoHotkey 
 
@@ -110,7 +110,7 @@
 - [vinecodes/android_device_lge_mh_recovery](https://github.com/vinecodes/android_device_lge_mh_recovery) - Device Tree For LG Q6
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [Dudemanguy/gtk](https://github.com/Dudemanguy/gtk) - Gtk+
 - [rpeshkov/IntelWifi](https://github.com/rpeshkov/IntelWifi) - MacOS port of Intel Wireless Linux (IWL) Driver
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
@@ -132,7 +132,7 @@
 
 ## C# # 
 
-- [TcNobo/TcNo-Mass-Steam-Idler](https://github.com/TcNobo/TcNo-Mass-Steam-Idler) - Quickly emulate launching games from a list, for given seconds each.
+- [TCNOco/TcNo-Mass-Steam-Idler](https://github.com/TCNOco/TcNo-Mass-Steam-Idler) - Quickly emulate launching games from a list, for given seconds each.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Ezzpify/HourBoostr](https://github.com/Ezzpify/HourBoostr) - Two programs for idling Steam game hours and trading cards
@@ -246,7 +246,7 @@
 ## Cython 
 
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
-- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
+- [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 
 ## Dockerfile 
 
@@ -269,7 +269,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [usrbinsam/jwt-key-server](https://github.com/usrbinsam/jwt-key-server) - JWT based remote licensing server.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
@@ -481,6 +481,7 @@
 
 ## Others 
 
+- [closebox73/Orion](https://github.com/closebox73/Orion) - A Conky theme pack
 - [VandalByte/dedsec-grub2-theme](https://github.com/VandalByte/dedsec-grub2-theme) - DedSec GRUB2 Theme  💀🖤
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -506,7 +507,7 @@
 - [fartyg/xfce_wm_themes](https://github.com/fartyg/xfce_wm_themes) - tweaked xfce window manager themes
 - [enkia/enki-theme](https://github.com/enkia/enki-theme) - Enki Theme - A dark theme for Sublime Text
 - [mattbanks/dotfiles-syntax-highlighting-st2](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2) - User settings to bring ShellScript (Bash) syntax highlighting to dotfiles
-- [seebye/fmui](https://github.com/seebye/fmui) - fzf mpd user interface
+- [seebye/fmui](https://github.com/seebye/fmui) - 
 - [bchiang7/Halcyon](https://github.com/bchiang7/Halcyon) - Halcyon Theme for Sublime Text
 - [suadev/turkish-microservice-architecture-book](https://github.com/suadev/turkish-microservice-architecture-book) - Open Source Turkish Microservices eBook. Feel free to contribute.
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
@@ -980,7 +981,6 @@
 
 ## Shell 
 
-- [closebox73/Orion](https://github.com/closebox73/Orion) - A Conky theme pack
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [maximbaz/rebuild-detector](https://github.com/maximbaz/rebuild-detector) - Detects which Arch Linux packages need to be rebuilt
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
