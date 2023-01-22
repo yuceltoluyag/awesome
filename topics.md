@@ -888,7 +888,7 @@
 ## laravel 
 
 - [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
-- [openclassify/openclassify](https://github.com/openclassify/openclassify) - OpenClassify is modular and most advanced open source classifieds & marketplace software platform build with Laravel 8 & PHP 7.3+ Supported
+- [openclassify/openclassify](https://github.com/openclassify/openclassify) - OpenClassify is modular and most advanced open source classified platform build with Laravel 8 & PHP 8.1 Supported. Included Pyrocms
 - [munafio/chatify](https://github.com/munafio/chatify) - A Laravel package helps you add a complete real-time messaging system to your new / existing application with only one command.
 - [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 - [xpersonas/laravel-styleguide](https://github.com/xpersonas/laravel-styleguide) - Styleguide for Laravel project development.
@@ -1211,6 +1211,8 @@
 
 ## others 
 
+- [u1ui/base.css](https://github.com/u1ui/base.css) - ⏚ Usefull css defaults
+- [u1ui/norm.css](https://github.com/u1ui/norm.css) - 🆗 normalization for crossbrowser compatibility
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [TCNOco/TcNo-Mass-Steam-Idler](https://github.com/TCNOco/TcNo-Mass-Steam-Idler) - Quickly emulate launching games from a list, for given seconds each.
 - [IsThereAnyDeal/AugmentedSteam_Server](https://github.com/IsThereAnyDeal/AugmentedSteam_Server) - A PHP server application that powers the Enhanced Steam API
@@ -1687,7 +1689,7 @@
 ## php 
 
 - [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
-- [openclassify/openclassify](https://github.com/openclassify/openclassify) - OpenClassify is modular and most advanced open source classifieds & marketplace software platform build with Laravel 8 & PHP 7.3+ Supported
+- [openclassify/openclassify](https://github.com/openclassify/openclassify) - OpenClassify is modular and most advanced open source classified platform build with Laravel 8 & PHP 8.1 Supported. Included Pyrocms
 - [munafio/chatify](https://github.com/munafio/chatify) - A Laravel package helps you add a complete real-time messaging system to your new / existing application with only one command.
 - [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
