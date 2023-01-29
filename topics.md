@@ -184,6 +184,7 @@
 
 ## android 
 
+- [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts for Adblockers
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -420,6 +421,7 @@
 
 ## css 
 
+- [numist/highlight-css](https://github.com/numist/highlight-css) - CSS files created from Pygments' and Rouge's built-in styles
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [Dyzean/Simplify](https://github.com/Dyzean/Simplify) - simple clean looking theme
 - [HolaSoyGonZzA/bulma-css-class-completion](https://github.com/HolaSoyGonZzA/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
@@ -1211,6 +1213,8 @@
 
 ## others 
 
+- [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [u1ui/base.css](https://github.com/u1ui/base.css) - ⏚ Usefull css defaults
 - [u1ui/norm.css](https://github.com/u1ui/norm.css) - 🆗 normalization for crossbrowser compatibility
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
@@ -1241,7 +1245,7 @@
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [saschazesiger/Free-Proxies](https://github.com/saschazesiger/Free-Proxies) - A frequently updated list of all available proxies from over 50 sources
 - [anoopmsivadas/Cyberpunk-GRUB-Theme](https://github.com/anoopmsivadas/Cyberpunk-GRUB-Theme) - [MIRROR] Cyberpunk 2077 inspired GRUB/GRUB2 Theme
-- [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2022
+- [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2023
 - [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
