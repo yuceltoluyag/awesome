@@ -429,6 +429,7 @@
 - [rcarneironet/qrcode-js](https://github.com/rcarneironet/qrcode-js) - Creating and reading QR Code using Javascript
 - [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API (last minute earthquakes in turkey)
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
 - [cagataycali/university-news-notifier](https://github.com/cagataycali/university-news-notifier) - :books: University news notifier
@@ -496,7 +497,6 @@
 - [VandalByte/dedsec-grub2-theme](https://github.com/VandalByte/dedsec-grub2-theme) - DedSec GRUB2 Theme  💀🖤
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-- [saschazesiger/Free-Proxies](https://github.com/saschazesiger/Free-Proxies) - A frequently updated list of all available proxies from over 50 sources
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
@@ -649,7 +649,7 @@
 - [sametsahindogan/laravel-jwtredis](https://github.com/sametsahindogan/laravel-jwtredis) - :rocket: This package allows JWT-authenticated users to be stored and management in Redis with their roles, permissions, statuses and anything you want.
 - [vicgonvt/Press](https://github.com/vicgonvt/Press) - Source code for Laravel Package Development course.
 - [jlamim/ci-seo](https://github.com/jlamim/ci-seo) - SEO optimization library for projects developed with the Codeigniter framework
-- [GustMartins/Slice-Library](https://github.com/GustMartins/Slice-Library) - Slice-Library is a CodeIgniter library that simulates Laravel's Blade templating system!
+- [gustmartins/Slice-Library](https://github.com/gustmartins/Slice-Library) - Slice-Library is a CodeIgniter library that simulates Laravel's Blade templating system!
 - [chaclee/ci-blade](https://github.com/chaclee/ci-blade) - Laravel blade template engine for Codeigniter 3.0+!
 - [yidas/codeigniter-model](https://github.com/yidas/codeigniter-model) - CodeIgniter 3 Active Record (ORM) Standard Model with Laravel Eloquent & Yii2 AR like
 - [mehdibo/Codeigniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - A library to use the Blockchain Wallet API: https://blockchain.info/api/blockchain_wallet_api
@@ -671,7 +671,6 @@
 - [laravelista/comments](https://github.com/laravelista/comments) - Native comments for your Laravel application.
 - [mewebstudio/pos](https://github.com/mewebstudio/pos) - Türk bankaları için sanal pos paketi (PHP)
 - [sineld/bladeset](https://github.com/sineld/bladeset) - A very simple blade extension which allows variables to be set within blade templates.
-- [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API (last minute earthquakes in turkey)
 - [epigra/trstringhelper](https://github.com/epigra/trstringhelper) - PHP Türkçe Karakter String Kütüphanesi
 - [sineld/import-from-fluxbb-to-flarum](https://github.com/sineld/import-from-fluxbb-to-flarum) - import-from-fluxbb-to-flarum
 - [alprnkeskekoglu/curse](https://github.com/alprnkeskekoglu/curse) - Laravel projeler için küfür filtresi
@@ -766,6 +765,7 @@
 
 ## Python 
 
+- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [MeteHanC/turkishnlp](https://github.com/MeteHanC/turkishnlp) - Very early version of the TurkishNLP. For now it has basically 5 main functions; Detecting Turkish Language, syllabicating words, vowel harmony detection, Turkish origin detection and correcting typos
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 350+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
@@ -1087,6 +1087,7 @@
 
 ## TypeScript 
 
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
 - [HolaSoyGonZzA/bulma-css-class-completion](https://github.com/HolaSoyGonZzA/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
