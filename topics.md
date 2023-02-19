@@ -98,6 +98,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [material-design](#material-design)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -344,6 +345,7 @@
 
 ## cli 
 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [trapd00r/File-LsColor](https://github.com/trapd00r/File-LsColor) - Colorize input filenames just like ls(1) does
@@ -497,6 +499,7 @@
 
 ## docker 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [gurayops/gepp](https://github.com/gurayops/gepp) - Developer's Helper to Docker, Kubernetes, and Terraform. Fully automatic, without any config or question 🙌
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
@@ -640,14 +643,15 @@
 
 ## github-api 
 
-- [parkr/auto-reply](https://github.com/parkr/auto-reply) - :loop: Handle GitHub webhooks and manage issues on your repositories. Currently runs @jekyllbot.
+- [parkr/auto-reply](https://github.com/parkr/auto-reply) - :loop: Handle GitHub webhooks and manage issues on your repositories. Used to run @jekyllbot, now at github.com/jekyll/jekyllbot
 
 ## go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [usrbinsam/jwt-key-server](https://github.com/usrbinsam/jwt-key-server) - JWT based remote licensing server.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
-- [parkr/auto-reply](https://github.com/parkr/auto-reply) - :loop: Handle GitHub webhooks and manage issues on your repositories. Currently runs @jekyllbot.
+- [parkr/auto-reply](https://github.com/parkr/auto-reply) - :loop: Handle GitHub webhooks and manage issues on your repositories. Used to run @jekyllbot, now at github.com/jekyll/jekyllbot
 
 ## godot 
 
@@ -655,6 +659,7 @@
 
 ## golang 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [evilayet/evilayet](https://github.com/evilayet/evilayet) - evilayet is a REST API that presents address information for Turkish developers.
@@ -685,6 +690,8 @@
 
 ## hacktoberfest 
 
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1045,6 +1052,7 @@
 
 ## lua 
 
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
@@ -1091,6 +1099,10 @@
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 
+## mastodon 
+
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+
 ## material-design 
 
 - [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/Ki
@@ -1116,6 +1128,7 @@
 
 ## music 
 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [TheHamkerCat/Telegram_VC_Bot](https://github.com/TheHamkerCat/Telegram_VC_Bot) - Telegram Voice Chat Bot Written In Python Using Pytgcalls & Pyrogram.
 - [jisungk/deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano!
@@ -1134,6 +1147,8 @@
 
 ## neovim 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [noahfrederick/vim-jekyll](https://github.com/noahfrederick/vim-jekyll) - Vim extensions for Jekyll 2+ sites
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - Make Ranger running in a floating window to communicate with Neovim via RPC
@@ -1211,6 +1226,9 @@
 
 ## others 
 
+- [safing/portmaster-packaging](https://github.com/safing/portmaster-packaging) - Portmaster packages and installers
+- [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
+- [jeremyong/Selene](https://github.com/jeremyong/Selene) - Simple C++11 friendly header-only bindings to Lua
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
 - [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) - 
@@ -1448,7 +1466,7 @@
 - [nelsonaloysio/AUR_bash](https://github.com/nelsonaloysio/AUR_bash) - Bash script to interact with the Arch User Repository (AUR)
 - [Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) - A Linux program to handle GPU switching on Optimus laptops.
 - [enesusta/turkish-citizen-validator](https://github.com/enesusta/turkish-citizen-validator) - This repository validates Turkish citizen number using SOAP Protocol
-- [vifon/autocomplete-ALL-the-things](https://github.com/vifon/autocomplete-ALL-the-things) - Arbitrary text completion for urxvt
+- [vifon/autocomplete-ALL-the-things](https://github.com/vifon/autocomplete-ALL-the-things) - Arbitrary text completion for urxvt. MAINTAINER NEEDED
 - [gdbinit/EFISwissKnife](https://github.com/gdbinit/EFISwissKnife) - An IDA plugin to improve (U)EFI reversing
 - [MrDStar/egpusetup](https://github.com/MrDStar/egpusetup) - An OpenRC script for the setup of an external GPU on laptops that support it.
 - [Hujjat/vue-shop](https://github.com/Hujjat/vue-shop) - Learn to Build E-Commerce Web App with Vuejs and Firebase.
@@ -1681,6 +1699,8 @@
 
 ## package-manager 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [cybercog/laravel-paket](https://github.com/cybercog/laravel-paket) - Composer GUI. Manage Laravel dependencies from web interface without switching to command line!
 
@@ -1742,7 +1762,7 @@
 - [mewebstudio/pos](https://github.com/mewebstudio/pos) - Türk bankaları için sanal pos paketi (PHP)
 - [alprnkeskekoglu/curse](https://github.com/alprnkeskekoglu/curse) - Laravel projeler için küfür filtresi
 - [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [erichard/SublimePHPCompanion](https://github.com/erichard/SublimePHPCompanion) - A Sublime Text plugin that provides cool stuff for PHP 5.3+ coding session.
 - [claviska/SimpleImage](https://github.com/claviska/SimpleImage) - A PHP class that makes working with images and GD as simple as possible.
@@ -1766,7 +1786,7 @@
 - [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) - Effective tree structures in Laravel 4-8
 - [marcelgsantos/learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
 - [anilozmen/Laravel-ECommerce-Iyzico](https://github.com/anilozmen/Laravel-ECommerce-Iyzico) - Iyzico intigrated e-Commerce system that could be developed easily in simple level.
-- [Arrrray/pd-admin](https://github.com/Arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
+- [arrrray/pd-admin](https://github.com/arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
 
 ## pico-8 
 
@@ -1803,6 +1823,7 @@
 
 ## python 
 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
@@ -2034,7 +2055,7 @@
 ## symfony 
 
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
-- [Arrrray/pd-admin](https://github.com/Arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
+- [arrrray/pd-admin](https://github.com/arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
 
 ## telegram 
 
@@ -2137,7 +2158,7 @@
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [jessfraz/.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
 - [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
 - [gzheyts/dotfiles](https://github.com/gzheyts/dotfiles) - Personal dotfiles, managed with GNU Stow
 
