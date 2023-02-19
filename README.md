@@ -159,6 +159,7 @@
 
 ## C++ 
 
+- [jeremyong/Selene](https://github.com/jeremyong/Selene) - Simple C++11 friendly header-only bindings to Lua
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -269,6 +270,7 @@
 
 ## Go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
@@ -281,7 +283,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
 - [tylerwolf35/wego](https://github.com/tylerwolf35/wego) - Weather app for the terminal, with Dark Sky support
-- [parkr/auto-reply](https://github.com/parkr/auto-reply) - :loop: Handle GitHub webhooks and manage issues on your repositories. Currently runs @jekyllbot.
+- [parkr/auto-reply](https://github.com/parkr/auto-reply) - :loop: Handle GitHub webhooks and manage issues on your repositories. Used to run @jekyllbot, now at github.com/jekyll/jekyllbot
 - [hoanhan101/algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
@@ -462,6 +464,8 @@
 
 ## Lua 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
@@ -675,7 +679,7 @@
 - [sineld/import-from-fluxbb-to-flarum](https://github.com/sineld/import-from-fluxbb-to-flarum) - import-from-fluxbb-to-flarum
 - [alprnkeskekoglu/curse](https://github.com/alprnkeskekoglu/curse) - Laravel projeler için küfür filtresi
 - [orhanmusellim/Codeigniter-With-Eloquent](https://github.com/orhanmusellim/Codeigniter-With-Eloquent) - With the Eloquent database library, you can make your codeigniter model operations easier
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [FabianBeiner/PHP-IMDB-Grabber](https://github.com/FabianBeiner/PHP-IMDB-Grabber) - This PHP library enables you to scrape data from IMDB.com.
 - [natanfelles/codeigniter-phpstorm](https://github.com/natanfelles/codeigniter-phpstorm) - PhpStorm Code Completion for CodeIgniter 3
@@ -731,7 +735,7 @@
 - [anilozmen/Laravel-ECommerce-Iyzico](https://github.com/anilozmen/Laravel-ECommerce-Iyzico) - Iyzico intigrated e-Commerce system that could be developed easily in simple level.
 - [sonerusta/film](https://github.com/sonerusta/film) - Snrtr.com Film Scripti
 - [anilozmen/clean-code-php](https://github.com/anilozmen/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
-- [Arrrray/pd-admin](https://github.com/Arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
+- [arrrray/pd-admin](https://github.com/arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
 - [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 
 ## PLpgSQL 
@@ -744,7 +748,7 @@
 - [irssi/scripts.irssi.org](https://github.com/irssi/scripts.irssi.org) - Script Repository for Irssi
 - [trapd00r/File-LsColor](https://github.com/trapd00r/File-LsColor) - Colorize input filenames just like ls(1) does
 - [simmel/urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) - URxvt Perl extension for resizing the font
-- [vifon/autocomplete-ALL-the-things](https://github.com/vifon/autocomplete-ALL-the-things) - Arbitrary text completion for urxvt
+- [vifon/autocomplete-ALL-the-things](https://github.com/vifon/autocomplete-ALL-the-things) - Arbitrary text completion for urxvt. MAINTAINER NEEDED
 - [lifeforms/irssi-smartfilter](https://github.com/lifeforms/irssi-smartfilter) - Irssi smart filter to selectively hide JOIN/QUIT in busy channels
 - [raphaelfournier/urxvt-perl](https://github.com/raphaelfournier/urxvt-perl) - 
 - [dcx86r/cmus-notify](https://github.com/dcx86r/cmus-notify) - Configurable cmus status desktop notifications via notify-send
@@ -765,6 +769,7 @@
 
 ## Python 
 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [MeteHanC/turkishnlp](https://github.com/MeteHanC/turkishnlp) - Very early version of the TurkishNLP. For now it has basically 5 main functions; Detecting Turkish Language, syllabicating words, vowel harmony detection, Turkish origin detection and correcting typos
@@ -945,6 +950,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [bglw/jekyll-postcss-v2](https://github.com/bglw/jekyll-postcss-v2) - 
 - [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [toshimaru/jekyll-toc](https://github.com/toshimaru/jekyll-toc) - Jekyll plugin which generates a table of contents.
@@ -978,6 +984,7 @@
 
 ## SCSS 
 
+- [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [inuitcss/inuitcss](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
@@ -992,6 +999,7 @@
 
 ## Shell 
 
+- [safing/portmaster-packaging](https://github.com/safing/portmaster-packaging) - Portmaster packages and installers
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [maximbaz/rebuild-detector](https://github.com/maximbaz/rebuild-detector) - Detects which Arch Linux packages need to be rebuilt
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
