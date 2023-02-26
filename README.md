@@ -182,7 +182,7 @@
 - [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
 - [univrsal/spectralizer](https://github.com/univrsal/spectralizer) - Audio visualizer plugin for obs-studio
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-- [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll f
+- [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [Keithenneu/dota2comm](https://github.com/Keithenneu/dota2comm) - Commuication between Lua and any outside program
@@ -310,7 +310,6 @@
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [cangokceaslan/FastCrop.js](https://github.com/cangokceaslan/FastCrop.js) - Fast crop and resize images using only JavaScript.
 - [tayfunerbilen/prototurk.com](https://github.com/tayfunerbilen/prototurk.com) - Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.
-- [poucotm/Guna](https://github.com/poucotm/Guna) - 🍁 Most Innovative Theme for Sublime Text
 - [efe/soyadi](https://github.com/efe/soyadi) - Mevlüt Uysal'ın ünlü algoritması.
 - [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 4.1 based admin dashboard template
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
@@ -501,10 +500,11 @@
 - [VandalByte/dedsec-grub2-theme](https://github.com/VandalByte/dedsec-grub2-theme) - DedSec GRUB2 Theme  💀🖤
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+- [saschazesiger/Free-Proxies](https://github.com/saschazesiger/Free-Proxies) - A frequently updated list of all available proxies from over 50 sources
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-- [imalexlab/saveYourEyes](https://github.com/imalexlab/saveYourEyes) - VSCode theme
+- [k0mpreni/saveYourEyes](https://github.com/k0mpreni/saveYourEyes) - VSCode theme
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [gizemcifguvercin/Resources](https://github.com/gizemcifguvercin/Resources) - This repo includes my blog posts & online videos
@@ -520,6 +520,7 @@
 - [sal0max/sublime-m3u](https://github.com/sal0max/sublime-m3u) - Syntax highlighting for m3u playlist files in Sublime Text
 - [OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - Bulma Snippets Sublime Text Plugin
 - [fartyg/xfce_wm_themes](https://github.com/fartyg/xfce_wm_themes) - tweaked xfce window manager themes
+- [GitGuardian/ggshield-action](https://github.com/GitGuardian/ggshield-action) - GitGuardian Shield GitHub Action - Find exposed credentials in your commits
 - [enkia/enki-theme](https://github.com/enkia/enki-theme) - Enki Theme - A dark theme for Sublime Text
 - [mattbanks/dotfiles-syntax-highlighting-st2](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2) - User settings to bring ShellScript (Bash) syntax highlighting to dotfiles
 - [seebye/fmui](https://github.com/seebye/fmui) - 
@@ -573,7 +574,7 @@
 - [tattersoftware/codeigniter4-files](https://github.com/tattersoftware/codeigniter4-files) - File uploads and management, for CodeIgniter 4
 - [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
 - [openclassify/openclassify](https://github.com/openclassify/openclassify) - OpenClassify is modular and most advanced open source classified platform build with Laravel 8 & PHP 8.1 Supported. Included Pyrocms
-- [munafio/chatify](https://github.com/munafio/chatify) - A Laravel package helps you add a complete real-time messaging system to your new / existing application with only one command.
+- [munafio/chatify](https://github.com/munafio/chatify) - Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.
 - [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 - [pipe-dream/laravel-create](https://github.com/pipe-dream/laravel-create) - Create Laravel projects really fast
 - [TypiCMS/NestableCollection](https://github.com/TypiCMS/NestableCollection) - A Laravel Package that extends Eloquent\Collection to handle nested items following adjacency list model.
@@ -633,7 +634,7 @@
 - [tarfin-labs/netgsm](https://github.com/tarfin-labs/netgsm) - netgsm sms package for laravel 6.x, 7.x, 8.x and 9.x
 - [miracsengonul/json_storage](https://github.com/miracsengonul/json_storage) - API Based JSON Storage
 - [TheWebFosters/project-camp](https://github.com/TheWebFosters/project-camp) - Open source Project Management, CRM, Support & Invoicing application. Developed using Laravel PHP framework, Vuetify VueJS
-- [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5|6|7|8|9
+- [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5|6|7|8|9|10
 - [tjgazel/laravel-toastr](https://github.com/tjgazel/laravel-toastr) - Toastr notifications for laravel 5.*
 - [furkankadioglu/efatura](https://github.com/furkankadioglu/efatura) - eArşiv üzerinden Fatura Oluşturucu
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
@@ -736,7 +737,7 @@
 - [sonerusta/film](https://github.com/sonerusta/film) - Snrtr.com Film Scripti
 - [anilozmen/clean-code-php](https://github.com/anilozmen/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [arrrray/pd-admin](https://github.com/arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
-- [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+- [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 
 ## PLpgSQL 
 
@@ -831,7 +832,7 @@
 - [mateosss/matter](https://github.com/mateosss/matter) - Customizable GRUB theme inspired by Material Design
 - [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - A series of 3 programs that will automatically receive scripts from Reddit, allow the user to edit them, then be sent off to a video generator where they will be uploaded to YouTube automatically.
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F
-- [ok-miskit/99math-bot](https://github.com/ok-miskit/99math-bot) - 
+- [oliv-k/99math-bot](https://github.com/oliv-k/99math-bot) - 
 - [WuLC/GoogleImagesDownloader](https://github.com/WuLC/GoogleImagesDownloader) - Enlarge training dataset by searching images with specified keywords in google and download the presented images
 - [vani-or/haxball-ai](https://github.com/vani-or/haxball-ai) - Reinforcement Learning based bot for Haxball 1 vs 1 problem
 - [gurayops/gepp](https://github.com/gurayops/gepp) - Developer's Helper to Docker, Kubernetes, and Terraform. Fully automatic, without any config or question 🙌
@@ -926,6 +927,7 @@
 - [kbsezginel/nanocar-avogadro](https://github.com/kbsezginel/nanocar-avogadro) - Nanocar builder Avogadro 2 plug-in
 - [Ashark/archlinux-amdgpu-pro](https://github.com/Ashark/archlinux-amdgpu-pro) - Radeon Software for Linux (AMDGPU PRO) PKGBUILD generator for ArchLinux AUR
 - [hsmnzaydn/AfterFromManjaro](https://github.com/hsmnzaydn/AfterFromManjaro) - Your Manjaro distribution automatically loads packages for you.
+- [poucotm/Guna](https://github.com/poucotm/Guna) - 🍁 Most Innovative Theme for Sublime Text
 - [NISH1001/playx](https://github.com/NISH1001/playx) - Search and play any song from terminal
 - [JaikrishnaTS/i3-scratchpad-tools](https://github.com/JaikrishnaTS/i3-scratchpad-tools) - i3ipc programs to manipulate scratchpad containers
 - [nathan78906/steam-salien-cheat](https://github.com/nathan78906/steam-salien-cheat) - Simulates the playing of the 2018 Steam Summer Sale "Salien" game
@@ -999,6 +1001,9 @@
 
 ## Shell 
 
+- [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
+- [Jorman/Scripts](https://github.com/Jorman/Scripts) - Some script, forked and not to make me crazy!
+- [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
 - [safing/portmaster-packaging](https://github.com/safing/portmaster-packaging) - Portmaster packages and installers
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [maximbaz/rebuild-detector](https://github.com/maximbaz/rebuild-detector) - Detects which Arch Linux packages need to be rebuilt
@@ -1028,7 +1033,6 @@
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Liupold/pidswallow](https://github.com/Liupold/pidswallow) - A swallower script using process hierarchy.
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-- [GitGuardian/ggshield-action](https://github.com/GitGuardian/ggshield-action) - GitGuardian Shield GitHub Action - Find exposed credentials in your commits
 - [dylanaraps/torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
 - [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - 
@@ -1085,7 +1089,7 @@
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [nishinsagume/Archrice](https://github.com/nishinsagume/Archrice) - i3-gaps dotfiles on Arch Linux
+- [xangelkawaiix/Archrice](https://github.com/xangelkawaiix/Archrice) - i3-gaps dotfiles on Arch Linux
 - [addy-dclxvi/conky-theme-collections](https://github.com/addy-dclxvi/conky-theme-collections) - Some my uninteresting homebrew Conky
 - [alecive/FlatWoken](https://github.com/alecive/FlatWoken) - Official FlatWoken icon theme source repository.
 
@@ -1097,7 +1101,7 @@
 
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
-- [HolaSoyGonZzA/bulma-css-class-completion](https://github.com/HolaSoyGonZzA/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
+- [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
