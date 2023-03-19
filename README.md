@@ -300,7 +300,7 @@
 ## HTML 
 
 - [u1ui/base.css](https://github.com/u1ui/base.css) - ⏚ Usefull css defaults
-- [u1ui/norm.css](https://github.com/u1ui/norm.css) - 🆗 normalization for crossbrowser compatibility
+- [u1ui/norm.css](https://github.com/u1ui/norm.css) - CSS normalization for crossbrowser compatibility
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [kannansuresh/jekyll-blog-archive-workflow](https://github.com/kannansuresh/jekyll-blog-archive-workflow) - Jekyll Archives workflow action. This action brings archive feature to Jekyll blogs hosted on GitHub pages.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
@@ -354,7 +354,7 @@
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 - [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam) - Augments your Steam Experience
 - [TreTuna/sync-branches](https://github.com/TreTuna/sync-branches) - GitHub Action to sync back a branch to another after a merge.
-- [AlphaNecron/lightdm-evo](https://github.com/AlphaNecron/lightdm-evo) - A modern and sleek theme for LightDM WebKit2.
+- [AlphaNecron/lightdm-evo](https://github.com/AlphaNecron/lightdm-evo) - A modern theme for LightDM WebKit2.
 - [brian-girko/always-active](https://github.com/brian-girko/always-active) - Pretend a webpage is in its active state even if not
 - [dlinbernard/webrtc-control](https://github.com/dlinbernard/webrtc-control) - A multi-browser addon that enables you to have control over WebRTC and protects your IP address.
 - [Ezzud/instify](https://github.com/Ezzud/instify) - Displays your spotify current track on your instagram bio
@@ -601,7 +601,7 @@
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [spatie/flysystem-dropbox](https://github.com/spatie/flysystem-dropbox) - A flysystem driver for Dropbox that uses the v2 API
-- [ramsey/uuid](https://github.com/ramsey/uuid) - A PHP library for generating universally unique identifiers (UUIDs).
+- [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 - [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
 - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9
 - [eduarguz/shift-php-cs](https://github.com/eduarguz/shift-php-cs) - Laravel Shift recommended style config
@@ -727,7 +727,7 @@
 - [thephpleague/omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library for PHP 5.6+
 - [hardevine/LaravelShoppingcart](https://github.com/hardevine/LaravelShoppingcart) - A simple shopping cart implementation for Laravel
 - [rasim/laravel-payu](https://github.com/rasim/laravel-payu) - Laravel 4 Payu Api
-- [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel 9, 8, 7, 6, 5 ve 4 için Mutlucell SMS Kütüphanesi
+- [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel 10, 9, 8, 7, 6, 5 ve 4 için Mutlucell SMS Kütüphanesi
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
