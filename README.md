@@ -50,6 +50,7 @@
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [TypeScript](#typescript)
+- [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -84,6 +85,8 @@
 
 ## C 
 
+- [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
+- [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -579,6 +582,7 @@
 ## PHP 
 
 - [IsThereAnyDeal/AugmentedSteam_Server](https://github.com/IsThereAnyDeal/AugmentedSteam_Server) - A PHP server application that powers the Enhanced Steam API
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [tattersoftware/codeigniter4-outbox](https://github.com/tattersoftware/codeigniter4-outbox) - Email toolkit for CodeIgniter 4
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
 - [lonnieezell/vulcan](https://github.com/lonnieezell/vulcan) - CLI tools for CodeIgniter 4
@@ -1123,7 +1127,6 @@
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Warinyourself/lightdm-webkit-theme-osmos](https://github.com/Warinyourself/lightdm-webkit-theme-osmos) - Osmos - lightdm greeter theme based on GLSL.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
@@ -1145,6 +1148,10 @@
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [Hambergo/9kmmrbot](https://github.com/Hambergo/9kmmrbot) - 
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+
+## VBScript 
+
+- [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
 
 ## Vala 
 
