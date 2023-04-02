@@ -990,6 +990,7 @@
 
 ## linux 
 
+- [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
@@ -1246,6 +1247,7 @@
 
 ## others 
 
+- [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [p-chan5/EasyPulse](https://github.com/p-chan5/EasyPulse) - A set of HQ presets for EasyEffects and PulseEffects.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -1854,6 +1856,7 @@
 
 ## python 
 
+- [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
