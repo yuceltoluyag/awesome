@@ -479,7 +479,7 @@
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [gthreepw00d/mpv-iptv](https://github.com/gthreepw00d/mpv-iptv) - iptv script for mpv
 - [AmrEldib/cmder-powerline-prompt](https://github.com/AmrEldib/cmder-powerline-prompt) - Custom prompt for Cmder on Windows
 - [Nostrademous/Dota2-FullOverwrite](https://github.com/Nostrademous/Dota2-FullOverwrite) - Work in progress for a full-overwrite Dota 2 bot framework
@@ -582,7 +582,6 @@
 ## PHP 
 
 - [IsThereAnyDeal/AugmentedSteam_Server](https://github.com/IsThereAnyDeal/AugmentedSteam_Server) - A PHP server application that powers the Enhanced Steam API
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [tattersoftware/codeigniter4-outbox](https://github.com/tattersoftware/codeigniter4-outbox) - Email toolkit for CodeIgniter 4
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
 - [lonnieezell/vulcan](https://github.com/lonnieezell/vulcan) - CLI tools for CodeIgniter 4
@@ -786,6 +785,7 @@
 
 ## Python 
 
+- [Avtera/DOTA-2-PATCHER](https://github.com/Avtera/DOTA-2-PATCHER) - An utility for visual mod.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [makman12/pywalQute](https://github.com/makman12/pywalQute) - a theme package for QuteBrowser that follows that colors of your background
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -808,6 +808,7 @@
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [ValvePython/vpk](https://github.com/ValvePython/vpk) - 📦 Open, Search, Extract and Create VPKs in python
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy.
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
@@ -854,7 +855,7 @@
 - [WuLC/GoogleImagesDownloader](https://github.com/WuLC/GoogleImagesDownloader) - Enlarge training dataset by searching images with specified keywords in google and download the presented images
 - [vani-or/haxball-ai](https://github.com/vani-or/haxball-ai) - Reinforcement Learning based bot for Haxball 1 vs 1 problem
 - [gurayops/gepp](https://github.com/gurayops/gepp) - Developer's Helper to Docker, Kubernetes, and Terraform. Fully automatic, without any config or question 🙌
-- [Instagram/Fixit](https://github.com/Instagram/Fixit) - Fixit is a Python Lint Framework based on LibCST. It comes with useful default lint rules for coding convention, performance and security issues. It makes custom lint rule easy to build, test and conf
+- [Instagram/Fixit](https://github.com/Instagram/Fixit) - Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.
 - [salt-bevy/salt-bevy](https://github.com/salt-bevy/salt-bevy) - A self-provisioning Salt Master with numerous example states for training or production use.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [cosme12/SimpleCoin](https://github.com/cosme12/SimpleCoin) - Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as educational material. In other words, a simple Bitcoin clone.
