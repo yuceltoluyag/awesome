@@ -236,6 +236,7 @@
 
 ## awesome 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
@@ -527,6 +528,7 @@
 
 ## dotnet 
 
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -734,7 +736,6 @@
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 - [codestudiohq/laravel-totem](https://github.com/codestudiohq/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [Bottelet/DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
@@ -1000,6 +1001,7 @@
 
 ## linux 
 
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
@@ -1163,6 +1165,7 @@
 - [TheHamkerCat/Telegram_VC_Bot](https://github.com/TheHamkerCat/Telegram_VC_Bot) - Telegram Voice Chat Bot Written In Python Using Pytgcalls & Pyrogram.
 - [jisungk/deepjazz](https://github.com/jisungk/deepjazz) - Deep learning driven jazz generation using Keras & Theano!
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
+- [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [bradleybauer/music_visualizer](https://github.com/bradleybauer/music_visualizer) - Shader viewer / music visualizer for Windows and Linux
@@ -1438,6 +1441,7 @@
 - [beyondcode/laravel-dump-server](https://github.com/beyondcode/laravel-dump-server) - Bring Symfony's Var-Dump Server to Laravel
 - [MehediDracula/stylist](https://github.com/MehediDracula/stylist) - 
 - [titoBouzout/Dictionaries](https://github.com/titoBouzout/Dictionaries) - Hunspell UTF8 dictionaries. These work with Sublime Text. [Spell check]
+- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [leuchte/bulma-autocomplete](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework
 - [tattersoftware/codeigniter4-assets](https://github.com/tattersoftware/codeigniter4-assets) - Asset handling for CodeIgniter 4
@@ -1460,7 +1464,6 @@
 - [Atterratio/obs-gphoto](https://github.com/Atterratio/obs-gphoto) - Allows connect DSLR cameras with obs-studio through gPhoto on Linux
 - [CatxFish/motion-effect](https://github.com/CatxFish/motion-effect) - obs-studio plugin for source item animation
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-- [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 - [scrumble-nl/laravel-csr](https://github.com/scrumble-nl/laravel-csr) - This package makes it possible to generate a controller, service, repository, model and migration all in 1 command
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
@@ -1716,7 +1719,7 @@
 - [dwisetiyadi/CodeIgniter-PHP-QR-Code](https://github.com/dwisetiyadi/CodeIgniter-PHP-QR-Code) - a PHP Library to create QR Code. This is a porting library for CodeIgniter Framework, original code from http://phpqrcode.sourceforge.net/.
 - [sonerusta/film](https://github.com/sonerusta/film) - Snrtr.com Film Scripti
 - [anilozmen/clean-code-php](https://github.com/anilozmen/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
-- [creio/dots](https://github.com/creio/dots) - Alex Creio dots
+- [creio/dots](https://github.com/creio/dots) - config
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [grassmunk/Platinum9](https://github.com/grassmunk/Platinum9) - Mac OS 9 Theme for Xubuntu
 - [FireEmerald/Settlers4-Widescreen-Tool](https://github.com/FireEmerald/Settlers4-Widescreen-Tool) - Unlocks resolutions up to Full HD in The Settlers 4 (Die Siedler 4)
@@ -1865,6 +1868,7 @@
 
 ## python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [Avtera/DOTA-2-PATCHER](https://github.com/Avtera/DOTA-2-PATCHER) - An utility for visual mod.
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -2251,6 +2255,7 @@
 
 ## windows 
 
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
