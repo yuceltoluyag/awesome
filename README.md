@@ -455,6 +455,7 @@
 
 ## Jupyter Notebook 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
@@ -787,7 +788,6 @@
 
 ## Python 
 
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [Avtera/DOTA-2-PATCHER](https://github.com/Avtera/DOTA-2-PATCHER) - An utility for visual mod.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1051,7 +1051,6 @@
 - [0ki/shellscripts](https://github.com/0ki/shellscripts) - Collection of random scripts that make my life in the Linux console way simpler
 - [SofianeHamlaoui/battery-notifications](https://github.com/SofianeHamlaoui/battery-notifications) - Battery State Notifications ( Indicator )
 - [SofianeHamlaoui/movetocorner](https://github.com/SofianeHamlaoui/movetocorner) - A Movetocorner script for tilling WMs window
-- [tam-carre/polywins](https://github.com/tam-carre/polywins) - A featureful and customizable taskbar for polybar.
 - [aroma1994/polybar-windows](https://github.com/aroma1994/polybar-windows) - A polybar script that shows opened windows on your current display. Click on window titles to switch between windows.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
