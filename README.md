@@ -314,6 +314,7 @@
 - [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [ssokurenko/lin.css](https://github.com/ssokurenko/lin.css) - Minimalistic CSS-only UI framework
+- [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
 - [yajra/laravel-datatables-demo](https://github.com/yajra/laravel-datatables-demo) - Laravel Datatables Package Demo App
 - [marcanuy/jekyll-multilanguage](https://github.com/marcanuy/jekyll-multilanguage) - A multilanguage Jekyll site without plugins
@@ -397,7 +398,6 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [Ondkloss/cg-candy-collector](https://github.com/Ondkloss/cg-candy-collector) - Automatically collects Coingecko candy
 - [atatanasov/gijgo](https://github.com/atatanasov/gijgo) - Gijgo - Free Javascript Controls
-- [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [vakata/jstree](https://github.com/vakata/jstree) - jquery tree plugin
