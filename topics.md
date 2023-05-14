@@ -434,6 +434,7 @@
 
 ## css 
 
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [numist/highlight-css](https://github.com/numist/highlight-css) - CSS files created from Pygments' and Rouge's built-in styles
 - [u1ui/base.css](https://github.com/u1ui/base.css) - ⏚ Usefull css defaults
 - [u1ui/norm.css](https://github.com/u1ui/norm.css) - CSS normalization for crossbrowser compatibility
@@ -997,6 +998,7 @@
 
 ## library 
 
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/Ki
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
@@ -1283,7 +1285,6 @@
 - [safing/portmaster-packaging](https://github.com/safing/portmaster-packaging) - Portmaster packages and installers
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [jeremyong/Selene](https://github.com/jeremyong/Selene) - Simple C++11 friendly header-only bindings to Lua
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
 - [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) - 
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
