@@ -698,7 +698,7 @@
 - [sineld/import-from-fluxbb-to-flarum](https://github.com/sineld/import-from-fluxbb-to-flarum) - import-from-fluxbb-to-flarum
 - [alprnkeskekoglu/curse](https://github.com/alprnkeskekoglu/curse) - Laravel projeler için küfür filtresi
 - [orhanmusellim/Codeigniter-With-Eloquent](https://github.com/orhanmusellim/Codeigniter-With-Eloquent) - With the Eloquent database library, you can make your codeigniter model operations easier
-- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [FabianBeiner/PHP-IMDB-Grabber](https://github.com/FabianBeiner/PHP-IMDB-Grabber) - This PHP library enables you to scrape data from IMDB.com.
 - [natanfelles/codeigniter-phpstorm](https://github.com/natanfelles/codeigniter-phpstorm) - PhpStorm Code Completion for CodeIgniter 3
@@ -788,6 +788,7 @@
 
 ## Python 
 
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [Avtera/DOTA-2-PATCHER](https://github.com/Avtera/DOTA-2-PATCHER) - An utility for visual mod.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -813,7 +814,7 @@
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [ValvePython/vpk](https://github.com/ValvePython/vpk) - 📦 Open, Search, Extract and Create VPKs in python
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [drov0/python-imagesearch](https://github.com/drov0/python-imagesearch) - A wrapper around opencv2 and pyautogui to do image searching easily.
@@ -1025,6 +1026,8 @@
 
 ## Shell 
 
+- [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
+- [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
 - [zeroruka/video-wallpaper-scripts](https://github.com/zeroruka/video-wallpaper-scripts) - Some scripts to use video wallpapers on linux
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [Jorman/Scripts](https://github.com/Jorman/Scripts) - Some script, forked and not to make me crazy!
