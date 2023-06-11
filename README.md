@@ -70,7 +70,7 @@
 
 ## Batchfile 
 
-- [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts for Adblockers
+- [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [Jackpison/IDM-reset](https://github.com/Jackpison/IDM-reset) - IDM Trail Reset Help
@@ -141,6 +141,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [TCNOco/TcNo-Mass-Steam-Idler](https://github.com/TCNOco/TcNo-Mass-Steam-Idler) - Quickly emulate launching games from a list, for given seconds each.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -212,6 +213,7 @@
 
 ## CSS 
 
+- [pathtrk/ariake-dark-syntax](https://github.com/pathtrk/ariake-dark-syntax) - Atom dark syntax with traditional Japan colors.
 - [numist/highlight-css](https://github.com/numist/highlight-css) - CSS files created from Pygments' and Rouge's built-in styles
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [Dyzean/Simplify](https://github.com/Dyzean/Simplify) - simple clean looking theme
@@ -283,7 +285,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [usrbinsam/jwt-key-server](https://github.com/usrbinsam/jwt-key-server) - JWT based remote licensing server.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
@@ -311,10 +313,9 @@
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [kannansuresh/jekyll-blog-archive-workflow](https://github.com/kannansuresh/jekyll-blog-archive-workflow) - Jekyll Archives workflow action. This action brings archive feature to Jekyll blogs hosted on GitHub pages.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
-- [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Let Python optimize the best stop loss and take profits for your TradingView strategy.
+- [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Embark on a trading journey with this project's cutting-edge stop loss/take profit generator, fine-tuning your TradingView strategy to perfection. Harness the power of sklearn's machine learning algor
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [ssokurenko/lin.css](https://github.com/ssokurenko/lin.css) - Minimalistic CSS-only UI framework
-- [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
 - [yajra/laravel-datatables-demo](https://github.com/yajra/laravel-datatables-demo) - Laravel Datatables Package Demo App
 - [marcanuy/jekyll-multilanguage](https://github.com/marcanuy/jekyll-multilanguage) - A multilanguage Jekyll site without plugins
@@ -395,10 +396,12 @@
 - [typekit/webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
 - [Stanko/window-scroll-manager](https://github.com/Stanko/window-scroll-manager) - 60fps window scroll tracking event
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [Ondkloss/cg-candy-collector](https://github.com/Ondkloss/cg-candy-collector) - Automatically collects Coingecko candy
 - [atatanasov/gijgo](https://github.com/atatanasov/gijgo) - Gijgo - Free Javascript Controls
+- [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [vakata/jstree](https://github.com/vakata/jstree) - jquery tree plugin
@@ -560,7 +563,7 @@
 - [CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc) - Documentation for Crossref's REST API. For questions or suggestions, see https://community.crossref.org/
 - [deeplearningturkiye/turkce-yapay-zeka-kaynaklari](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari) - Türkiye'de yapılan derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) çalışmalarının derlendiği sayfa.
 - [wsdfhjxc/xfce-patches](https://github.com/wsdfhjxc/xfce-patches) - Some patches for Xfce's components
-- [eserozvataf/vscode-one-dark-pro-monokai-darker](https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker) - A Darker One Dark Pro variation with Monokai scheme
+- [eser/vscode-one-dark-pro-monokai-darker](https://github.com/eser/vscode-one-dark-pro-monokai-darker) - A Darker One Dark Pro variation with Monokai scheme
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [deviantfero/wpgtk-colorschemes](https://github.com/deviantfero/wpgtk-colorschemes) - :earth_americas: A community driven repository to submit and share colorschemes for wpgtk
 - [wstam88/rofi-emoji-lists](https://github.com/wstam88/rofi-emoji-lists) - Emoji list for rofi  🌈🍄🦄🐟🐺
@@ -788,6 +791,7 @@
 
 ## Python 
 
+- [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -822,7 +826,7 @@
 - [ardamavi/Game-Bot](https://github.com/ardamavi/Game-Bot) - Artificial intelligence learn playing any game with watching you.
 - [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor
 - [A-PS1999/seo-research-assistant-project](https://github.com/A-PS1999/seo-research-assistant-project) - My first project, aiming to create a program that can help with SEO keyword research by carrying out a number of tasks and analyses.
-- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Cryptocurrency trading bot using technical analysis based strategy with an advanced web interface
+- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
 - [Wanderson-Magalhaes/PyBlackBox_Qt_Widgets_PySide6_Or_PyQt6_v1.0.0](https://github.com/Wanderson-Magalhaes/PyBlackBox_Qt_Widgets_PySide6_Or_PyQt6_v1.0.0) - 
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
@@ -1063,7 +1067,7 @@
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [dylanaraps/torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
-- [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - 
+- [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - A small collection of conky configs
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [eendroroy/alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
 - [nelsonaloysio/AUR_bash](https://github.com/nelsonaloysio/AUR_bash) - Bash script to interact with the Arch User Repository (AUR)
@@ -1139,7 +1143,6 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
 - [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) - The default Dark+ theme, using Material's color palette.
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [raftheunis87/order-alert-bot](https://github.com/raftheunis87/order-alert-bot) - Get Telegram notifications if orders are filled. Currently compatible with FTX Exchange.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
