@@ -950,7 +950,7 @@
 - [milon/barcode](https://github.com/milon/barcode) - Laravel Barcode Generator
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [ben182/laravel-auto-translate](https://github.com/ben182/laravel-auto-translate) - Automatically translate your language files using a translator service
-- [cviebrock/laravel-elasticsearch](https://github.com/cviebrock/laravel-elasticsearch) - An easy way to use the official Elastic Search client in your Laravel applications.
+- [mailerlite/laravel-elasticsearch](https://github.com/mailerlite/laravel-elasticsearch) - An easy way to use the official Elastic Search client in your Laravel applications.
 - [rashidlaasri/LaravelInstaller](https://github.com/rashidlaasri/LaravelInstaller) - A web installer for Laravel
 - [blade-ui-kit/blade-icons](https://github.com/blade-ui-kit/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
 - [codeat3/blade-zondicons](https://github.com/codeat3/blade-zondicons) - A package to easily make use of Zondicons in your Laravel Blade views.
@@ -1282,6 +1282,7 @@
 
 ## others 
 
+- [eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S](https://github.com/eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S) - A custom kernel for the Exynos7885 (2019) chipset based on Android 10/11/12. Currently supports A10, A20, A20e, A30, A30s and A40. This is the new source for Eureka Kernel.
 - [pathtrk/ariake-dark-syntax](https://github.com/pathtrk/ariake-dark-syntax) - Atom dark syntax with traditional Japan colors.
 - [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
@@ -1802,7 +1803,7 @@
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [ben182/laravel-auto-translate](https://github.com/ben182/laravel-auto-translate) - Automatically translate your language files using a translator service
-- [cviebrock/laravel-elasticsearch](https://github.com/cviebrock/laravel-elasticsearch) - An easy way to use the official Elastic Search client in your Laravel applications.
+- [mailerlite/laravel-elasticsearch](https://github.com/mailerlite/laravel-elasticsearch) - An easy way to use the official Elastic Search client in your Laravel applications.
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function
@@ -2277,6 +2278,7 @@
 
 ## web 
 
+- [alibaba/web-editor](https://github.com/alibaba/web-editor) - web editor for atx
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Bogdanp/molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 
