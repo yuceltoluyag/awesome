@@ -13,6 +13,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -85,7 +86,7 @@
 
 ## C 
 
-- [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
+- [eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S](https://github.com/eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S) - A custom kernel for the Exynos7885 (2019) chipset based on Android 10/11/12. Currently supports A10, A20, A20e, A30, A30s and A40. This is the new source for Eureka Kernel.
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
@@ -210,6 +211,10 @@
 - [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
 - [ChipFrickVi/dotfiles](https://github.com/ChipFrickVi/dotfiles) - 
 - [bazukas/obs-qtwebkit](https://github.com/bazukas/obs-qtwebkit) - browser plugin for obs-studio
+
+## CMake 
+
+- [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
 
 ## CSS 
 
@@ -359,6 +364,7 @@
 
 ## JavaScript 
 
+- [alibaba/web-editor](https://github.com/alibaba/web-editor) - web editor for atx
 - [TheWisker/Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
@@ -626,7 +632,7 @@
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [ben182/laravel-auto-translate](https://github.com/ben182/laravel-auto-translate) - Automatically translate your language files using a translator service
 - [scrumble-nl/laravel-csr](https://github.com/scrumble-nl/laravel-csr) - This package makes it possible to generate a controller, service, repository, model and migration all in 1 command
-- [cviebrock/laravel-elasticsearch](https://github.com/cviebrock/laravel-elasticsearch) - An easy way to use the official Elastic Search client in your Laravel applications.
+- [mailerlite/laravel-elasticsearch](https://github.com/mailerlite/laravel-elasticsearch) - An easy way to use the official Elastic Search client in your Laravel applications.
 - [rashidlaasri/LaravelInstaller](https://github.com/rashidlaasri/LaravelInstaller) - A web installer for Laravel
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [blade-ui-kit/blade-icons](https://github.com/blade-ui-kit/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
@@ -801,6 +807,7 @@
 - [makman12/pywalQute](https://github.com/makman12/pywalQute) - a theme package for QuteBrowser that follows that colors of your background
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [MeteHanC/turkishnlp](https://github.com/MeteHanC/turkishnlp) - Very early version of the TurkishNLP. For now it has basically 5 main functions; Detecting Turkish Language, syllabicating words, vowel harmony detection, Turkish origin detection and correcting typos
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
@@ -1038,7 +1045,6 @@
 - [Jorman/Scripts](https://github.com/Jorman/Scripts) - Some script, forked and not to make me crazy!
 - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
 - [safing/portmaster-packaging](https://github.com/safing/portmaster-packaging) - Portmaster packages and installers
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [maximbaz/rebuild-detector](https://github.com/maximbaz/rebuild-detector) - Detects which Arch Linux packages need to be rebuilt
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
