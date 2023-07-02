@@ -66,6 +66,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -648,6 +649,11 @@
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
+## gamedev 
+
+- [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
 ## git 
 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
@@ -779,7 +785,6 @@
 - [MartinSeeler/iterm2-material-design](https://github.com/MartinSeeler/iterm2-material-design) - A theme / color scheme for iTerm2 based on Google's Material Design Color Palette
 - [AlfredoSequeida/venus](https://github.com/AlfredoSequeida/venus) - Venus aims to be a cross-platform tool to automatically change your desktop wallpaper to something random using images from Unsplash.
 - [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measure
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1284,6 +1289,8 @@
 
 ## others 
 
+- [Shuzhengz/TPFanCtrl2](https://github.com/Shuzhengz/TPFanCtrl2) - ThinkPad Fan Control 2 (Dual Fan) for Windows 10 and 11
+- [CadeEvs/FrostyToolsuite](https://github.com/CadeEvs/FrostyToolsuite) - 
 - [mayob/Grand-Theft-Auto-Vice-City-Turkce-Dil-Paketi-2020](https://github.com/mayob/Grand-Theft-Auto-Vice-City-Turkce-Dil-Paketi-2020) - Grand Theft Auto: Vice City'nin ilk ve tek profesyonel dil paketidir. İyi oyunlar.
 - [eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S](https://github.com/eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S) - A custom kernel for the Exynos7885 (2019) chipset based on Android 10/11/12. Currently supports A10, A20, A20e, A30, A30s and A40. This is the new source for Eureka Kernel.
 - [pathtrk/ariake-dark-syntax](https://github.com/pathtrk/ariake-dark-syntax) - Atom dark syntax with traditional Japan colors.
