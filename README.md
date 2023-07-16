@@ -142,6 +142,7 @@
 
 ## C# # 
 
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [CadeEvs/FrostyToolsuite](https://github.com/CadeEvs/FrostyToolsuite) - 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
@@ -1042,6 +1043,8 @@
 
 ## Shell 
 
+- [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
+- [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
 - [zeroruka/video-wallpaper-scripts](https://github.com/zeroruka/video-wallpaper-scripts) - Some scripts to use video wallpapers on linux
