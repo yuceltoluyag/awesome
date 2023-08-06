@@ -623,7 +623,7 @@
 - [spatie/flysystem-dropbox](https://github.com/spatie/flysystem-dropbox) - A flysystem driver for Dropbox that uses the v2 API
 - [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 - [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
-- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10
 - [eduarguz/shift-php-cs](https://github.com/eduarguz/shift-php-cs) - Laravel Shift recommended style config
 - [Bottelet/DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
 - [pgrimaud/instagram-user-feed](https://github.com/pgrimaud/instagram-user-feed) - This is a scrapper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.
@@ -661,7 +661,7 @@
 - [erenmustafaozdal/turkey-address-bank](https://github.com/erenmustafaozdal/turkey-address-bank) - Laravel seed class and SQL file address of the Turkey
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [cybercog/laravel-paket](https://github.com/cybercog/laravel-paket) - Composer GUI. Manage Laravel dependencies from web interface without switching to command line!
-- [tarfin-labs/netgsm](https://github.com/tarfin-labs/netgsm) - netgsm sms package for laravel 6.x, 7.x, 8.x and 9.x
+- [tarfin-labs/netgsm](https://github.com/tarfin-labs/netgsm) - netgsm sms package for laravel 8.x, 9.x and 10.x
 - [miracsengonul/json_storage](https://github.com/miracsengonul/json_storage) - API Based JSON Storage
 - [TheWebFosters/project-camp](https://github.com/TheWebFosters/project-camp) - Open source Project Management, CRM, Support & Invoicing application. Developed using Laravel PHP framework, Vuetify VueJS
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5|6|7|8|9|10
@@ -797,7 +797,7 @@
 
 - [Bttstrp/bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch) - Turn checkboxes and radio buttons in toggle switches.
 - [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
-- [pratikborsadiya/vali-admin](https://github.com/pratikborsadiya/vali-admin) - Free Bootstrap 4 admin/dashboard template
+- [pratikborsadiya/vali-admin](https://github.com/pratikborsadiya/vali-admin) - Free Bootstrap 5 admin/dashboard template
 
 ## Python 
 
