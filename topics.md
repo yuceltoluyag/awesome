@@ -1003,7 +1003,7 @@
 - [mateusjunges/laravel-acl](https://github.com/mateusjunges/laravel-acl) - This package helps you to associate users with permissions and permission groups with laravel framework
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
-- [shopperlabs/shopper](https://github.com/shopperlabs/shopper) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
+- [shopperlabs/shopper-react](https://github.com/shopperlabs/shopper-react) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 - [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel 10, 9, 8, 7, 6, 5 ve 4 için Mutlucell SMS Kütüphanesi
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -1067,7 +1067,7 @@
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
-- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations.
@@ -1705,7 +1705,7 @@
 - [superjamie/snippets](https://github.com/superjamie/snippets) - Snippets of code which may or may not be useful.
 - [FabianBeiner/PHP-IMDB-Grabber](https://github.com/FabianBeiner/PHP-IMDB-Grabber) - This PHP library enables you to scrape data from IMDB.com.
 - [canavci2016/shopier](https://github.com/canavci2016/shopier) - Shopier api ile ödeme yapma
-- [ozkanonur/vscode-deepdark-material](https://github.com/ozkanonur/vscode-deepdark-material) - A clean dark material theme for Visual Studio Code Editor
+- [onur-ozkan/vscode-deepdark-material](https://github.com/onur-ozkan/vscode-deepdark-material) - A clean dark material theme for Visual Studio Code Editor
 - [chuyskywalker/rolling-curl](https://github.com/chuyskywalker/rolling-curl) - Rolling-Curl: A non-blocking, non-dos multi-curl library for PHP
 - [mmervecerit/Mini-DOTA](https://github.com/mmervecerit/Mini-DOTA) - A Quick DOTA game written in Smalltalk using Pharo
 - [sineld/money](https://github.com/sineld/money) - A PHP library to make working with money easier
@@ -1862,7 +1862,7 @@
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
-- [shopperlabs/shopper](https://github.com/shopperlabs/shopper) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
+- [shopperlabs/shopper-react](https://github.com/shopperlabs/shopper-react) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
 - [moneyphp/money](https://github.com/moneyphp/money) - PHP implementation of Fowler's Money pattern.
 - [KhidirDotID/stisla-codeigniter](https://github.com/KhidirDotID/stisla-codeigniter) - Free Bootstrap Admin Template for CodeIgniter
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
@@ -1877,7 +1877,7 @@
 - [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) - Effective tree structures in Laravel 4-8
 - [marcelgsantos/learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
 - [anilozmen/Laravel-ECommerce-Iyzico](https://github.com/anilozmen/Laravel-ECommerce-Iyzico) - Iyzico intigrated e-Commerce system that could be developed easily in simple level.
-- [arrrray/pd-admin](https://github.com/arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
+- [cesurapp/pd-admin](https://github.com/cesurapp/pd-admin) - Powerful Admin Dashboard for Symfony 5
 
 ## pico-8 
 
@@ -2044,7 +2044,7 @@
 - [ademilter/feyz](https://github.com/ademilter/feyz) - Kafa açan içerikler
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [shopperlabs/shopper](https://github.com/shopperlabs/shopper) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
+- [shopperlabs/shopper-react](https://github.com/shopperlabs/shopper-react) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
 - [borela/naomi](https://github.com/borela/naomi) - Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config fil
 
 ## react-native 
@@ -2053,7 +2053,7 @@
 
 ## reactjs 
 
-- [shopperlabs/shopper](https://github.com/shopperlabs/shopper) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
+- [shopperlabs/shopper-react](https://github.com/shopperlabs/shopper-react) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
 - [borela/naomi](https://github.com/borela/naomi) - Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config fil
 - [PunitGr/QuickBill](https://github.com/PunitGr/QuickBill) - Create unlimited invoices for free.
 
@@ -2159,7 +2159,7 @@
 ## symfony 
 
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
-- [arrrray/pd-admin](https://github.com/arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
+- [cesurapp/pd-admin](https://github.com/cesurapp/pd-admin) - Powerful Admin Dashboard for Symfony 5
 
 ## telegram 
 
@@ -2230,7 +2230,7 @@
 - [utkuufuk/ubuntu-on-steroids](https://github.com/utkuufuk/ubuntu-on-steroids) - Developer setup & configuration guide for Ubuntu
 - [marinov98/dotfiles](https://github.com/marinov98/dotfiles) - All my configurations. Take a look! :blush:
 - [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
-- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [adi1090x/battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) - Simple bash script to set wallpaper according to battery percentage with charging animations.
 - [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
