@@ -83,7 +83,7 @@
 - [xpersonas/laravel-styleguide](https://github.com/xpersonas/laravel-styleguide) - Styleguide for Laravel project development.
 - [laravel-frontend-presets/tailwindcss](https://github.com/laravel-frontend-presets/tailwindcss) - A Tailwind CSS frontend preset for the Laravel Framework
 - [Miaababikir/laravel-tailwind-css-dashboard-preset](https://github.com/Miaababikir/laravel-tailwind-css-dashboard-preset) - :fire:Dashboard preset using tailwindcss that support RTL out of the box
-- [shopperlabs/shopper](https://github.com/shopperlabs/shopper) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
+- [shopperlabs/shopper-react](https://github.com/shopperlabs/shopper-react) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
 
 ## C 
 
@@ -576,7 +576,7 @@
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [deviantfero/wpgtk-colorschemes](https://github.com/deviantfero/wpgtk-colorschemes) - :earth_americas: A community driven repository to submit and share colorschemes for wpgtk
 - [wstam88/rofi-emoji-lists](https://github.com/wstam88/rofi-emoji-lists) - Emoji list for rofi  🌈🍄🦄🐟🐺
-- [ozkanonur/vscode-deepdark-material](https://github.com/ozkanonur/vscode-deepdark-material) - A clean dark material theme for Visual Studio Code Editor
+- [onur-ozkan/vscode-deepdark-material](https://github.com/onur-ozkan/vscode-deepdark-material) - A clean dark material theme for Visual Studio Code Editor
 - [pouyadarabi/Instagram_SSL_Pinning](https://github.com/pouyadarabi/Instagram_SSL_Pinning) - Bypassing SSL Pinning in Instagram Android App
 - [asilbalaban/Developer-Bloglari](https://github.com/asilbalaban/Developer-Bloglari) - Sizin takip ettiğiniz veya kendi blogunuz varsa pull request gönderin lütfen.
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
@@ -766,7 +766,7 @@
 - [anilozmen/Laravel-ECommerce-Iyzico](https://github.com/anilozmen/Laravel-ECommerce-Iyzico) - Iyzico intigrated e-Commerce system that could be developed easily in simple level.
 - [sonerusta/film](https://github.com/sonerusta/film) - Snrtr.com Film Scripti
 - [anilozmen/clean-code-php](https://github.com/anilozmen/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
-- [arrrray/pd-admin](https://github.com/arrrray/pd-admin) - Powerful Admin Dashboard for Symfony 5
+- [cesurapp/pd-admin](https://github.com/cesurapp/pd-admin) - Powerful Admin Dashboard for Symfony 5
 - [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 
 ## PLpgSQL 
@@ -1079,7 +1079,7 @@
 - [Liupold/pidswallow](https://github.com/Liupold/pidswallow) - A swallower script using process hierarchy.
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [dylanaraps/torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
-- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80+) of plymouth themes ported from android bootanimations
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - A small collection of conky configs
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [eendroroy/alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
