@@ -390,6 +390,7 @@
 - [LoLei/razer-cli](https://github.com/LoLei/razer-cli) - CLI for configuring Razer devices
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
 - [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
+- [YodaEmbedding/frece](https://github.com/YodaEmbedding/frece) - Maintain a database sorted by frecency (frequency + recency)
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 
 ## code 
@@ -1295,6 +1296,7 @@
 
 ## others 
 
+- [dmajkic/redis](https://github.com/dmajkic/redis) - Redis key-value store (Win32 / Win64 port)
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
@@ -1304,7 +1306,7 @@
 - [eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S](https://github.com/eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S) - A custom kernel for the Exynos7885 (2019) chipset based on Android 10/11/12. Currently supports A10, A20, A20e, A30, A30s and A40. This is the new source for Eureka Kernel.
 - [pathtrk/ariake-dark-syntax](https://github.com/pathtrk/ariake-dark-syntax) - Atom dark syntax with traditional Japan colors.
 - [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1354,7 +1356,7 @@
 - [dlinbernard/webrtc-control](https://github.com/dlinbernard/webrtc-control) - A multi-browser addon that enables you to have control over WebRTC and protects your IP address.
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [anoopmsivadas/Cyberpunk-GRUB-Theme](https://github.com/anoopmsivadas/Cyberpunk-GRUB-Theme) - [MIRROR] Cyberpunk 2077 inspired GRUB/GRUB2 Theme
-- [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2023
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2023
 - [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
@@ -1700,7 +1702,6 @@
 - [tommyku/start-page-bios](https://github.com/tommyku/start-page-bios) - A browser start page that looks like BIOS screen, with arrow key navigation
 - [regnarg/urxvt-config-reload](https://github.com/regnarg/urxvt-config-reload) - 
 - [Nuklon/Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
-- [YodaEmbedding/frece](https://github.com/YodaEmbedding/frece) - Maintain a database sorted by frecency (frequency + recency)
 - [Ashark/archlinux-amdgpu-pro](https://github.com/Ashark/archlinux-amdgpu-pro) - Radeon Software for Linux (AMDGPU PRO) PKGBUILD generator for ArchLinux AUR
 - [superjamie/snippets](https://github.com/superjamie/snippets) - Snippets of code which may or may not be useful.
 - [FabianBeiner/PHP-IMDB-Grabber](https://github.com/FabianBeiner/PHP-IMDB-Grabber) - This PHP library enables you to scrape data from IMDB.com.
