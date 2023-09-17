@@ -805,7 +805,7 @@
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [Avtera/DOTA-2-PATCHER](https://github.com/Avtera/DOTA-2-PATCHER) - An utility for visual mod.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -1201,7 +1201,7 @@
 - [amacgregor/dot-files](https://github.com/amacgregor/dot-files) - Dotfiles repository
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [jessfraz/.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
 
 ## Visual Basic .NET 
