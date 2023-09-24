@@ -1662,7 +1662,7 @@
 - [M4cs/dotfiles](https://github.com/M4cs/dotfiles) - Dotfiles for macOS
 - [okraits/j4-make-config](https://github.com/okraits/j4-make-config) - Universal theme switcher and config generator for the i3 wm
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
-- [gnaqvi/dotfiles](https://github.com/gnaqvi/dotfiles) - Templatable dotfiles for my current Arch Linux setup using bspwm tiling windows manager
+- [gnaqvi/dotfiles](https://github.com/gnaqvi/dotfiles) - Templatable dotfiles for my current Arch Linux setup using bspwm tiling window manager
 - [privatemajory/dots](https://github.com/privatemajory/dots) - A repository for my Linux dotfiles
 - [mut-ex/my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 - [empatisoft/adresler](https://github.com/empatisoft/adresler) - Adres Kayıt Sistemi
@@ -1726,7 +1726,6 @@
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [anvoz/CodeIgniter-Skeleton](https://github.com/anvoz/CodeIgniter-Skeleton) - A decent starter for most web apps. Includes HMVC, jQuery, Bootstrap, Bootstrap TLDR, Ajax and Template libraries. Unit tests with PHPUnit and vfsStream.
 - [Ximi1970/FireTray](https://github.com/Ximi1970/FireTray) - Thunderbird 60 tray icon for Linux and Windows (js-ctypes version of Firetray)
-- [mburakdndr/itiraf-scripti](https://github.com/mburakdndr/itiraf-scripti) - Codeigniter İtiraf Scripti
 - [seikan/RandomUserAgent](https://github.com/seikan/RandomUserAgent) - Randomly generate browser user agent that looks valid.
 - [seikan/Page](https://github.com/seikan/Page) - A collection of useful page functions for PHP web application.
 - [seikan/Mailer](https://github.com/seikan/Mailer) - A very simple PHP SMTP email client.
