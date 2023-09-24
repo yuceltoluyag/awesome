@@ -731,7 +731,6 @@
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 - [benedmunds/CodeIgniter-Ion-Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System for CodeIgniter
 - [anvoz/CodeIgniter-Skeleton](https://github.com/anvoz/CodeIgniter-Skeleton) - A decent starter for most web apps. Includes HMVC, jQuery, Bootstrap, Bootstrap TLDR, Ajax and Template libraries. Unit tests with PHPUnit and vfsStream.
-- [mburakdndr/itiraf-scripti](https://github.com/mburakdndr/itiraf-scripti) - Codeigniter İtiraf Scripti
 - [seikan/RandomUserAgent](https://github.com/seikan/RandomUserAgent) - Randomly generate browser user agent that looks valid.
 - [seikan/Page](https://github.com/seikan/Page) - A collection of useful page functions for PHP web application.
 - [seikan/Mailer](https://github.com/seikan/Mailer) - A very simple PHP SMTP email client.
@@ -1113,7 +1112,7 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [M4cs/dotfiles](https://github.com/M4cs/dotfiles) - Dotfiles for macOS
-- [gnaqvi/dotfiles](https://github.com/gnaqvi/dotfiles) - Templatable dotfiles for my current Arch Linux setup using bspwm tiling windows manager
+- [gnaqvi/dotfiles](https://github.com/gnaqvi/dotfiles) - Templatable dotfiles for my current Arch Linux setup using bspwm tiling window manager
 - [privatemajory/dots](https://github.com/privatemajory/dots) - A repository for my Linux dotfiles
 - [zoefiri/mpdvis](https://github.com/zoefiri/mpdvis) - An album art displayer for mpd
 - [haideralipunjabi/polybar-kdeconnect](https://github.com/haideralipunjabi/polybar-kdeconnect) - KDEConnect module for Polybar
