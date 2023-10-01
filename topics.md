@@ -194,6 +194,7 @@
 
 ## android 
 
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
 - [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -605,6 +606,7 @@
 
 ## flutter 
 
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 
 ## font 
@@ -778,6 +780,7 @@
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [FilipLitwora/pywal-discord](https://github.com/FilipLitwora/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5|6|7|8|9|10
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
@@ -1297,6 +1300,9 @@
 
 ## others 
 
+- [nikgapps/project](https://github.com/nikgapps/project) - 
+- [corsicanu/hKtweaks](https://github.com/corsicanu/hKtweaks) - Fork of MTweaks with compatibility added for more exynos devices + other goodies
+- [BiTGApps/source](https://github.com/BiTGApps/source) - 
 - [master131/ExtremeInjector](https://github.com/master131/ExtremeInjector) - 
 - [dmajkic/redis](https://github.com/dmajkic/redis) - Redis key-value store (Win32 / Win64 port)
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
