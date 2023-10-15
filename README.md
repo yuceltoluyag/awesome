@@ -224,6 +224,7 @@
 
 ## CSS 
 
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 - [pathtrk/ariake-dark-syntax](https://github.com/pathtrk/ariake-dark-syntax) - Atom dark syntax with traditional Japan colors.
 - [numist/highlight-css](https://github.com/numist/highlight-css) - CSS files created from Pygments' and Rouge's built-in styles
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
@@ -583,7 +584,6 @@
 - [RoverWire/codeigniter-utilities](https://github.com/RoverWire/codeigniter-utilities) - CodeIgniter utilities and library snippets for Sublime Text Editor
 - [CrossRef/rest-api-doc](https://github.com/CrossRef/rest-api-doc) - Documentation for Crossref's REST API. For questions or suggestions, see https://community.crossref.org/
 - [deeplearningturkiye/turkce-yapay-zeka-kaynaklari](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari) - Türkiye'de yapılan derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) çalışmalarının derlendiği sayfa.
-- [wsdfhjxc/xfce-patches](https://github.com/wsdfhjxc/xfce-patches) - Some patches for Xfce's components
 - [eser/vscode-one-dark-pro-monokai-darker](https://github.com/eser/vscode-one-dark-pro-monokai-darker) - A Darker One Dark Pro variation with Monokai scheme
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [deviantfero/wpgtk-colorschemes](https://github.com/deviantfero/wpgtk-colorschemes) - :earth_americas: A community driven repository to submit and share colorschemes for wpgtk
@@ -812,6 +812,7 @@
 
 ## Python 
 
+- [Kynomi/SD2MC](https://github.com/Kynomi/SD2MC) - It is a tool for create simple mods
 - [nikgapps/project](https://github.com/nikgapps/project) - 
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
