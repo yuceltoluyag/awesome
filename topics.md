@@ -106,6 +106,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -450,6 +451,7 @@
 
 ## css 
 
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 - [numist/highlight-css](https://github.com/numist/highlight-css) - CSS files created from Pygments' and Rouge's built-in styles
 - [u1ui/base.css](https://github.com/u1ui/base.css) - ⏚ Usefull css defaults
@@ -508,6 +510,7 @@
 
 ## design 
 
+- [KhamisiKibet/QT-PyQt-PySide-Custom-Widgets](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets) - Awesome custom widgets made for QT Desktop Applications. Simplify your UI development process. These widgets can be used in QT Designer then imported to PySide code.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## devops 
@@ -1191,6 +1194,10 @@
 - [MartinSeeler/iterm2-material-design](https://github.com/MartinSeeler/iterm2-material-design) - A theme / color scheme for iTerm2 based on Google's Material Design Color Palette
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 
+## minecraft 
+
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
+
 ## mobile 
 
 - [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
@@ -1310,6 +1317,7 @@
 
 ## others 
 
+- [Kynomi/SD2MC](https://github.com/Kynomi/SD2MC) - It is a tool for create simple mods
 - [dotabuff/manta](https://github.com/dotabuff/manta) - Dotabuff's Dota 2 Source 2 Replay Parser in Go
 - [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) - Gruvbox Plus icon pack for Linux desktops based on Gruvbox color theme.
 - [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses) - GPL licenced Android Expense Tracking App
@@ -1350,7 +1358,6 @@
 - [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) - 
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [TCNOco/TcNo-Mass-Steam-Idler](https://github.com/TCNOco/TcNo-Mass-Steam-Idler) - Quickly emulate launching games from a list, for given seconds each.
 - [IsThereAnyDeal/AugmentedSteam_Server](https://github.com/IsThereAnyDeal/AugmentedSteam_Server) - A PHP server application that powers the Enhanced Steam API
 - [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam) - Augments your Steam Experience
@@ -1368,7 +1375,6 @@
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes
 - [werman/noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
 - [AlphaNecron/lightdm-evo](https://github.com/AlphaNecron/lightdm-evo) - A modern theme for LightDM WebKit2.
-- [KhamisiKibet/QT-PyQt-PySide-Custom-Widgets](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets) - Awesome custom widgets made for QT Desktop Applications. Simplify your UI development process. These widgets can be used in QT Designer then imported to PySide code.
 - [intel/thermal_daemon](https://github.com/intel/thermal_daemon) - Thermal daemon for IA
 - [robbyz512/dota2-minify](https://github.com/robbyz512/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
@@ -1697,7 +1703,6 @@
 - [sineld/import-from-fluxbb-to-flarum](https://github.com/sineld/import-from-fluxbb-to-flarum) - import-from-fluxbb-to-flarum
 - [RasmusLindroth/i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
 - [Chimrod/i3_workspaces](https://github.com/Chimrod/i3_workspaces) - Workspace manager for i3-wm
-- [wsdfhjxc/xfce-patches](https://github.com/wsdfhjxc/xfce-patches) - Some patches for Xfce's components
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
 - [dcx86r/cmus-notify](https://github.com/dcx86r/cmus-notify) - Configurable cmus status desktop notifications via notify-send
 - [Lullabot/lmm](https://github.com/Lullabot/lmm) - A set of scripts for branching and switching active MySQL databases using LVM.
@@ -2048,6 +2053,7 @@
 
 ## qt 
 
+- [KhamisiKibet/QT-PyQt-PySide-Custom-Widgets](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets) - Awesome custom widgets made for QT Desktop Applications. Simplify your UI development process. These widgets can be used in QT Designer then imported to PySide code.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 
 ## raspberry-pi 
