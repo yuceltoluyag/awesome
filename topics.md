@@ -196,6 +196,7 @@
 
 ## android 
 
+- [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) - An application using the power of Magisk to debloat unwanted system apps!
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
@@ -520,6 +521,7 @@
 
 ## discord 
 
+- [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP) - Give yourself a Custom Rich Presence in Discord.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [guglicap/wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
@@ -757,6 +759,7 @@
 ## hacktoberfest 
 
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -772,7 +775,6 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -1314,6 +1316,7 @@
 
 ## opencv 
 
+- [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
 - [bijection/sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 
 ## opengl 
@@ -1330,6 +1333,8 @@
 
 ## others 
 
+- [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
+- [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 - [gvansickle/ucg](https://github.com/gvansickle/ucg) - UniversalCodeGrep (ucg) is an extremely fast grep-like tool specialized for searching large bodies of source code.
 - [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [sandsmark/qeh](https://github.com/sandsmark/qeh) - feh, but better
@@ -1352,7 +1357,7 @@
 - [eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S](https://github.com/eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S) - A custom kernel for the Exynos7885 (2019) chipset based on Android 10/11/12. Currently supports A10, A20, A20e, A30, A30s and A40. This is the new source for Eureka Kernel.
 - [pathtrk/ariake-dark-syntax](https://github.com/pathtrk/ariake-dark-syntax) - Atom dark syntax with traditional Japan colors.
 - [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1957,6 +1962,7 @@
 
 ## python 
 
+- [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [Avtera/DOTA-2-PATCHER](https://github.com/Avtera/DOTA-2-PATCHER) - An utility for visual mod.
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
