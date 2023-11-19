@@ -154,6 +154,7 @@
 - [shell](#shell)
 - [software](#software)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [sublime-text](#sublime-text)
 - [symfony](#symfony)
 - [telegram](#telegram)
@@ -443,6 +444,7 @@
 
 ## csharp 
 
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
@@ -911,7 +913,6 @@
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
-- [sistematico/php-mvc-ajax](https://github.com/sistematico/php-mvc-ajax) - PHP CRUD using MVC(Model-View-Controller) example with SQLite as Database(ajax version)
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - jQuery Validation Plugin library sources
@@ -944,7 +945,6 @@
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [atatanasov/gijgo](https://github.com/atatanasov/gijgo) - Gijgo - Free Javascript Controls
 - [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
-- [sistematico/php-mvc-ajax](https://github.com/sistematico/php-mvc-ajax) - PHP CRUD using MVC(Model-View-Controller) example with SQLite as Database(ajax version)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - jQuery Validation Plugin library sources
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5|6|7|8|9|10
 - [itsjavi/bootstrap-colorpicker](https://github.com/itsjavi/bootstrap-colorpicker) - Bootstrap Colorpicker is a modular color picker plugin for Bootstrap.
@@ -1589,14 +1589,14 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [natanfelles/codeigniter4-simple-site](https://github.com/natanfelles/codeigniter4-simple-site) - 
 - [suadev/turkish-microservice-architecture-book](https://github.com/suadev/turkish-microservice-architecture-book) - Open Source Turkish Microservices eBook. Feel free to contribute.
-- [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2 & CSGO replay parser written in Java.
+- [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2, CSGO and CS2 replay parser written in Java.
 - [ThePrimeagen/vim-royale](https://github.com/ThePrimeagen/vim-royale) - Because Nano sucks
 - [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - A small collection of conky configs
 - [aichingm/arch-spawn](https://github.com/aichingm/arch-spawn) - Create offline and/or automated archlinux installation iso's
 - [TheWeirdDev/arch-wiki-bot](https://github.com/TheWeirdDev/arch-wiki-bot) - Fastest way to search through ArchWiki pages in telegram !
 - [fastcast/fastcast](https://github.com/fastcast/fastcast) - :ocean: Stream peer-to-peer audio and video content
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
-- [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
+- [perkele1989/light](https://github.com/perkele1989/light) - GNU/Linux application to control backlights
 - [yattsu/image_to_ascii](https://github.com/yattsu/image_to_ascii) - A python script that converts images and gifs to ASCII
 - [eendroroy/alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
 - [simmel/urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) - URxvt Perl extension for resizing the font
@@ -1695,7 +1695,7 @@
 - [kandebonfim/show-your-terms](https://github.com/kandebonfim/show-your-terms) - Simple demos of your applications' terminal commands.
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [vanderlee/colorpicker](https://github.com/vanderlee/colorpicker) - Colorpicker in jQueryUI style. Themeroller look & feel. Multiple color spaces, input/output formats, controls. Check the demo...
-- [dargullin/icheck](https://github.com/dargullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
+- [drgullin/icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [jdewit/bootstrap-timepicker](https://github.com/jdewit/bootstrap-timepicker) - [Deprecated] A simple timepicker component for Twitter Bootstrap
 - [rcarneironet/qrcode-js](https://github.com/rcarneironet/qrcode-js) - Creating and reading QR Code using Javascript
 - [alirizaoztetik/ci-simple-auth](https://github.com/alirizaoztetik/ci-simple-auth) - PHP - CodeIgniter | Simple session control system. (Limited Step, Limited Device, Changing Device, Active / Passive)
@@ -1873,7 +1873,6 @@
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [diloabininyeri/dilovel](https://github.com/diloabininyeri/dilovel) - An advanced framework is written in PHP, a framework containing rich components such as middleware, orm, request management, template engine, elasticsearch, template engine, many modern frameworks hav
-- [sistematico/php-mvc-ajax](https://github.com/sistematico/php-mvc-ajax) - PHP CRUD using MVC(Model-View-Controller) example with SQLite as Database(ajax version)
 - [aozisik/laravel-turkiye](https://github.com/aozisik/laravel-turkiye) - Türkiye için geliştirilen Laravel uygulamalarınıza yardımcı olan paket
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [cybercog/laravel-paket](https://github.com/cybercog/laravel-paket) - Composer GUI. Manage Laravel dependencies from web interface without switching to command line!
@@ -2197,6 +2196,13 @@
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [izniburak/pdox](https://github.com/izniburak/pdox) - useful query builder class that works with PHP PDO class for simple access your data.
+
+## sqlite 
+
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+- [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 
 ## sublime-text 
 
