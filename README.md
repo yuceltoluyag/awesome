@@ -123,7 +123,7 @@
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [vinecodes/android_device_lge_mh_recovery](https://github.com/vinecodes/android_device_lge_mh_recovery) - Device Tree For LG Q6
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
-- [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
+- [perkele1989/light](https://github.com/perkele1989/light) - GNU/Linux application to control backlights
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [Dudemanguy/gtk](https://github.com/Dudemanguy/gtk) - Gtk+
 - [rpeshkov/IntelWifi](https://github.com/rpeshkov/IntelWifi) - MacOS port of Intel Wireless Linux (IWL) Driver
@@ -146,6 +146,7 @@
 
 ## C# # 
 
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [CadeEvs/FrostyToolsuite](https://github.com/CadeEvs/FrostyToolsuite) - 
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -255,7 +256,7 @@
 - [csalmeida/protonmail-themes](https://github.com/csalmeida/protonmail-themes) - Customise ProtonMail with themes and enhance your encrypted email experience.
 - [jD91mZM2/yaru-dracula](https://github.com/jD91mZM2/yaru-dracula) - Ubuntu community theme "yaru"
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [dargullin/icheck](https://github.com/dargullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
+- [drgullin/icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [alirizaoztetik/ci-simple-auth](https://github.com/alirizaoztetik/ci-simple-auth) - PHP - CodeIgniter | Simple session control system. (Limited Step, Limited Device, Changing Device, Active / Passive)
 - [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 - [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
@@ -373,7 +374,7 @@
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [uber/marmaray](https://github.com/uber/marmaray) - Generic Data Ingestion & Dispersal Library for Hadoop
 - [HamidMoghaddam/dota2dqn](https://github.com/HamidMoghaddam/dota2dqn) - This is a deep Q-network (reinforcement learning) AI for Dota 2
-- [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2 & CSGO replay parser written in Java.
+- [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2, CSGO and CS2 replay parser written in Java.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [enesusta/turkish-citizen-validator](https://github.com/enesusta/turkish-citizen-validator) - This repository validates Turkish citizen number using SOAP Protocol
 - [martynassateika/CodeIgniter-phpstorm-plugin](https://github.com/martynassateika/CodeIgniter-phpstorm-plugin) - PhpStorm plugin for CodeIgniter development
@@ -674,7 +675,6 @@
 - [darryldecode/laravelshoppingcart](https://github.com/darryldecode/laravelshoppingcart) - Shopping Cart Implementation for Laravel Framework
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [diloabininyeri/dilovel](https://github.com/diloabininyeri/dilovel) - An advanced framework is written in PHP, a framework containing rich components such as middleware, orm, request management, template engine, elasticsearch, template engine, many modern frameworks hav
-- [sistematico/php-mvc-ajax](https://github.com/sistematico/php-mvc-ajax) - PHP CRUD using MVC(Model-View-Controller) example with SQLite as Database(ajax version)
 - [aozisik/laravel-turkiye](https://github.com/aozisik/laravel-turkiye) - Türkiye için geliştirilen Laravel uygulamalarınıza yardımcı olan paket
 - [Propaganistas/Laravel-Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number functionality for Laravel
 - [brian2694/laravel-toastr](https://github.com/brian2694/laravel-toastr) - 
