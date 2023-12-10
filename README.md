@@ -175,6 +175,7 @@
 
 ## C++ 
 
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP) - Give yourself a Custom Rich Presence in Discord.
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 - [gvansickle/ucg](https://github.com/gvansickle/ucg) - UniversalCodeGrep (ucg) is an extremely fast grep-like tool specialized for searching large bodies of source code.
@@ -492,7 +493,7 @@
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 - [pbaylies/stylegan-encoder](https://github.com/pbaylies/stylegan-encoder) - StyleGAN Encoder - converts real images to latent space
 - [chiphuyen/python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
 
@@ -635,7 +636,7 @@
 - [beyondcode/laravel-query-detector](https://github.com/beyondcode/laravel-query-detector) - Laravel N+1 Query Detector
 - [beyondcode/laravel-dump-server](https://github.com/beyondcode/laravel-dump-server) - Bring Symfony's Var-Dump Server to Laravel
 - [MehediDracula/stylist](https://github.com/MehediDracula/stylist) - 
-- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
 - [tattersoftware/codeigniter4-assets](https://github.com/tattersoftware/codeigniter4-assets) - Asset handling for CodeIgniter 4
 - [codeigniter4/tasks](https://github.com/codeigniter4/tasks) - Task Scheduler for CodeIgnter 4
@@ -1185,7 +1186,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Warinyourself/lightdm-webkit-theme-osmos](https://github.com/Warinyourself/lightdm-webkit-theme-osmos) - Osmos - lightdm greeter theme based on GLSL.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
 - [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) - The default Dark+ theme, using Material's color palette.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
