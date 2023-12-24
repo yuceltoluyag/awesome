@@ -260,7 +260,6 @@
 - [drgullin/icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [alirizaoztetik/ci-simple-auth](https://github.com/alirizaoztetik/ci-simple-auth) - PHP - CodeIgniter | Simple session control system. (Limited Step, Limited Device, Changing Device, Active / Passive)
 - [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
-- [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
 - [mut-ex/my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 - [rosario/kasper](https://github.com/rosario/kasper) - Ghost's default theme (Casper v1.0) on Jekyll
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
@@ -974,6 +973,7 @@
 - [StuntsPT/Radeon-tray](https://github.com/StuntsPT/Radeon-tray) - A simple tray icon for controlling Radeon power profiles
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [vim-vdebug/vdebug](https://github.com/vim-vdebug/vdebug) - Multi-language DBGP debugger client for Vim (PHP, Python, Perl, Ruby, etc.)
+- [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
 - [realsuayip/django-sozluk](https://github.com/realsuayip/django-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [NVlabs/stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
 - [okraits/j4-make-config](https://github.com/okraits/j4-make-config) - Universal theme switcher and config generator for the i3 wm
