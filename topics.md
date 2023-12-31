@@ -226,7 +226,7 @@
 - [Bogdanp/molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [spatie/flysystem-dropbox](https://github.com/spatie/flysystem-dropbox) - A flysystem driver for Dropbox that uses the v2 API
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Hotwire, Homestead, Horizon, Telescope and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [alaouy/Youtube](https://github.com/alaouy/Youtube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API (last minute earthquakes in turkey)
@@ -322,7 +322,6 @@
 - [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
-- [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [itsjavi/bootstrap-colorpicker](https://github.com/itsjavi/bootstrap-colorpicker) - Bootstrap Colorpicker is a modular color picker plugin for Bootstrap.
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -472,7 +471,6 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - Bulma Snippets Sublime Text Plugin
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [csalmeida/protonmail-themes](https://github.com/csalmeida/protonmail-themes) - Customise ProtonMail with themes and enhance your encrypted email experience.
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
@@ -858,7 +856,6 @@
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [tayfunerbilen/prototurk.com](https://github.com/tayfunerbilen/prototurk.com) - Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.
 
 ## html5 
@@ -1013,7 +1010,7 @@
 - [furkankadioglu/efatura](https://github.com/furkankadioglu/efatura) - eArşiv üzerinden Fatura Oluşturucu
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Hotwire, Homestead, Horizon, Telescope and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [xingxingso/Build-A-Laravel-App-With-TDD](https://github.com/xingxingso/Build-A-Laravel-App-With-TDD) - It's time to take the techniques we learned in Laravel From Scratch, and put them to good use building your first real-world application. Together, we'll leverage TDD to create Birdboard: a minimal Ba
 - [alaouy/Youtube](https://github.com/alaouy/Youtube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
@@ -1041,7 +1038,6 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
 - [elasticquent/Elasticquent](https://github.com/elasticquent/Elasticquent) - Maps Laravel Eloquent models to Elasticsearch types
-- [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
 - [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) - Easy creation of slugs for your Eloquent models in Laravel
 - [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) - Effective tree structures in Laravel 4-8
 - [anilozmen/Laravel-ECommerce-Iyzico](https://github.com/anilozmen/Laravel-ECommerce-Iyzico) - Iyzico intigrated e-Commerce system that could be developed easily in simple level.
@@ -1321,7 +1317,6 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 
 ## opencv 
@@ -1892,7 +1887,7 @@
 - [furkankadioglu/efatura](https://github.com/furkankadioglu/efatura) - eArşiv üzerinden Fatura Oluşturucu
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Hotwire, Homestead, Horizon, Telescope and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [xingxingso/Build-A-Laravel-App-With-TDD](https://github.com/xingxingso/Build-A-Laravel-App-With-TDD) - It's time to take the techniques we learned in Laravel From Scratch, and put them to good use building your first real-world application. Together, we'll leverage TDD to create Birdboard: a minimal Ba
 - [sametsahindogan/laravel-jwtredis](https://github.com/sametsahindogan/laravel-jwtredis) - :rocket: This package allows JWT-authenticated users to be stored and management in Redis with their roles, permissions, statuses and anything you want.
@@ -1929,7 +1924,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
-- [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
+- [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 - [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) - Effective tree structures in Laravel 4-8
 - [marcelgsantos/learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers.
 - [anilozmen/Laravel-ECommerce-Iyzico](https://github.com/anilozmen/Laravel-ECommerce-Iyzico) - Iyzico intigrated e-Commerce system that could be developed easily in simple level.
@@ -2387,7 +2382,6 @@
 ## webpack 
 
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Hotwire, Homestead, Horizon, Telescope and Pusher
 - [borela/naomi](https://github.com/borela/naomi) - Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config fil
 - [PunitGr/QuickBill](https://github.com/PunitGr/QuickBill) - Create unlimited invoices for free.
 
