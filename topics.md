@@ -819,7 +819,6 @@
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5|6|7|8|9|10
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
 - [truckersmp-cli/truckersmp-cli](https://github.com/truckersmp-cli/truckersmp-cli) - A simple launcher for truckersMP to be used with wine
-- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [MacsiDigital/laravel-stripe](https://github.com/MacsiDigital/laravel-stripe) - Stripe API with Laravel Eloquent type syntax
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -1363,7 +1362,6 @@
 - [dotabuff/manta](https://github.com/dotabuff/manta) - Dotabuff's Dota 2 Source 2 Replay Parser in Go
 - [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) - Gruvbox Plus icon pack for Linux desktops based on Gruvbox color theme.
 - [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses) - GPL licenced Android Expense Tracking App
-- [nikgapps/project](https://github.com/nikgapps/project) - 
 - [corsicanu/hKtweaks](https://github.com/corsicanu/hKtweaks) - Fork of MTweaks with compatibility added for more exynos devices + other goodies
 - [BiTGApps/source](https://github.com/BiTGApps/source) - 
 - [master131/ExtremeInjector](https://github.com/master131/ExtremeInjector) - 
