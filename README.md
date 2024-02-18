@@ -389,7 +389,6 @@
 
 - [alibaba/web-editor](https://github.com/alibaba/web-editor) - web editor for atx
 - [TheWisker/Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 - [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam) - Augments your Steam Experience
@@ -826,7 +825,6 @@
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
 - [Kynomi/SD2MC](https://github.com/Kynomi/SD2MC) - It is a tool for create simple mods
-- [nikgapps/project](https://github.com/nikgapps/project) - 
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
@@ -1177,6 +1175,7 @@
 ## TypeScript 
 
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
