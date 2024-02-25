@@ -253,7 +253,7 @@
 
 ## awesome 
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
@@ -1613,7 +1613,6 @@
 - [TheWeirdDev/arch-wiki-bot](https://github.com/TheWeirdDev/arch-wiki-bot) - Fastest way to search through ArchWiki pages in telegram !
 - [fastcast/fastcast](https://github.com/fastcast/fastcast) - :ocean: Stream peer-to-peer audio and video content
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
-- [perkele1989/light](https://github.com/perkele1989/light) - GNU/Linux application to control backlights
 - [yattsu/image_to_ascii](https://github.com/yattsu/image_to_ascii) - A python script that converts images and gifs to ASCII
 - [eendroroy/alien-minimal](https://github.com/eendroroy/alien-minimal) - An asynchronous minimal zsh prompt
 - [simmel/urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) - URxvt Perl extension for resizing the font
@@ -1990,7 +1989,7 @@
 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [Avtera/DOTA-2-PATCHER](https://github.com/Avtera/DOTA-2-PATCHER) - An utility for visual mod.
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
