@@ -123,7 +123,6 @@
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [vinecodes/android_device_lge_mh_recovery](https://github.com/vinecodes/android_device_lge_mh_recovery) - Device Tree For LG Q6
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
-- [perkele1989/light](https://github.com/perkele1989/light) - GNU/Linux application to control backlights
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [Dudemanguy/gtk](https://github.com/Dudemanguy/gtk) - Gtk+
 - [rpeshkov/IntelWifi](https://github.com/rpeshkov/IntelWifi) - MacOS port of Intel Wireless Linux (IWL) Driver
@@ -829,7 +828,7 @@
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [Avtera/DOTA-2-PATCHER](https://github.com/Avtera/DOTA-2-PATCHER) - An utility for visual mod.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
