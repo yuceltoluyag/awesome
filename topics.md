@@ -12,7 +12,6 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
-- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -234,16 +233,6 @@
 - [alaouy/Youtube](https://github.com/alaouy/Youtube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API (last minute earthquakes in turkey)
-
-## archlinux 
-
-- [tpowa/Archboot](https://github.com/tpowa/Archboot) - Archboot is a most advanced, modular Arch Linux boot/install image creation utility to generate bootable media for CD/USB/PXE, designed for installation or rescue operation.
-- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
-- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [herzrasen/pkghist](https://github.com/herzrasen/pkghist) - Query the local version history of packages
-- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [gzheyts/dotfiles](https://github.com/gzheyts/dotfiles) - Personal dotfiles, managed with GNU Stow
 
 ## artificial-intelligence 
 
@@ -672,7 +661,7 @@
 - [rr-/10ff](https://github.com/rr-/10ff) - Typing tests in CLI
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [nathan78906/steam-salien-cheat](https://github.com/nathan78906/steam-salien-cheat) - Simulates the playing of the 2018 Steam Summer Sale "Salien" game
@@ -683,20 +672,20 @@
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## game-engine 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 ## gamedev 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## games 
 
@@ -788,7 +777,6 @@
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -1391,7 +1379,7 @@
 - [mayob/Grand-Theft-Auto-Vice-City-Turkce-Dil-Paketi-2020](https://github.com/mayob/Grand-Theft-Auto-Vice-City-Turkce-Dil-Paketi-2020) - Grand Theft Auto: Vice City'nin ilk ve tek profesyonel dil paketidir. İyi oyunlar.
 - [eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S](https://github.com/eurekadevelopment/Eureka-Kernel-Exynos7885-Q-R-S) - A custom kernel for the Exynos7885 (2019) chipset based on Android 10/11/12. Currently supports A10, A20, A20e, A30, A30s and A40. This is the new source for Eureka Kernel.
 - [pathtrk/ariake-dark-syntax](https://github.com/pathtrk/ariake-dark-syntax) - Atom dark syntax with traditional Japan colors.
-- [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
+- [getnf/getnf](https://github.com/getnf/getnf) - A better way to install NerdFonts
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
@@ -1794,6 +1782,7 @@
 - [doitsujin/dxvk-ags](https://github.com/doitsujin/dxvk-ags) - Experimental implementation of AGS D3D11 extensions for DXVK
 - [alitayfur/tripadvisor](https://github.com/alitayfur/tripadvisor) - tripadvisor php class
 - [enesusta/il-ilce-mahalle-txt](https://github.com/enesusta/il-ilce-mahalle-txt) - Lokasyon bilgisinin .txt hali.
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [asilbalaban/Developer-Bloglari](https://github.com/asilbalaban/Developer-Bloglari) - Sizin takip ettiğiniz veya kendi blogunuz varsa pull request gönderin lütfen.
 - [zoefiri/wallpapers](https://github.com/zoefiri/wallpapers) - My wallpaper folder, no images are my own work and all credit goes to original artists or photographers.
 - [erdiucar/frontend-starter-pack](https://github.com/erdiucar/frontend-starter-pack) - This pack allows you to start a frontend project quickly.
@@ -1959,7 +1948,7 @@
 
 ## pico-8 
 
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## pixel-art 
 
@@ -2048,7 +2037,7 @@
 - [gurayops/gepp](https://github.com/gurayops/gepp) - Developer's Helper to Docker, Kubernetes, and Terraform. Fully automatic, without any config or question 🙌
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [cosme12/SimpleCoin](https://github.com/cosme12/SimpleCoin) - Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as educational material. In other words, a simple Bitcoin clone.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [Bogdanp/molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
@@ -2102,7 +2091,7 @@
 - [JaredLGillespie/proxyscrape](https://github.com/JaredLGillespie/proxyscrape) - Python library for retrieving free proxies (HTTP, HTTPS, SOCKS4, SOCKS5).
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
@@ -2168,7 +2157,7 @@
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [herzrasen/pkghist](https://github.com/herzrasen/pkghist) - Query the local version history of packages
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
