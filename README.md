@@ -767,7 +767,7 @@
 - [thephpleague/omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library for PHP 5.6+
 - [hardevine/LaravelShoppingcart](https://github.com/hardevine/LaravelShoppingcart) - A simple shopping cart implementation for Laravel
 - [rasim/laravel-payu](https://github.com/rasim/laravel-payu) - Laravel 4 Payu Api
-- [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel 10, 9, 8, 7, 6, 5 ve 4 için Mutlucell SMS Kütüphanesi
+- [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel için Mutlucell SMS Kütüphanesi
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
