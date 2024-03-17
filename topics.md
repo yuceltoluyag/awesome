@@ -12,6 +12,7 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
+- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -233,6 +234,16 @@
 - [alaouy/Youtube](https://github.com/alaouy/Youtube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API (last minute earthquakes in turkey)
+
+## archlinux 
+
+- [tpowa/Archboot](https://github.com/tpowa/Archboot) - Archboot is a most advanced, modular Arch Linux boot/install image creation utility to generate bootable media for CD/USB/PXE, designed for installation or rescue operation.
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
+- [herzrasen/pkghist](https://github.com/herzrasen/pkghist) - Query the local version history of packages
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+- [gzheyts/dotfiles](https://github.com/gzheyts/dotfiles) - Personal dotfiles, managed with GNU Stow
 
 ## artificial-intelligence 
 
@@ -1043,7 +1054,7 @@
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [shopperlabs/shopper-react](https://github.com/shopperlabs/shopper-react) - :warning: [ABANDONED] An eCommerce  administration built with Laravel 5 for create online shop.
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
-- [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel 10, 9, 8, 7, 6, 5 ve 4 için Mutlucell SMS Kütüphanesi
+- [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel için Mutlucell SMS Kütüphanesi
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
 - [elasticquent/Elasticquent](https://github.com/elasticquent/Elasticquent) - Maps Laravel Eloquent models to Elasticsearch types
@@ -1782,7 +1793,6 @@
 - [doitsujin/dxvk-ags](https://github.com/doitsujin/dxvk-ags) - Experimental implementation of AGS D3D11 extensions for DXVK
 - [alitayfur/tripadvisor](https://github.com/alitayfur/tripadvisor) - tripadvisor php class
 - [enesusta/il-ilce-mahalle-txt](https://github.com/enesusta/il-ilce-mahalle-txt) - Lokasyon bilgisinin .txt hali.
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [asilbalaban/Developer-Bloglari](https://github.com/asilbalaban/Developer-Bloglari) - Sizin takip ettiğiniz veya kendi blogunuz varsa pull request gönderin lütfen.
 - [zoefiri/wallpapers](https://github.com/zoefiri/wallpapers) - My wallpaper folder, no images are my own work and all credit goes to original artists or photographers.
 - [erdiucar/frontend-starter-pack](https://github.com/erdiucar/frontend-starter-pack) - This pack allows you to start a frontend project quickly.
@@ -1936,7 +1946,7 @@
 - [netinternet/parasut-v4](https://github.com/netinternet/parasut-v4) - Parasut Php Api V4
 - [izniburak/pdox](https://github.com/izniburak/pdox) - useful query builder class that works with PHP PDO class for simple access your data.
 - [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
-- [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel 10, 9, 8, 7, 6, 5 ve 4 için Mutlucell SMS Kütüphanesi
+- [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) - Laravel için Mutlucell SMS Kütüphanesi
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [teamtnt/tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
