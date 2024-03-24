@@ -531,6 +531,7 @@
 
 ## design 
 
+- [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
 - [KhamisiKibet/QT-PyQt-PySide-Custom-Widgets](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets) - Awesome custom widgets made for QT Desktop Applications. Simplify your UI development process. These widgets can be used in QT Designer then imported to PySide code.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
@@ -1004,7 +1005,7 @@
 - [codestudiohq/laravel-totem](https://github.com/codestudiohq/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy) - Make your Laravel app usable by multiple tenants
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
-- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
 - [Bottelet/DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
 - [milon/barcode](https://github.com/milon/barcode) - Laravel Barcode Generator
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
@@ -1893,7 +1894,7 @@
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 - [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
-- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
 - [pgrimaud/instagram-user-feed](https://github.com/pgrimaud/instagram-user-feed) - This is a scrapper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
@@ -2002,6 +2003,7 @@
 
 ## python 
 
+- [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -2092,6 +2094,7 @@
 
 ## python3 
 
+- [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
