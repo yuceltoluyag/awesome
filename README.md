@@ -385,6 +385,7 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [alibaba/web-editor](https://github.com/alibaba/web-editor) - web editor for atx
 - [TheWisker/Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
@@ -429,6 +430,7 @@
 - [atatanasov/gijgo](https://github.com/atatanasov/gijgo) - Gijgo - Free Javascript Controls
 - [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [lingtjien/Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [vakata/jstree](https://github.com/vakata/jstree) - jquery tree plugin
 - [spatie/laravel-mix-purgecss](https://github.com/spatie/laravel-mix-purgecss) - Zero-config Purgecss for Laravel Mix
@@ -1003,7 +1005,6 @@
 
 ## QML 
 
-- [lingtjien/Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows
 - [EricKotato/sddm-slice](https://github.com/EricKotato/sddm-slice) - Simple dark SDDM theme with many customization options.
 
 ## Rich Text Format 
