@@ -240,7 +240,7 @@
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [Dyzean/Simplify](https://github.com/Dyzean/Simplify) - simple clean looking theme
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
-- [SublimeText/TailwindCSS](https://github.com/SublimeText/TailwindCSS) - Tailswind CSS syntax highlighting for Sublime Text
+- [SublimeText/TailwindCSS](https://github.com/SublimeText/TailwindCSS) - Tailswind CSS syntax for Sublime Text
 - [felix-u/neomorphic-custom-css](https://github.com/felix-u/neomorphic-custom-css) - A repository of neomorphic CSS for popular websites.
 - [Andy-set-studio/modern-css-reset](https://github.com/Andy-set-studio/modern-css-reset) - A bare-bones CSS reset for modern web development.
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
