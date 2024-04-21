@@ -2257,7 +2257,7 @@
 
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 - [Briles/gruvbox](https://github.com/Briles/gruvbox) - 🎨 Sublime Text themes & color schemes with pastel 'retro groove' colors
-- [SublimeText/TailwindCSS](https://github.com/SublimeText/TailwindCSS) - Tailswind CSS syntax highlighting for Sublime Text
+- [SublimeText/TailwindCSS](https://github.com/SublimeText/TailwindCSS) - Tailswind CSS syntax for Sublime Text
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [sal0max/sublime-m3u](https://github.com/sal0max/sublime-m3u) - Syntax highlighting for m3u playlist files in Sublime Text
 - [OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - Bulma Snippets Sublime Text Plugin
