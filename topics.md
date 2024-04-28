@@ -1175,7 +1175,6 @@
 - [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [cniw/mpv-discordRPC](https://github.com/cniw/mpv-discordRPC) - Discord Rich Presence integration for mpv Media Player
 
 ## mac 
