@@ -397,7 +397,7 @@
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [CITGuru/PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
-- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental middleware for Spotify API to search songs and control the web player using the cli (Feat. Puppeteer)
+- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper for Spotify API to search songs and control the web player using the cli (Feat. Puppeteer)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
