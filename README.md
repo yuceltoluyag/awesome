@@ -250,6 +250,7 @@
 - [cakebaker/scss-syntax.vim](https://github.com/cakebaker/scss-syntax.vim) - Vim syntax file for scss (Sassy CSS)
 - [huphtur/jekyll-tailwind-starter-plus](https://github.com/huphtur/jekyll-tailwind-starter-plus) - Starter project for Jekyll with Tailwind CSS
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [Brettm12345/github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
@@ -439,7 +440,7 @@
 - [spatie/laravel-mix-purgecss](https://github.com/spatie/laravel-mix-purgecss) - Zero-config Purgecss for Laravel Mix
 - [Alicannklc/intellij-tailwind-css](https://github.com/Alicannklc/intellij-tailwind-css) - Tailwind IntelliJ Plugin  Tailwind Cheat Sheet
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
-- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental middleware for Spotify API to search songs and control the web player using the cli (Feat. Puppeteer)
+- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper for Spotify API to search songs and control the web player using the cli (Feat. Puppeteer)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [imagemin/imagemin](https://github.com/imagemin/imagemin) - [Unmaintained] Minify images seamlessly
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
@@ -1067,7 +1068,6 @@
 - [j1mc/bulma-scss](https://github.com/j1mc/bulma-scss) - Bulma SCSS - The Bulma CSS Framework files converted to SCSS syntax
 - [hidjou/vs-code-theme-monokai-flow](https://github.com/hidjou/vs-code-theme-monokai-flow) - 
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) - A configurable portfolio-style jekyll theme for writers.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
