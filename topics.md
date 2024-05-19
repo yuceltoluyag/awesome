@@ -50,6 +50,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -574,6 +575,19 @@
 - [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
+
+## dotfiles 
+
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [utkuufuk/ubuntu-on-steroids](https://github.com/utkuufuk/ubuntu-on-steroids) - Developer setup & configuration guide for Ubuntu
+- [marinov98/dotfiles](https://github.com/marinov98/dotfiles) - All my configurations. Take a look! :blush:
+- [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
+- [YaN-3k/dots](https://github.com/YaN-3k/dots) - just dotfiles ¯\_(ツ)_/¯﻿
+- [arindas/dotfiles-manjaro-i3](https://github.com/arindas/dotfiles-manjaro-i3) - Dotfiles for my old manjaro system.
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+- [creio/dots](https://github.com/creio/dots) - config
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
 
 ## dotnet 
 
@@ -1695,7 +1709,6 @@
 - [hoanhan101/algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [larz258/Zshopt](https://github.com/larz258/Zshopt) - A simple solution to use shopt in zsh.
 - [ctf0/Seti_ST3](https://github.com/ctf0/Seti_ST3) - Seti_UI Port for ST3.
-- [arindas/dotfiles-manjaro-i3](https://github.com/arindas/dotfiles-manjaro-i3) - Dotfiles for my old manjaro system.
 - [lifeforms/irssi-smartfilter](https://github.com/lifeforms/irssi-smartfilter) - Irssi smart filter to selectively hide JOIN/QUIT in busy channels
 - [rtlewis88/rtl88-Themes](https://github.com/rtlewis88/rtl88-Themes) - GTK, xfwm4, openbox-3, GNOME-Shell Themes, and Cinnamon themes
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
@@ -1843,7 +1856,6 @@
 - [dwisetiyadi/CodeIgniter-PHP-QR-Code](https://github.com/dwisetiyadi/CodeIgniter-PHP-QR-Code) - a PHP Library to create QR Code. This is a porting library for CodeIgniter Framework, original code from http://phpqrcode.sourceforge.net/.
 - [sonerusta/film](https://github.com/sonerusta/film) - Snrtr.com Film Scripti
 - [anilozmen/clean-code-php](https://github.com/anilozmen/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
-- [creio/dots](https://github.com/creio/dots) - config
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [grassmunk/Platinum9](https://github.com/grassmunk/Platinum9) - Mac OS 9 Theme for Xubuntu
 - [FireEmerald/Settlers4-Widescreen-Tool](https://github.com/FireEmerald/Settlers4-Widescreen-Tool) - Unlocks resolutions up to Full HD in The Settlers 4 (Die Siedler 4)
