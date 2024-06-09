@@ -1854,7 +1854,6 @@
 - [c0b41/N11](https://github.com/c0b41/N11) - N11 Entegrasyonu
 - [ahmetozalp/N11.com-PHP-Soap-Api](https://github.com/ahmetozalp/N11.com-PHP-Soap-Api) - 🚀 n11.com php soap api
 - [dwisetiyadi/CodeIgniter-PHP-QR-Code](https://github.com/dwisetiyadi/CodeIgniter-PHP-QR-Code) - a PHP Library to create QR Code. This is a porting library for CodeIgniter Framework, original code from http://phpqrcode.sourceforge.net/.
-- [sonerusta/film](https://github.com/sonerusta/film) - Snrtr.com Film Scripti
 - [anilozmen/clean-code-php](https://github.com/anilozmen/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [grassmunk/Platinum9](https://github.com/grassmunk/Platinum9) - Mac OS 9 Theme for Xubuntu
