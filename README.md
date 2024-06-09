@@ -790,7 +790,6 @@
 - [ahmetozalp/N11.com-PHP-Soap-Api](https://github.com/ahmetozalp/N11.com-PHP-Soap-Api) - 🚀 n11.com php soap api
 - [dwisetiyadi/CodeIgniter-PHP-QR-Code](https://github.com/dwisetiyadi/CodeIgniter-PHP-QR-Code) - a PHP Library to create QR Code. This is a porting library for CodeIgniter Framework, original code from http://phpqrcode.sourceforge.net/.
 - [anilozmen/Laravel-ECommerce-Iyzico](https://github.com/anilozmen/Laravel-ECommerce-Iyzico) - Iyzico intigrated e-Commerce system that could be developed easily in simple level.
-- [sonerusta/film](https://github.com/sonerusta/film) - Snrtr.com Film Scripti
 - [anilozmen/clean-code-php](https://github.com/anilozmen/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [cesurapp/pd-admin](https://github.com/cesurapp/pd-admin) - Powerful Admin Dashboard for Symfony 5
 - [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
