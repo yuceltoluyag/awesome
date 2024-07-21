@@ -212,7 +212,7 @@
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [Keithenneu/dota2comm](https://github.com/Keithenneu/dota2comm) - Commuication between Lua and any outside program
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
 - [gdbinit/EFISwissKnife](https://github.com/gdbinit/EFISwissKnife) - An IDA plugin to improve (U)EFI reversing
 - [ponchio/untrunc](https://github.com/ponchio/untrunc) - Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
@@ -843,7 +843,7 @@
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [MeteHanC/turkishnlp](https://github.com/MeteHanC/turkishnlp) - Very early version of the TurkishNLP. For now it has basically 5 main functions; Detecting Turkish Language, syllabicating words, vowel harmony detection, Turkish origin detection and correcting typos
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 400+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes
 - [KhamisiKibet/QT-PyQt-PySide-Custom-Widgets](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets) - Awesome custom widgets made for QT Desktop Applications. Simplify your UI development process. These widgets can be used in QT Designer then imported to PySide code.
