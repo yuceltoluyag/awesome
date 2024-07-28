@@ -264,6 +264,7 @@
 
 ## automation 
 
+- [codeskyblue/uiautodev](https://github.com/codeskyblue/uiautodev) - Mobile UI viewer in browser, view the UI in a tree view, and generate XPath automatically.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Elijas/auto-youtube-subscription-playlist-2](https://github.com/Elijas/auto-youtube-subscription-playlist-2) - Script automatically adds videos to playlists from Youtube channels and/or subscriptions (Youtube Collections alternative).
 - [drov0/python-imagesearch](https://github.com/drov0/python-imagesearch) - A wrapper around opencv2 and pyautogui to do image searching easily.
@@ -379,7 +380,6 @@
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
 
@@ -827,7 +827,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-- [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [ValvePython/vpk](https://github.com/ValvePython/vpk) - 📦 Open, Search, Extract and Create VPKs in python
@@ -898,7 +898,7 @@
 
 ## html 
 
-- [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [j1mc/bulma-scss](https://github.com/j1mc/bulma-scss) - Bulma SCSS - The Bulma CSS Framework files converted to SCSS syntax
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -953,7 +953,7 @@
 ## javascript 
 
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
@@ -1133,7 +1133,7 @@
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-- [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [LAKostis/nvdock](https://github.com/LAKostis/nvdock) - Fork of nvdock, a tray icon to easily launch the nvidia-settings control panel
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -1402,6 +1402,7 @@
 
 ## others 
 
+- [Cippo95/nvidia-fan-control](https://github.com/Cippo95/nvidia-fan-control) - Controlling fans on my NVIDIA graphics card
 - [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 - [gvansickle/ucg](https://github.com/gvansickle/ucg) - UniversalCodeGrep (ucg) is an extremely fast grep-like tool specialized for searching large bodies of source code.
@@ -2436,7 +2437,7 @@
 
 ## web 
 
-- [alibaba/web-editor](https://github.com/alibaba/web-editor) - web editor for atx
+- [alibaba/web-editor](https://github.com/alibaba/web-editor) - please use https://uiauto.dev instead
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Bogdanp/molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 
@@ -2464,7 +2465,7 @@
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Bluegrams/MPos](https://github.com/Bluegrams/MPos) - Mouse position tracker and DPI information for Windows 10
-- [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
