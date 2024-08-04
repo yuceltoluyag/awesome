@@ -391,6 +391,7 @@
 
 ## JavaScript 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [alibaba/web-editor](https://github.com/alibaba/web-editor) - please use https://uiauto.dev instead
 - [TheWisker/Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme
@@ -826,6 +827,8 @@
 
 ## Python 
 
+- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+- [rigvedmaanas/CustomTkinterBuilder](https://github.com/rigvedmaanas/CustomTkinterBuilder) - This is a Free and Open Source RAD tool for Custom Tkinter. This software allows you to create complex UI faster than ever⚡
 - [codeskyblue/uiautodev](https://github.com/codeskyblue/uiautodev) - Mobile UI viewer in browser, view the UI in a tree view, and generate XPath automatically.
 - [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
