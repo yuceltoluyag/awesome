@@ -821,7 +821,6 @@
 
 ## hacktoberfest 
 
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -954,6 +953,7 @@
 
 ## javascript 
 
+- [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1405,6 +1405,7 @@
 
 ## others 
 
+- [MinchinWeb/minchin.pelican.plugins.post_stats](https://github.com/MinchinWeb/minchin.pelican.plugins.post_stats) - A Pelican plugin which calculates various statistics about a post and store them in an article.stats dictionary.
 - [rigvedmaanas/CustomTkinterBuilder](https://github.com/rigvedmaanas/CustomTkinterBuilder) - This is a Free and Open Source RAD tool for Custom Tkinter. This software allows you to create complex UI faster than ever⚡
 - [Cippo95/nvidia-fan-control](https://github.com/Cippo95/nvidia-fan-control) - Controlling fans on my NVIDIA graphics card
 - [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
@@ -2220,6 +2221,7 @@
 
 ## sass 
 
+- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Modern SCSS language server. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -2236,6 +2238,7 @@
 
 ## self-hosted 
 
+- [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
@@ -2428,6 +2431,7 @@
 
 ## visual-studio-code 
 
+- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Modern SCSS language server. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [taniarascia/new-moon](https://github.com/taniarascia/new-moon) - 🌙 ‎ The optimized dark theme for web development.
 
