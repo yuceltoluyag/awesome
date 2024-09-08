@@ -76,7 +76,7 @@
 
 - [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [Jackpison/IDM-reset](https://github.com/Jackpison/IDM-reset) - IDM Trail Reset Help
 - [AveYo/D-OPTIMIZER](https://github.com/AveYo/D-OPTIMIZER) - Make Dota 2 fps great again
 
@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [Wunkolo/UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL and Injector for dumping UWP applications at run-time to bypass encrypted file system protection.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Pizzabelly/EasyRP](https://github.com/Pizzabelly/EasyRP) - Give yourself a Custom Rich Presence in Discord.
@@ -1190,7 +1191,7 @@
 
 ## TypeScript 
 
-- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Modern SCSS language server. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
+- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Modern Sass language server. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
