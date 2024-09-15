@@ -854,6 +854,7 @@
 
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -937,6 +938,7 @@
 - [j1mc/bulma-scss](https://github.com/j1mc/bulma-scss) - Bulma SCSS - The Bulma CSS Framework files converted to SCSS syntax
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [cssninjaStudio/krypton](https://github.com/cssninjaStudio/krypton) - 🚀 Free Astro + Bulma ICO / Crypto template
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
@@ -1403,7 +1405,7 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [Yuriy-Svetlov/compress-images](https://github.com/Yuriy-Svetlov/compress-images) - Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs
-- [imagemin/imagemin](https://github.com/imagemin/imagemin) - [Unmaintained] Minify images seamlessly
+- [imagemin/imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -1437,6 +1439,7 @@
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [jarcode-foss/glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [bradleybauer/music_visualizer](https://github.com/bradleybauer/music_visualizer) - Shader viewer / music visualizer for Windows and Linux
 
@@ -1446,6 +1449,7 @@
 
 ## others 
 
+- [NotFlawffles/termux-nerd-installer](https://github.com/NotFlawffles/termux-nerd-installer) - Termux tool to easily install nerd fonts
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [christian-fei/minimal-analytics](https://github.com/christian-fei/minimal-analytics) - Read more at https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction/
 - [MinchinWeb/minchin.pelican.plugins.post_stats](https://github.com/MinchinWeb/minchin.pelican.plugins.post_stats) - A Pelican plugin which calculates various statistics about a post and store them in an article.stats dictionary.
@@ -1701,7 +1705,7 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [natanfelles/codeigniter4-simple-site](https://github.com/natanfelles/codeigniter4-simple-site) - 
 - [suadev/turkish-microservice-architecture-book](https://github.com/suadev/turkish-microservice-architecture-book) - Open Source Turkish Microservices eBook. Feel free to contribute.
-- [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2, CSGO and CS2 replay parser written in Java.
+- [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2, CSGO, CS2 and Deadlock replay parser written in Java.
 - [ThePrimeagen/vim-royale](https://github.com/ThePrimeagen/vim-royale) - Because Nano sucks
 - [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - A small collection of conky configs
 - [aichingm/arch-spawn](https://github.com/aichingm/arch-spawn) - Create offline and/or automated archlinux installation iso's
@@ -2037,6 +2041,7 @@
 ## pixel-art 
 
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
 ## postgresql 
@@ -2051,6 +2056,7 @@
 ## powershell 
 
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -2180,7 +2186,6 @@
 - [JaredLGillespie/proxyscrape](https://github.com/JaredLGillespie/proxyscrape) - Python library for retrieving free proxies (HTTP, HTTPS, SOCKS4, SOCKS5).
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
