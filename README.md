@@ -89,6 +89,7 @@
 
 ## C 
 
+- [NotFlawffles/termux-nerd-installer](https://github.com/NotFlawffles/termux-nerd-installer) - Termux tool to easily install nerd fonts
 - [Cippo95/nvidia-fan-control](https://github.com/Cippo95/nvidia-fan-control) - Controlling fans on my NVIDIA graphics card
 - [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [dmajkic/redis](https://github.com/dmajkic/redis) - Redis key-value store (Win32 / Win64 port)
@@ -386,7 +387,7 @@
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [uber/marmaray](https://github.com/uber/marmaray) - Generic Data Ingestion & Dispersal Library for Hadoop
 - [HamidMoghaddam/dota2dqn](https://github.com/HamidMoghaddam/dota2dqn) - This is a deep Q-network (reinforcement learning) AI for Dota 2
-- [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2, CSGO and CS2 replay parser written in Java.
+- [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2, CSGO, CS2 and Deadlock replay parser written in Java.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [enesusta/turkish-citizen-validator](https://github.com/enesusta/turkish-citizen-validator) - This repository validates Turkish citizen number using SOAP Protocol
 - [martynassateika/CodeIgniter-phpstorm-plugin](https://github.com/martynassateika/CodeIgniter-phpstorm-plugin) - PhpStorm plugin for CodeIgniter development
@@ -455,7 +456,7 @@
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper for Spotify API to search songs and control the web player using the cli (Feat. Puppeteer)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [imagemin/imagemin](https://github.com/imagemin/imagemin) - [Unmaintained] Minify images seamlessly
+- [imagemin/imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [volkanozbek/nodejs-mvc](https://github.com/volkanozbek/nodejs-mvc) - 
 - [Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor under 10kB
