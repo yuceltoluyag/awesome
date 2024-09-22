@@ -227,7 +227,7 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [marazmista/radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
-- [Joshua-Ashton/d9vk](https://github.com/Joshua-Ashton/d9vk) - A Direct3D9 to Vulkan layer using the DXVK backend. [Upstreamed to DXVK]
+- [misyltoad/d9vk](https://github.com/misyltoad/d9vk) - A Direct3D9 to Vulkan layer using the DXVK backend. [Upstreamed to DXVK]
 - [doitsujin/dxvk-ags](https://github.com/doitsujin/dxvk-ags) - Experimental implementation of AGS D3D11 extensions for DXVK
 - [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
 - [ChipFrickVi/dotfiles](https://github.com/ChipFrickVi/dotfiles) - 
@@ -394,7 +394,7 @@
 - [yusufcakal/algorithms](https://github.com/yusufcakal/algorithms) - basic algorithms and solutions
 - [Alicannklc/phpstorm-codeigniter-snippets](https://github.com/Alicannklc/phpstorm-codeigniter-snippets) - phpstorm codeigniter snippets plugin
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [enesusta/il-ilce-mahalle-txt](https://github.com/enesusta/il-ilce-mahalle-txt) - Lokasyon bilgisinin .txt hali.
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
 
@@ -403,7 +403,7 @@
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [christian-fei/minimal-analytics](https://github.com/christian-fei/minimal-analytics) - Read more at https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction/
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [alibaba/web-editor](https://github.com/alibaba/web-editor) - please use https://uiauto.dev instead
 - [TheWisker/Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme
