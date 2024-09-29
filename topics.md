@@ -517,6 +517,7 @@
 ## css 
 
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Improved support for SCSS, Sass indented and SassDoc. Workspace awareness and full support for Sass modules.
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [numist/highlight-css](https://github.com/numist/highlight-css) - CSS files created from Pygments' and Rouge's built-in styles
@@ -854,7 +855,6 @@
 
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -894,6 +894,7 @@
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [FilipLitwora/pywal-discord](https://github.com/FilipLitwora/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
@@ -1183,7 +1184,7 @@
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [LAKostis/nvdock](https://github.com/LAKostis/nvdock) - Fork of nvdock, a tray icon to easily launch the nvidia-settings control panel
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
@@ -1279,7 +1280,7 @@
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/Ki
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
@@ -2257,7 +2258,7 @@
 
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -2271,7 +2272,7 @@
 
 ## sass 
 
-- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Modern Sass language server. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
+- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Improved support for SCSS, Sass indented and SassDoc. Workspace awareness and full support for Sass modules.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -2501,7 +2502,7 @@
 
 ## visual-studio-code 
 
-- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Modern Sass language server. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
+- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Improved support for SCSS, Sass indented and SassDoc. Workspace awareness and full support for Sass modules.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [taniarascia/new-moon](https://github.com/taniarascia/new-moon) - 🌙 ‎ The optimized dark theme for web development.
 
@@ -2559,7 +2560,7 @@
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
