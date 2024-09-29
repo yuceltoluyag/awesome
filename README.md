@@ -584,6 +584,7 @@
 - [marqu3ss/Aurora-X](https://github.com/marqu3ss/Aurora-X) - A nice theme for your Visual Studio Code
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [40huo/Patched-Fonts](https://github.com/40huo/Patched-Fonts) - Nerd font patch of Operator Mono
+- [utkuufuk/ubuntu-on-steroids](https://github.com/utkuufuk/ubuntu-on-steroids) - Developer setup & configuration guide for Ubuntu
 - [Optinux/dev-theme-for-chrome](https://github.com/Optinux/dev-theme-for-chrome) - A Chrome Extension to compliment Kdr3w's "Dev" Windows Theme
 - [sawantuday/pinescripts](https://github.com/sawantuday/pinescripts) - Trading view strategies in pinescript
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
@@ -1054,7 +1055,7 @@
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [mobilecoinofficial/full-service](https://github.com/mobilecoinofficial/full-service) - A MobileCoin service for wallet implementations.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [sorah/subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1119,7 +1120,6 @@
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [varlesh/material-cursors](https://github.com/varlesh/material-cursors) - material-cursors
-- [utkuufuk/ubuntu-on-steroids](https://github.com/utkuufuk/ubuntu-on-steroids) - Developer setup & configuration guide for Ubuntu
 - [0ki/shellscripts](https://github.com/0ki/shellscripts) - Collection of random scripts that make my life in the Linux console way simpler
 - [SofianeHamlaoui/battery-notifications](https://github.com/SofianeHamlaoui/battery-notifications) - Battery State Notifications ( Indicator )
 - [SofianeHamlaoui/movetocorner](https://github.com/SofianeHamlaoui/movetocorner) - A Movetocorner script for tilling WMs window
@@ -1192,7 +1192,7 @@
 
 ## TypeScript 
 
-- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Modern Sass language server. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
+- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Improved support for SCSS, Sass indented and SassDoc. Workspace awareness and full support for Sass modules.
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
