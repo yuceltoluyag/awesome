@@ -252,7 +252,6 @@
 - [at-import/breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
 - [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
 - [aldi/bulma-social](https://github.com/aldi/bulma-social) - 🤳 Social Buttons and Colors for Bulma
-- [cakebaker/scss-syntax.vim](https://github.com/cakebaker/scss-syntax.vim) - Vim syntax file for scss (Sassy CSS)
 - [huphtur/jekyll-tailwind-starter-plus](https://github.com/huphtur/jekyll-tailwind-starter-plus) - Starter project for Jekyll with Tailwind CSS
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -1085,6 +1084,7 @@
 - [j1mc/bulma-scss](https://github.com/j1mc/bulma-scss) - Bulma SCSS - The Bulma CSS Framework files converted to SCSS syntax
 - [hidjou/vs-code-theme-monokai-flow](https://github.com/hidjou/vs-code-theme-monokai-flow) - 
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
+- [cakebaker/scss-syntax.vim](https://github.com/cakebaker/scss-syntax.vim) - Vim syntax file for scss (Sassy CSS)
 - [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) - A configurable portfolio-style jekyll theme for writers.
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -1115,7 +1115,7 @@
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Read-only mirror of nsxiv-extra
 - [FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers) - My personal Pick of wallpapers
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
-- [Mangeshrex/rxfetch](https://github.com/Mangeshrex/rxfetch) - A custom system info fetching tool
+- [mngshm/rxfetch](https://github.com/mngshm/rxfetch) - A custom system info fetching tool
 - [hdk5/ArtixWSL](https://github.com/hdk5/ArtixWSL) - Install Artix Linux as a WSL Instance.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
