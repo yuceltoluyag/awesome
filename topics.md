@@ -257,7 +257,7 @@
 - [Bogdanp/molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [spatie/flysystem-dropbox](https://github.com/spatie/flysystem-dropbox) - A flysystem driver for Dropbox that uses the v2 API
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API (last minute earthquakes in turkey)
@@ -508,7 +508,7 @@
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Bluegrams/MPos](https://github.com/Bluegrams/MPos) - Mouse position tracker and DPI information for Windows 10
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -527,7 +527,7 @@
 - [ashtrath/Simplify](https://github.com/ashtrath/Simplify) - simple clean looking theme
 - [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
-- [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
 - [j1mc/bulma-scss](https://github.com/j1mc/bulma-scss) - Bulma SCSS - The Bulma CSS Framework files converted to SCSS syntax
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -635,7 +635,7 @@
 
 ## dotnet 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -719,7 +719,7 @@
 
 ## framework 
 
-- [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
@@ -771,7 +771,7 @@
 
 ## git 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [github-for-unity/Unity](https://github.com/github-for-unity/Unity) - GitHub for Unity
@@ -829,7 +829,7 @@
 
 ## good-first-issue 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## google 
 
@@ -867,7 +867,6 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [ValvePython/vpk](https://github.com/ValvePython/vpk) - 📦 Open, Search, Extract and Create VPKs in python
-- [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [mngshm/rxfetch](https://github.com/mngshm/rxfetch) - A custom system info fetching tool
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1113,7 +1112,7 @@
 - [furkankadioglu/efatura](https://github.com/furkankadioglu/efatura) - eArşiv üzerinden Fatura Oluşturucu
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [xingxingso/Build-A-Laravel-App-With-TDD](https://github.com/xingxingso/Build-A-Laravel-App-With-TDD) - It's time to take the techniques we learned in Laravel From Scratch, and put them to good use building your first real-world application. Together, we'll leverage TDD to create Birdboard: a minimal Ba
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
@@ -1284,6 +1283,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
+- [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/Ki
 - [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
@@ -1586,7 +1586,6 @@
 - [at-import/breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
 - [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
 - [J2TEAM/idm-trial-reset](https://github.com/J2TEAM/idm-trial-reset) - Use IDM forever without cracking
-- [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [typekit/webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [hidjou/vs-code-theme-monokai-flow](https://github.com/hidjou/vs-code-theme-monokai-flow) - 
@@ -1993,7 +1992,7 @@
 - [furkankadioglu/efatura](https://github.com/furkankadioglu/efatura) - eArşiv üzerinden Fatura Oluşturucu
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [xingxingso/Build-A-Laravel-App-With-TDD](https://github.com/xingxingso/Build-A-Laravel-App-With-TDD) - It's time to take the techniques we learned in Laravel From Scratch, and put them to good use building your first real-world application. Together, we'll leverage TDD to create Birdboard: a minimal Ba
 - [sametsahindogan/laravel-jwtredis](https://github.com/sametsahindogan/laravel-jwtredis) - :rocket: This package allows JWT-authenticated users to be stored and management in Redis with their roles, permissions, statuses and anything you want.
@@ -2274,7 +2273,7 @@
 ## sass 
 
 - [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Improved support for SCSS, Sass indented and SassDoc. Workspace awareness and full support for Sass modules.
-- [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
@@ -2550,7 +2549,7 @@
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
