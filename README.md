@@ -393,7 +393,6 @@
 - [yusufcakal/algorithms](https://github.com/yusufcakal/algorithms) - basic algorithms and solutions
 - [Alicannklc/phpstorm-codeigniter-snippets](https://github.com/Alicannklc/phpstorm-codeigniter-snippets) - phpstorm codeigniter snippets plugin
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [enesusta/il-ilce-mahalle-txt](https://github.com/enesusta/il-ilce-mahalle-txt) - Lokasyon bilgisinin .txt hali.
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
 
@@ -683,7 +682,6 @@
 - [blade-ui-kit/blade-icons](https://github.com/blade-ui-kit/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
 - [codeat3/blade-zondicons](https://github.com/codeat3/blade-zondicons) - A package to easily make use of Zondicons in your Laravel Blade views.
 - [blade-ui-kit/blade-heroicons](https://github.com/blade-ui-kit/blade-heroicons) - A package to easily make use of Heroicons in your Laravel Blade views.
-- [divpusher/codeigniter4-auth](https://github.com/divpusher/codeigniter4-auth) - A simple authentication library for CodeIgniter 4.
 - [imanghafoori1/laravel-widgetize](https://github.com/imanghafoori1/laravel-widgetize) - A minimal package to help you make your laravel application cleaner and faster.
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [SpartnerNL/Laravel-Sidebar](https://github.com/SpartnerNL/Laravel-Sidebar) - A Laravel Sidebar builder
@@ -1182,7 +1180,7 @@
 - [xero/glitchlock](https://github.com/xero/glitchlock) - a glitch art themed randomized lockscreen for linux
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [xangelkawaiix/Archrice](https://github.com/xangelkawaiix/Archrice) - i3-gaps dotfiles on Arch Linux
+- [nishimi-ya/Archrice](https://github.com/nishimi-ya/Archrice) - i3-gaps dotfiles on Arch Linux
 - [addy-dclxvi/conky-theme-collections](https://github.com/addy-dclxvi/conky-theme-collections) - Some my uninteresting homebrew Conky
 - [alecive/FlatWoken](https://github.com/alecive/FlatWoken) - Official FlatWoken icon theme source repository.
 
