@@ -229,7 +229,6 @@
 - [marazmista/radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
 - [misyltoad/d9vk](https://github.com/misyltoad/d9vk) - A Direct3D9 to Vulkan layer using the DXVK backend. [Upstreamed to DXVK]
 - [doitsujin/dxvk-ags](https://github.com/doitsujin/dxvk-ags) - Experimental implementation of AGS D3D11 extensions for DXVK
-- [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
 - [ChipFrickVi/dotfiles](https://github.com/ChipFrickVi/dotfiles) - 
 - [bazukas/obs-qtwebkit](https://github.com/bazukas/obs-qtwebkit) - browser plugin for obs-studio
 
@@ -622,6 +621,7 @@
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [zoefiri/wallpapers](https://github.com/zoefiri/wallpapers) - My wallpaper folder, no images are my own work and all credit goes to original artists or photographers.
 - [yasinkuyu/Girogate](https://github.com/yasinkuyu/Girogate) - NestPay GiroGate dökümanlar
+- [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
 - [ooguz/turkce-kufur-karaliste](https://github.com/ooguz/turkce-kufur-karaliste) - Türkçe için bir kara liste (blacklist)
 - [unique1984/Sozlesmeler](https://github.com/unique1984/Sozlesmeler) - Web Yazılımı Sözleşmesi, Bilgisayar Yazılımı Sözleşmesi, Tasarım Sözleşmesi, 5846 Sayılı Kanun,
 - [ibo/laravel-blog-ornegi](https://github.com/ibo/laravel-blog-ornegi) - Laravel Workshop etkinliğinde atölye çalışmasında kodladığım, üyelik sistemi olan örnek bir blog uygulaması.
@@ -825,7 +825,7 @@
 
 ## PowerShell 
 
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [matthewjberger/scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts
 
