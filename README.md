@@ -405,6 +405,7 @@
 - [TheWisker/Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
+- [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam) - Augments your Steam Experience
 - [TreTuna/sync-branches](https://github.com/TreTuna/sync-branches) - GitHub Action to sync back a branch to another after a merge.
 - [AlphaNecron/lightdm-evo](https://github.com/AlphaNecron/lightdm-evo) - A modern theme for LightDM WebKit2.
 - [brian-girko/always-active](https://github.com/brian-girko/always-active) - Pretend a webpage is in its active state even if not
@@ -1195,9 +1196,8 @@
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
-- [IsThereAnyDeal/AugmentedSteam](https://github.com/IsThereAnyDeal/AugmentedSteam) - Augments your Steam Experience
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [kjsahkjsdn/bulma-css-class-completion](https://github.com/kjsahkjsdn/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
+- [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
