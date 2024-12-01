@@ -837,6 +837,7 @@
 
 ## Python 
 
+- [tpvasconcelos/ridgeplot](https://github.com/tpvasconcelos/ridgeplot) - Beautiful ridgeline plots in Python
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [MinchinWeb/minchin.pelican.plugins.post_stats](https://github.com/MinchinWeb/minchin.pelican.plugins.post_stats) - A Pelican plugin which calculates various statistics about a post and store them in an article.stats dictionary.
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
