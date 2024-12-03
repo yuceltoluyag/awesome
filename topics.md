@@ -391,6 +391,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [dudik/herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal and lightweight.
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -605,7 +606,7 @@
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [guglicap/wal-discord](https://github.com/guglicap/wal-discord) - Generate Discord css from pywal colors
-- [FilipLitwora/pywal-discord](https://github.com/FilipLitwora/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
+- [franekxtb/pywal-discord](https://github.com/franekxtb/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
 - [cniw/mpv-discordRPC](https://github.com/cniw/mpv-discordRPC) - Discord Rich Presence integration for mpv Media Player
 
 ## django 
@@ -908,7 +909,7 @@
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
-- [FilipLitwora/pywal-discord](https://github.com/FilipLitwora/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
+- [franekxtb/pywal-discord](https://github.com/franekxtb/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
 - [thedevdojo/larasail](https://github.com/thedevdojo/larasail) - LaraSail - Set Sail with your Laravel app on DigitalOcean
