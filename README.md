@@ -391,6 +391,7 @@
 - [yusufcakal/algorithms](https://github.com/yusufcakal/algorithms) - basic algorithms and solutions
 - [Alicannklc/phpstorm-codeigniter-snippets](https://github.com/Alicannklc/phpstorm-codeigniter-snippets) - phpstorm codeigniter snippets plugin
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [enesusta/il-ilce-mahalle-txt](https://github.com/enesusta/il-ilce-mahalle-txt) - Lokasyon bilgisinin .txt hali.
 - [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
 
