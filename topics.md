@@ -306,6 +306,7 @@
 
 ## awesome-list 
 
+- [yuritsuki/awesome-dota2](https://github.com/yuritsuki/awesome-dota2) - A curated list of bookmarks, tutorials and other cool resources from the Dota 2 community
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [dag7dev/awesome-anbernic](https://github.com/dag7dev/awesome-anbernic) - Resources for Anbernic consoles (links, CFW...)
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -1547,7 +1548,7 @@
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
-- [V0rt3x667/ArchyPie-Setup](https://github.com/V0rt3x667/ArchyPie-Setup) - A Clone of RetroPie for Arch Based Systems
+- [V0rt3x667/ArchyPie-Setup](https://github.com/V0rt3x667/ArchyPie-Setup) - A clone of RetroPie for Arch Linux based systems with extra seasoning!
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [michelolvera/vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
