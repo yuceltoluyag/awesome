@@ -300,7 +300,6 @@
 ## Emacs Lisp 
 
 - [jan-warchol/selenized](https://github.com/jan-warchol/selenized) - Solarized redesigned: fine-tuned color palette for programmers with focus on readability.
-- [marinov98/dotfiles](https://github.com/marinov98/dotfiles) - All my configurations. Take a look! :blush:
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 
 ## GDScript 
@@ -1129,6 +1128,7 @@
 - [aroma1994/polybar-windows](https://github.com/aroma1994/polybar-windows) - A polybar script that shows opened windows on your current display. Click on window titles to switch between windows.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- [marinov98/dotfiles](https://github.com/marinov98/dotfiles) - All my configurations. Take a look! :blush:
 - [Liupold/pidswallow](https://github.com/Liupold/pidswallow) - A swallower script using process hierarchy.
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [dylanaraps/torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
