@@ -1177,6 +1177,7 @@
 
 ## linux 
 
+- [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -1474,6 +1475,8 @@
 
 ## others 
 
+- [eylles/pywal16-libadwaita](https://github.com/eylles/pywal16-libadwaita) - pywal16 templates for adw-gtk3, libadwaita, gradience, qt5ct, qt6ct, kvantum kvlibadwaita
+- [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [NotFlawffles/termux-nerd-installer](https://github.com/NotFlawffles/termux-nerd-installer) - Termux tool to easily install nerd fonts
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [christian-fei/minimal-analytics](https://github.com/christian-fei/minimal-analytics) - Read more at https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction/
