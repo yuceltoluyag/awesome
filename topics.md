@@ -1475,6 +1475,7 @@
 
 ## others 
 
+- [robson-66/Buuf](https://github.com/robson-66/Buuf) - Created by fana-m. Icons by mattahan. Modified by Hybrid Son Of Oxayotl
 - [eylles/pywal16-libadwaita](https://github.com/eylles/pywal16-libadwaita) - pywal16 templates for adw-gtk3, libadwaita, gradience, qt5ct, qt6ct, kvantum kvlibadwaita
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [NotFlawffles/termux-nerd-installer](https://github.com/NotFlawffles/termux-nerd-installer) - Termux tool to easily install nerd fonts
