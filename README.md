@@ -643,6 +643,8 @@
 
 ## PHP 
 
+- [fox91/php-dev-tools](https://github.com/fox91/php-dev-tools) - fox91 PHP Dev Tools
+- [fox91/php-coding-standard](https://github.com/fox91/php-coding-standard) - fox91 PHP Coding Standards
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [IsThereAnyDeal/AugmentedSteam_Server](https://github.com/IsThereAnyDeal/AugmentedSteam_Server) - A PHP server application that powers the Enhanced Steam API
