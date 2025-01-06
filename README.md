@@ -1191,7 +1191,7 @@
 - [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
 - [depau/refind-theme-regular-black](https://github.com/depau/refind-theme-regular-black) - 
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [kb-elmo/cavapify](https://github.com/kb-elmo/cavapify) - auto colorchanger for cava
+- [str-dst/cavapify](https://github.com/str-dst/cavapify) - auto colorchanger for cava
 - [erdiucar/frontend-starter-pack](https://github.com/erdiucar/frontend-starter-pack) - This pack allows you to start a frontend project quickly.
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [UtkarshVerma/i3blocklets](https://github.com/UtkarshVerma/i3blocklets) - :pushpin: Custom scripts for i3blocks written in bash.
