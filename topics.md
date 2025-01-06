@@ -1890,7 +1890,7 @@
 - [guillermooo/Vintageous](https://github.com/guillermooo/Vintageous) - Vi/Vim emulation for Sublime Text 3
 - [francodacosta/sublime-php-getters-setters](https://github.com/francodacosta/sublime-php-getters-setters) - generare getters and setters for php classes
 - [kbsezginel/nanocar-avogadro](https://github.com/kbsezginel/nanocar-avogadro) - Nanocar builder Avogadro 2 plug-in
-- [kb-elmo/cavapify](https://github.com/kb-elmo/cavapify) - auto colorchanger for cava
+- [str-dst/cavapify](https://github.com/str-dst/cavapify) - auto colorchanger for cava
 - [tommyku/start-page-bios](https://github.com/tommyku/start-page-bios) - A browser start page that looks like BIOS screen, with arrow key navigation
 - [regnarg/urxvt-config-reload](https://github.com/regnarg/urxvt-config-reload) - 
 - [Nuklon/Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
