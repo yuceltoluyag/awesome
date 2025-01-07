@@ -90,6 +90,7 @@
 
 ## C 
 
+- [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror) - mirror analyzer for arch linux
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
@@ -312,6 +313,7 @@
 
 ## Go 
 
+- [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
@@ -536,7 +538,7 @@
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [gthreepw00d/mpv-iptv](https://github.com/gthreepw00d/mpv-iptv) - iptv script for mpv
 - [AmrEldib/cmder-powerline-prompt](https://github.com/AmrEldib/cmder-powerline-prompt) - Custom prompt for Cmder on Windows
 - [Nostrademous/Dota2-FullOverwrite](https://github.com/Nostrademous/Dota2-FullOverwrite) - Work in progress for a full-overwrite Dota 2 bot framework
