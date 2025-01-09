@@ -313,6 +313,7 @@
 
 ## Go 
 
+- [SwayKh/linksym](https://github.com/SwayKh/linksym) - Linksym is a dotfiles manager. Making it easier to create and manager symlink while creating automatic records.
 - [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -888,7 +889,7 @@
 - [robbyz512/dota2-minify](https://github.com/robbyz512/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024 with HikerAPI SaaS
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [jan-warchol/limestone-colors](https://github.com/jan-warchol/limestone-colors) - Minimalistic syntax highlighting with great readability and thoughtful design.
 - [rr-/10ff](https://github.com/rr-/10ff) - Typing tests in CLI
