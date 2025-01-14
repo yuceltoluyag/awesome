@@ -856,6 +856,7 @@
 
 ## Python 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [eylles/pywal16-libadwaita](https://github.com/eylles/pywal16-libadwaita) - pywal16 templates for adw-gtk3, libadwaita, gradience, qt5ct, qt6ct, kvantum kvlibadwaita
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [tpvasconcelos/ridgeplot](https://github.com/tpvasconcelos/ridgeplot) - Beautiful ridgeline plots in Python
