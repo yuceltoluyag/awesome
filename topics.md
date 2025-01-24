@@ -298,6 +298,7 @@
 
 ## awesome 
 
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -309,6 +310,7 @@
 
 ## awesome-list 
 
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [yuritsuki/awesome-dota2](https://github.com/yuritsuki/awesome-dota2) - A curated list of bookmarks, tutorials and other cool resources from the Dota 2 community
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [dag7dev/awesome-anbernic](https://github.com/dag7dev/awesome-anbernic) - Resources for Anbernic consoles (links, CFW...)
@@ -536,7 +538,7 @@
 - [u1ui/norm.css](https://github.com/u1ui/norm.css) - CSS normalization for crossbrowser compatibility
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [ashtrath/Simplify](https://github.com/ashtrath/Simplify) - simple clean looking theme
-- [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
+- [rxb3rth/bulma-css-class-completion](https://github.com/rxb3rth/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
@@ -902,7 +904,7 @@
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
+- [rxb3rth/bulma-css-class-completion](https://github.com/rxb3rth/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [ValvePython/vpk](https://github.com/ValvePython/vpk) - 📦 Open, Search, Extract and Create VPKs in python
 - [mngshm/rxfetch](https://github.com/mngshm/rxfetch) - A custom system info fetching tool
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
@@ -1259,7 +1261,7 @@
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [AlfredoSequeida/venus](https://github.com/AlfredoSequeida/venus) - Venus aims to be a cross-platform tool to automatically change your desktop wallpaper to something random using images from Unsplash.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
-- [roosta/i3wsr](https://github.com/roosta/i3wsr) - Change i3-wm workspace names based on content
+- [roosta/i3wsr](https://github.com/roosta/i3wsr) - A dynamic workspace renamer for i3 and Sway that updates names to reflect their active applications.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -1501,6 +1503,7 @@
 
 ## others 
 
+- [pelican-plugins/series](https://github.com/pelican-plugins/series) - Series is a Pelican plugin that joins multiple posts into a series
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [pelican-plugins/statistics](https://github.com/pelican-plugins/statistics) - Pelican plugin that calculates post statistics such as word count, reading ease, and more.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
