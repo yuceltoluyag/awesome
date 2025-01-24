@@ -857,6 +857,7 @@
 
 ## Python 
 
+- [pelican-plugins/series](https://github.com/pelican-plugins/series) - Series is a Pelican plugin that joins multiple posts into a series
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [pelican-plugins/statistics](https://github.com/pelican-plugins/statistics) - Pelican plugin that calculates post statistics such as word count, reading ease, and more.
@@ -1092,7 +1093,7 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [pierrechevalier83/workstyle](https://github.com/pierrechevalier83/workstyle) - Sway workspaces with style
-- [roosta/i3wsr](https://github.com/roosta/i3wsr) - Change i3-wm workspace names based on content
+- [roosta/i3wsr](https://github.com/roosta/i3wsr) - A dynamic workspace renamer for i3 and Sway that updates names to reflect their active applications.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -1229,7 +1230,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
+- [rxb3rth/bulma-css-class-completion](https://github.com/rxb3rth/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
