@@ -405,6 +405,7 @@
 
 ## JavaScript 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [MangoLion/bgbye](https://github.com/MangoLion/bgbye) - FOSS Image background remover with 10 open source rmbg models
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
@@ -859,6 +860,8 @@
 
 ## Python 
 
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [curvedinf/dir-assistant](https://github.com/curvedinf/dir-assistant) - Chat with your current directory's files using a local or API LLM.
 - [pelican-plugins/series](https://github.com/pelican-plugins/series) - Series is a Pelican plugin that joins multiple posts into a series
