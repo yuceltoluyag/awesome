@@ -113,6 +113,7 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -137,6 +138,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -209,6 +211,7 @@
 
 ## ai 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 
@@ -437,6 +440,7 @@
 
 ## cli 
 
+- [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [SwayKh/linksym](https://github.com/SwayKh/linksym) - Linksym is a dotfiles manager. Making it easier to create and manager symlink while creating automatic records.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
@@ -563,7 +567,7 @@
 
 ## dart 
 
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D graphics editor focused on simplicity, speed, elegance, and usability
 
 ## data-analysis 
 
@@ -676,6 +680,7 @@
 
 ## electron 
 
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
@@ -736,7 +741,7 @@
 ## flutter 
 
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
-- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D image editor
+- [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive, node based 2D graphics editor focused on simplicity, speed, elegance, and usability
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 
 ## flutter-apps 
@@ -1286,6 +1291,11 @@
 - [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :books: An awesome list of customization tools for your UN*X/Linux desktop.
 
+## llm 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [Luxadevi/Ollama-Colab-Integration](https://github.com/Luxadevi/Ollama-Colab-Integration) - Jupyter Notebooks for Ollama integration
+
 ## lua 
 
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
@@ -1483,6 +1493,10 @@
 - [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 
+## openai 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 ## opencv 
 
 - [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
@@ -1503,6 +1517,9 @@
 
 ## others 
 
+- [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
+- [MangoLion/bgbye](https://github.com/MangoLion/bgbye) - FOSS Image background remover with 10 open source rmbg models
+- [curvedinf/dir-assistant](https://github.com/curvedinf/dir-assistant) - Chat with your current directory's files using a local or API LLM.
 - [pelican-plugins/series](https://github.com/pelican-plugins/series) - Series is a Pelican plugin that joins multiple posts into a series
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [pelican-plugins/statistics](https://github.com/pelican-plugins/statistics) - Pelican plugin that calculates post statistics such as word count, reading ease, and more.
@@ -2241,6 +2258,7 @@
 
 ## python3 
 
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
@@ -2361,6 +2379,8 @@
 
 ## self-hosted 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
