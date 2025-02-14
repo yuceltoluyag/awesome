@@ -77,7 +77,7 @@
 
 - [symbuzzer/Turkish-Ad-Hosts](https://github.com/symbuzzer/Turkish-Ad-Hosts) - Turkish Ad Hosts
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [Jackpison/IDM-reset](https://github.com/Jackpison/IDM-reset) - IDM Trail Reset Help
 - [AveYo/D-OPTIMIZER](https://github.com/AveYo/D-OPTIMIZER) - Make Dota 2 fps great again
 
