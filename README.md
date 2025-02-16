@@ -471,7 +471,7 @@
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [volkanozbek/nodejs-mvc](https://github.com/volkanozbek/nodejs-mvc) - 
 - [Alex-D/Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor under 10kB
-- [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
+- [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 - [codeguy/modern-php](https://github.com/codeguy/modern-php) - Companion code repository for Modern PHP by Josh Lockhart
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page
@@ -1270,6 +1270,7 @@
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [Hambergo/9kmmrbot](https://github.com/Hambergo/9kmmrbot) - 
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+- [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
 
 ## VBScript 
 
@@ -1310,7 +1311,6 @@
 - [Hujjat/vue-shop](https://github.com/Hujjat/vue-shop) - Learn to Build E-Commerce Web App with Vuejs and Firebase.
 - [serversideup/roastandbrew](https://github.com/serversideup/roastandbrew) - Updated content available! We learned a lot since we originally wrote this article. We now have this updated for Laravel 8, Vue, and NuxtJS 👉 https://srvrsi.de/book
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
-- [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
 
 
 ## License
