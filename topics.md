@@ -680,6 +680,7 @@
 
 ## electron 
 
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -973,6 +974,7 @@
 
 ## haskell 
 
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## html 
@@ -1060,7 +1062,7 @@
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
+- [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - jQuery Validation Plugin library sources
@@ -1203,6 +1205,7 @@
 
 ## linux 
 
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
@@ -1221,6 +1224,7 @@
 - [dimtpap/obs-pipewire-audio-capture](https://github.com/dimtpap/obs-pipewire-audio-capture) - 🔊 Audio device and application capture for OBS Studio using PipeWire
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -1332,6 +1336,7 @@
 
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -1378,7 +1383,7 @@
 
 ## mobile 
 
-- [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
+- [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 
 ## mongodb 
 
@@ -1520,7 +1525,7 @@
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [vslavik/poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
-- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is an AI-powered autonomous coding agent that lives in your editor.
 - [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [MangoLion/bgbye](https://github.com/MangoLion/bgbye) - FOSS Image background remover with 10 open source rmbg models
 - [curvedinf/dir-assistant](https://github.com/curvedinf/dir-assistant) - Chat with your current directory's files using a local or API LLM.
@@ -1568,7 +1573,6 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [p-chan5/EasyPulse](https://github.com/p-chan5/EasyPulse) - A set of HQ presets for Easy Effects.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [zeroruka/video-wallpaper-scripts](https://github.com/zeroruka/video-wallpaper-scripts) - Some scripts to use video wallpapers on linux
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [hometown-fork/hometown](https://github.com/hometown-fork/hometown) - A supported fork of Mastodon that provides local posting and a wider range of content types.
@@ -2310,7 +2314,7 @@
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
+- [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 - [ademilter/feyz](https://github.com/ademilter/feyz) - Kafa açan içerikler
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -2319,7 +2323,7 @@
 
 ## react-native 
 
-- [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
+- [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 
 ## reactjs 
 
@@ -2553,7 +2557,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
-- [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
+- [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 
 ## ubuntu 
 
@@ -2658,6 +2662,7 @@
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
