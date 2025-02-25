@@ -861,6 +861,7 @@
 
 ## Python 
 
+- [woctezuma/hidden-gems](https://github.com/woctezuma/hidden-gems) - Ranking of Steam games which favors "hidden gems". Featured in PC Gamer.
 - [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
