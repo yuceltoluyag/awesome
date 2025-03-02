@@ -33,6 +33,7 @@
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [MQL4](#mql4)
 - [Makefile](#makefile)
 - [Nim](#nim)
@@ -358,7 +359,6 @@
 - [kannansuresh/jekyll-blog-archive-workflow](https://github.com/kannansuresh/jekyll-blog-archive-workflow) - Jekyll Archives workflow action. This action brings archive feature to Jekyll blogs hosted on GitHub pages.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Embark on a trading journey with this project's cutting-edge stop loss/take profit generator, fine-tuning your TradingView strategy to perfection. Harness the power of sklearn's machine learning algor
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [ssokurenko/lin.css](https://github.com/ssokurenko/lin.css) - Minimalistic CSS-only UI framework
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
 - [yajra/laravel-datatables-demo](https://github.com/yajra/laravel-datatables-demo) - Laravel Datatables Package Demo App
@@ -551,6 +551,10 @@
 - [Nostrademous/Dota2-FullOverwrite](https://github.com/Nostrademous/Dota2-FullOverwrite) - Work in progress for a full-overwrite Dota 2 bot framework
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [cniw/mpv-discordRPC](https://github.com/cniw/mpv-discordRPC) - Discord Rich Presence integration for mpv Media Player
+
+## MDX 
+
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## MQL4 
 
