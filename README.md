@@ -1048,7 +1048,6 @@
 - [adamwathan/sublime-phpunit](https://github.com/adamwathan/sublime-phpunit) - Run individual unit test files directly from Sublime
 - [SublimeLinter/SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - SublimeLinter 3 plugin for PHP, using php -l.
 - [erichard/SublimePHPCompanion](https://github.com/erichard/SublimePHPCompanion) - A Sublime Text plugin that provides cool stuff for PHP 5.3+ coding session.
-- [rtgnx/xtheme](https://github.com/rtgnx/xtheme) - Theme manager for people who are tired of writing tons of config files. Inspired by https://github.com/budRich/mondo
 - [resloved/tchat](https://github.com/resloved/tchat) - 🎮 — Twitch Chat Utils.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sonakinci41/DamaDamas-icon-theme](https://github.com/sonakinci41/DamaDamas-icon-theme) - icon theme
