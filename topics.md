@@ -683,7 +683,7 @@
 ## electron 
 
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
@@ -1649,7 +1649,7 @@
 - [felix-u/neomorphic-custom-css](https://github.com/felix-u/neomorphic-custom-css) - A repository of neomorphic CSS for popular websites.
 - [gugod/App-perlbrew](https://github.com/gugod/App-perlbrew) - Manage perl installations in your $HOME
 - [irssi/scripts.irssi.org](https://github.com/irssi/scripts.irssi.org) - Script Repository for Irssi
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
 - [Warinyourself/lightdm-webkit-theme-osmos](https://github.com/Warinyourself/lightdm-webkit-theme-osmos) - Osmos - lightdm greeter theme based on GLSL.
 - [google/UIforETW](https://github.com/google/UIforETW) - User interface for recording and managing ETW traces
@@ -2391,7 +2391,7 @@
 ## self-hosted 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
