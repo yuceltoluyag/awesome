@@ -196,6 +196,7 @@
 - [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -682,6 +683,7 @@
 
 ## electron 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -1468,6 +1470,7 @@
 
 ## nodejs 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [Ezzud/instify](https://github.com/Ezzud/instify) - Displays your spotify current track on your instagram bio
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
@@ -1545,7 +1548,7 @@
 - [eylles/pywal16-libadwaita](https://github.com/eylles/pywal16-libadwaita) - pywal16 templates for adw-gtk3, libadwaita, gradience, qt5ct, qt6ct, kvantum kvlibadwaita
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [NotFlawffles/termux-nerd-installer](https://github.com/NotFlawffles/termux-nerd-installer) - Termux tool to easily install nerd fonts
-- [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
+- [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [christian-fei/minimal-analytics](https://github.com/christian-fei/minimal-analytics) - Read more at https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction/
 - [minchinweb/minchin.pelican.plugins.post_stats](https://github.com/minchinweb/minchin.pelican.plugins.post_stats) - A Pelican plugin which calculates various statistics about a post and store them in an article.stats dictionary.
 - [rigvedmaanas/CustomTkinterBuilder](https://github.com/rigvedmaanas/CustomTkinterBuilder) - This is a Free and Open Source RAD tool for Custom Tkinter. This software allows you to create complex UI faster than ever⚡
@@ -2350,6 +2353,7 @@
 
 ## rust 
 
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -2621,6 +2625,10 @@
 - [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Language server with improved support for SCSS, Sass indented and SassDoc. Workspace awareness and full support for Sass modules.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [taniarascia/new-moon](https://github.com/taniarascia/new-moon) - 🌙 ‎ The optimized dark theme for web development.
+
+## vpn 
+
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 
 ## vue 
 
