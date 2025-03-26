@@ -112,7 +112,7 @@
 - [skeeto/optparse](https://github.com/skeeto/optparse) - Portable, reentrant, getopt-like option parser
 - [dudik/herbe](https://github.com/dudik/herbe) - Daemon-less notifications without D-Bus. Minimal and lightweight.
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [LAKostis/nvdock](https://github.com/LAKostis/nvdock) - Fork of nvdock, a tray icon to easily launch the nvidia-settings control panel
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
