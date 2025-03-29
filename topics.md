@@ -189,6 +189,7 @@
 - [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -2297,6 +2298,7 @@
 
 ## pytorch 
 
+- [DJHanceNL/Future-Roop](https://github.com/DJHanceNL/Future-Roop) - continuation of my favorite app - roop-unleashed - By C0untFloyd
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [deeplearningturkiye/turkce-yapay-zeka-kaynaklari](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari) - Türkiye'de yapılan derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) çalışmalarının derlendiği sayfa.
@@ -2551,6 +2553,10 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+
+## text-to-speech 
+
+- [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 
 ## trading 
 
