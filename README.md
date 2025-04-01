@@ -455,7 +455,6 @@
 - [typekit/webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
 - [Stanko/window-scroll-manager](https://github.com/Stanko/window-scroll-manager) - 60fps window scroll tracking event
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [Ondkloss/cg-candy-collector](https://github.com/Ondkloss/cg-candy-collector) - Automatically collects Coingecko candy
@@ -1261,6 +1260,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
 - [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) - The default Dark+ theme, using Material's color palette.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [raftheunis87/order-alert-bot](https://github.com/raftheunis87/order-alert-bot) - Get Telegram notifications if orders are filled. Currently compatible with FTX Exchange.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
