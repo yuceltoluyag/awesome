@@ -621,6 +621,7 @@
 
 ## devops 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [GitGuardian/ggshield-action](https://github.com/GitGuardian/ggshield-action) - GitGuardian Shield GitHub Action - Find exposed credentials in your commits
 
 ## discord 
@@ -865,6 +866,7 @@
 
 ## golang 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [SwayKh/linksym](https://github.com/SwayKh/linksym) - Linksym is a dotfiles manager. Making it easier to create and manager symlink while creating automatic records.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
