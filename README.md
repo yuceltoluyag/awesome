@@ -483,7 +483,7 @@
 - [fastcast/fastcast](https://github.com/fastcast/fastcast) - :ocean: Stream peer-to-peer audio and video content
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [ademilter/turkce-sozluk](https://github.com/ademilter/turkce-sozluk) - 
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [1000hz/bootstrap-validator](https://github.com/1000hz/bootstrap-validator) - A user-friendly HTML5 form validation jQuery plugin for Bootstrap 3
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - jQuery Validation Plugin library sources
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
