@@ -195,7 +195,6 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
-- [ui-design](#ui-design)
 - [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -1544,6 +1543,7 @@
 
 ## others 
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [traceypooh/staticmin](https://github.com/traceypooh/staticmin) - User-generated content for Git-powered websites
 - [woctezuma/hidden-gems](https://github.com/woctezuma/hidden-gems) - Ranking of Steam games which favors "hidden gems". Featured in PC Gamer.
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
@@ -1568,6 +1568,7 @@
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [christian-fei/minimal-analytics](https://github.com/christian-fei/minimal-analytics) - Read more at https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction/
 - [minchinweb/minchin.pelican.plugins.post_stats](https://github.com/minchinweb/minchin.pelican.plugins.post_stats) - A Pelican plugin which calculates various statistics about a post and store them in an article.stats dictionary.
+- [rigvedmaanas/CustomTkinterBuilder](https://github.com/rigvedmaanas/CustomTkinterBuilder) - This is a Free and Open Source RAD tool for Custom Tkinter. This software allows you to create complex UI faster than ever⚡
 - [Cippo95/nvidia-fan-control](https://github.com/Cippo95/nvidia-fan-control) - Controlling fans on my NVIDIA graphics card
 - [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
@@ -2611,12 +2612,6 @@
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-
-## ui-design 
-
-- [rigvedmaanas/CustomTkinterBuilder](https://github.com/rigvedmaanas/CustomTkinterBuilder) - This is a Free and Open Source RAD tool for Custom Tkinter. This software allows you to create complex UI faster than ever⚡
-- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
 ## unity 
 
