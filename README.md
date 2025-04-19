@@ -413,6 +413,7 @@
 
 ## JavaScript 
 
+- [zakandaiev/frontend-starter](https://github.com/zakandaiev/frontend-starter) - FrontEnd Starter is a boilerplate kit for easy building modern static web-sites using Gulp
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [traceypooh/staticmin](https://github.com/traceypooh/staticmin) - User-generated content for Git-powered websites
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -705,9 +706,9 @@
 - [mailerlite/laravel-elasticsearch](https://github.com/mailerlite/laravel-elasticsearch) - An easy way to use the official Elastic Search client in your Laravel applications.
 - [rashidlaasri/LaravelInstaller](https://github.com/rashidlaasri/LaravelInstaller) - A web installer for Laravel
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
-- [blade-ui-kit/blade-icons](https://github.com/blade-ui-kit/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
+- [driesvints/blade-icons](https://github.com/driesvints/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
 - [codeat3/blade-zondicons](https://github.com/codeat3/blade-zondicons) - A package to easily make use of Zondicons in your Laravel Blade views.
-- [blade-ui-kit/blade-heroicons](https://github.com/blade-ui-kit/blade-heroicons) - A package to easily make use of Heroicons in your Laravel Blade views.
+- [driesvints/blade-heroicons](https://github.com/driesvints/blade-heroicons) - A package to easily make use of Heroicons in your Laravel Blade views.
 - [imanghafoori1/laravel-widgetize](https://github.com/imanghafoori1/laravel-widgetize) - A minimal package to help you make your laravel application cleaner and faster.
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [SpartnerNL/Laravel-Sidebar](https://github.com/SpartnerNL/Laravel-Sidebar) - A Laravel Sidebar builder
@@ -1239,6 +1240,7 @@
 
 ## TypeScript 
 
+- [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky.
 - [ctxs-ai/ctxs.ai](https://github.com/ctxs-ai/ctxs.ai) - an open-source, community-curated directory of contexts for use with LLMs
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
