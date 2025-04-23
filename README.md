@@ -1098,6 +1098,7 @@
 
 ## Rust 
 
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [wookietreiber/strace-analyzer](https://github.com/wookietreiber/strace-analyzer) - analyzes strace output
