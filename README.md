@@ -90,6 +90,7 @@
 
 ## C 
 
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror) - mirror analyzer for arch linux
