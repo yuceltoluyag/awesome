@@ -1240,6 +1240,7 @@
 
 ## linux 
 
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
@@ -1371,6 +1372,7 @@
 
 ## macos 
 
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -2735,6 +2737,7 @@
 
 ## windows 
 
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
