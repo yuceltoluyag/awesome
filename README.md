@@ -701,7 +701,7 @@
 - [spatie/flysystem-dropbox](https://github.com/spatie/flysystem-dropbox) - A flysystem driver for Dropbox that uses the v2 API
 - [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 - [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis/Valkey client for PHP.
-- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5+
 - [eduarguz/shift-php-cs](https://github.com/eduarguz/shift-php-cs) - Laravel Shift recommended style config
 - [Bottelet/DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
 - [pgrimaud/instagram-user-feed](https://github.com/pgrimaud/instagram-user-feed) - This is a scrapper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.
