@@ -347,7 +347,6 @@
 - [TestingPens/SwarmIt](https://github.com/TestingPens/SwarmIt) - SwarmIt is a Golang project I created to learn the language and challenge myself to bypass Google's infamous ReCaptcha. The usecase for this project was to find a practical way to automate the process
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
-- [tylerwolf35/wego](https://github.com/tylerwolf35/wego) - Weather app for the terminal, with Dark Sky support
 - [parkr/auto-reply](https://github.com/parkr/auto-reply) - :loop: Handle GitHub webhooks and manage issues on your repositories. Used to run @jekyllbot, now at github.com/jekyll/jekyllbot
 - [hoanhan101/algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
