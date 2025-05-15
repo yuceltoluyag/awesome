@@ -1872,7 +1872,6 @@
 - [erenmustafaozdal/turkey-address-bank](https://github.com/erenmustafaozdal/turkey-address-bank) - Laravel seed class and SQL file address of the Turkey
 - [1000hz/bootstrap-validator](https://github.com/1000hz/bootstrap-validator) - A user-friendly HTML5 form validation jQuery plugin for Bootstrap 3
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [tylerwolf35/wego](https://github.com/tylerwolf35/wego) - Weather app for the terminal, with Dark Sky support
 - [reorr/mantablockscreen](https://github.com/reorr/mantablockscreen) - another i3lock-color wrapper that mantab
 - [miracsengonul/json_storage](https://github.com/miracsengonul/json_storage) - API Based JSON Storage
 - [TheWebFosters/project-camp](https://github.com/TheWebFosters/project-camp) - Open source Project Management, CRM, Support & Invoicing application. Developed using Laravel PHP framework, Vuetify VueJS
