@@ -1050,7 +1050,7 @@
 - [StuntsPT/Radeon-tray](https://github.com/StuntsPT/Radeon-tray) - A simple tray icon for controlling Radeon power profiles
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [vim-vdebug/vdebug](https://github.com/vim-vdebug/vdebug) - Multi-language DBGP debugger client for Vim (PHP, Python, Perl, Ruby, etc.)
-- [yazbel/python-istihza](https://github.com/yazbel/python-istihza) - İstihza Python Belgeleri, en kapsamlı Türkçe Python belgelendirmesi
+- [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
 - [realsuayip/django-sozluk](https://github.com/realsuayip/django-sozluk) - an exhaustive ekşi sözlük clone, powered by Python
 - [NVlabs/stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
 - [okraits/j4-make-config](https://github.com/okraits/j4-make-config) - Universal theme switcher and config generator for the i3 wm
