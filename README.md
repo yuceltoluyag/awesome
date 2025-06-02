@@ -252,7 +252,7 @@
 - [numist/highlight-css](https://github.com/numist/highlight-css) - CSS files created from Pygments' and Rouge's built-in styles
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [ashtrath/Simplify](https://github.com/ashtrath/Simplify) - simple clean looking theme
-- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
+- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI. （该项目不再维护。）
 - [SublimeText/TailwindCSS](https://github.com/SublimeText/TailwindCSS) - Tailwind CSS syntax for Sublime Text
 - [felix-u/neomorphic-custom-css](https://github.com/felix-u/neomorphic-custom-css) - A repository of neomorphic CSS for popular websites.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
