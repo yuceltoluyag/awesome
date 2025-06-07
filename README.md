@@ -90,6 +90,7 @@
 
 ## C 
 
+- [kozec/dumbxinputemu](https://github.com/kozec/dumbxinputemu) - xinput reimplementation compatibile with DirectInput controllers
 - [callofduty2x/CoD2x](https://github.com/callofduty2x/CoD2x) - CoD2x is an unofficial patch for Call of Duty 2 that fixes bugs and adds new features
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -158,7 +159,7 @@
 - [builtbybel/xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp-AntiSpy, designed for the modern Windows experience
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [CadeEvs/FrostyToolsuite](https://github.com/CadeEvs/FrostyToolsuite) - 
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -369,7 +370,7 @@
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [kannansuresh/jekyll-blog-archive-workflow](https://github.com/kannansuresh/jekyll-blog-archive-workflow) - Jekyll Archives workflow action. This action brings archive feature to Jekyll blogs hosted on GitHub pages.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
-- [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Embark on a trading journey with this project's cutting-edge stop loss/take profit generator, fine-tuning your TradingView strategy to perfection. Harness the power of sklearn's machine learning algor
+- [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Start your trading journey with this project's advanced stop loss/take profit generator, enhancing your TradingView strategy. Utilize sklearn's machine learning algorithms for superior strategy optimi
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [ssokurenko/lin.css](https://github.com/ssokurenko/lin.css) - Minimalistic CSS-only UI framework
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
