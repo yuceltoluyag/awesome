@@ -1132,6 +1132,7 @@
 
 ## jekyll-theme 
 
+- [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) - A configurable portfolio-style jekyll theme for writers.
 - [chesterhow/tale](https://github.com/chesterhow/tale) - Minimal Jekyll theme for storytellers
 
 ## jquery 
