@@ -698,7 +698,7 @@
 - [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
 - [tattersoftware/codeigniter4-assets](https://github.com/tattersoftware/codeigniter4-assets) - Asset handling for CodeIgniter 4
 - [codeigniter4/tasks](https://github.com/codeigniter4/tasks) - Task Scheduler for CodeIgnter 4
-- [codestudiohq/laravel-totem](https://github.com/codestudiohq/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
+- [always-open/laravel-totem](https://github.com/always-open/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [jrgp/linfo](https://github.com/jrgp/linfo) - Linfo PHP Server Health Status
 - [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy) - Make your Laravel app usable by multiple tenants
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
