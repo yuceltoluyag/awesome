@@ -1344,7 +1344,7 @@
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [marazmista/radeon-profile](https://github.com/marazmista/radeon-profile) - Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu)
 - [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
-- [cheesecakeufo/komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
+- [christianloopp/komorebi](https://github.com/christianloopp/komorebi) - A beautiful and customizable wallpapers manager for Linux
 - [hsmnzaydn/AfterFromManjaro](https://github.com/hsmnzaydn/AfterFromManjaro) - Your Manjaro distribution automatically loads packages for you.
 - [misyltoad/d9vk](https://github.com/misyltoad/d9vk) - A Direct3D9 to Vulkan layer using the DXVK backend. [Upstreamed to DXVK]
 - [0xhjohnson/arc-theme-gotham](https://github.com/0xhjohnson/arc-theme-gotham) - A flat theme with transparent elements based on gotham vim scheme
@@ -1619,7 +1619,6 @@
 - [robson-66/Buuf](https://github.com/robson-66/Buuf) - Created by fana-m. Icons by mattahan. Modified by Hybrid Son Of Oxayotl
 - [eylles/pywal16-libadwaita](https://github.com/eylles/pywal16-libadwaita) - pywal16 templates for adw-gtk3, libadwaita, gradience, qt5ct, qt6ct, kvantum kvlibadwaita
 - [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
-- [JuicyByte/termux-nerd-installer](https://github.com/JuicyByte/termux-nerd-installer) - Termux tool to easily install nerd fonts
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [christian-fei/minimal-analytics](https://github.com/christian-fei/minimal-analytics) - Read more at https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction/
 - [minchinweb/minchin.pelican.plugins.post_stats](https://github.com/minchinweb/minchin.pelican.plugins.post_stats) - A Pelican plugin which calculates various statistics about a post and store them in an article.stats dictionary.
