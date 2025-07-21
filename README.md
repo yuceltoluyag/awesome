@@ -99,7 +99,6 @@
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [vbextreme/ghostmirror](https://github.com/vbextreme/ghostmirror) - mirror analyzer for arch linux
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
-- [JuicyByte/termux-nerd-installer](https://github.com/JuicyByte/termux-nerd-installer) - Termux tool to easily install nerd fonts
 - [Cippo95/nvidia-fan-control](https://github.com/Cippo95/nvidia-fan-control) - Controlling fans on my NVIDIA graphics card
 - [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [dmajkic/redis](https://github.com/dmajkic/redis) - Redis key-value store (Win32 / Win64 port)
@@ -1316,7 +1315,7 @@
 ## Vala 
 
 - [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
-- [cheesecakeufo/komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
+- [christianloopp/komorebi](https://github.com/christianloopp/komorebi) - A beautiful and customizable wallpapers manager for Linux
 
 ## Vim Script 
 
