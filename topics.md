@@ -286,6 +286,7 @@
 
 ## archlinux 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [tpowa/Archboot](https://github.com/tpowa/Archboot) - Archboot is a most advanced, modular Arch Linux boot/install image creation utility to generate bootable media for CD/USB/PXE, designed for installation or rescue operation.
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
@@ -1259,6 +1260,7 @@
 
 ## linux 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -2038,7 +2040,7 @@
 - [erdiucar/frontend-starter-pack](https://github.com/erdiucar/frontend-starter-pack) - This pack allows you to start a frontend project quickly.
 - [gulp-community/gulp-order](https://github.com/gulp-community/gulp-order) - This gulp plugin allows you to reorder a stream of files via globs.
 - [efe/soyadi](https://github.com/efe/soyadi) - Mevlüt Uysal'ın ünlü algoritması.
-- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 4.1 based admin dashboard template
+- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [anvoz/CodeIgniter-Skeleton](https://github.com/anvoz/CodeIgniter-Skeleton) - A decent starter for most web apps. Includes HMVC, jQuery, Bootstrap, Bootstrap TLDR, Ajax and Template libraries. Unit tests with PHPUnit and vfsStream.
 - [Ximi1970/FireTray](https://github.com/Ximi1970/FireTray) - Thunderbird 60 tray icon for Linux and Windows (js-ctypes version of Firetray)
@@ -2347,6 +2349,7 @@
 
 ## python3 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
