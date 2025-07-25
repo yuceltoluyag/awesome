@@ -381,7 +381,7 @@
 - [cangokceaslan/FastCrop.js](https://github.com/cangokceaslan/FastCrop.js) - Fast crop and resize images using only JavaScript.
 - [tayfunerbilen/prototurk.com](https://github.com/tayfunerbilen/prototurk.com) - Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.
 - [efe/soyadi](https://github.com/efe/soyadi) - Mevlüt Uysal'ın ünlü algoritması.
-- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 4.1 based admin dashboard template
+- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [chekromul/uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 
@@ -882,6 +882,7 @@
 
 ## Python 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
