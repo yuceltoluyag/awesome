@@ -1226,7 +1226,7 @@
 - [arindas/dotfiles-manjaro-i3](https://github.com/arindas/dotfiles-manjaro-i3) - Dotfiles for my old manjaro system.
 - [s0la/orw](https://github.com/s0la/orw) - Openbox Ricing Wrapper
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
-- [HermannBjorgvin/MOTD](https://github.com/HermannBjorgvin/MOTD) - Mini MOTD, a customizable, configurable, standardized MOTD for your homelab server or laptop
+- [HermannBjorgvin/MOTD](https://github.com/HermannBjorgvin/MOTD) - Fun MOTD (message of the day) for your homelab server
 - [wylfen/mpdnotify](https://github.com/wylfen/mpdnotify) - 'Now Playing' information via notify-send and mpc
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
