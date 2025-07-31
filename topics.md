@@ -1951,7 +1951,7 @@
 - [bendodson/itunes-artwork-finder](https://github.com/bendodson/itunes-artwork-finder) - iTunes Artwork Finder
 - [spatie/checklist-going-live](https://github.com/spatie/checklist-going-live) - The checklist that is used when a project is going live
 - [s0la/orw](https://github.com/s0la/orw) - Openbox Ricing Wrapper
-- [HermannBjorgvin/MOTD](https://github.com/HermannBjorgvin/MOTD) - Mini MOTD, a customizable, configurable, standardized MOTD for your homelab server or laptop
+- [HermannBjorgvin/MOTD](https://github.com/HermannBjorgvin/MOTD) - Fun MOTD (message of the day) for your homelab server
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [PHPGangsta/GoogleAuthenticator](https://github.com/PHPGangsta/GoogleAuthenticator) - PHP class to generate and verify Google Authenticator 2-factor authentication
 - [mpmont/ci-snippets](https://github.com/mpmont/ci-snippets) - A list of codeigniter 3 snippets for Sublime Text 2/3
