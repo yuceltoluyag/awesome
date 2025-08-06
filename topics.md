@@ -224,6 +224,7 @@
 
 ## ai 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [ctxs-ai/ctxs.ai](https://github.com/ctxs-ai/ctxs.ai) - an open-source, community-curated directory of contexts for use with LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -582,6 +583,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - Bulma Snippets Sublime Text Plugin
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [csalmeida/protonmail-themes](https://github.com/csalmeida/protonmail-themes) - Customise ProtonMail with themes and enhance your encrypted email experience.
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
@@ -622,6 +624,7 @@
 
 ## deep-learning 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
@@ -959,7 +962,6 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
@@ -1047,6 +1049,7 @@
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [tayfunerbilen/prototurk.com](https://github.com/tayfunerbilen/prototurk.com) - Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.
 
@@ -2383,6 +2386,7 @@
 
 ## pytorch 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [DJHanceNL/Future-Roop](https://github.com/DJHanceNL/Future-Roop) - continuation of my favorite app - roop-unleashed - By C0untFloyd
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -2553,6 +2557,7 @@
 
 ## stable-diffusion 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 
 ## statistics 
@@ -2783,6 +2788,7 @@
 
 ## web 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [alibaba/web-editor](https://github.com/alibaba/web-editor) - please use https://uiauto.dev instead
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [Bogdanp/molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
