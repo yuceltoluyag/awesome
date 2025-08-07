@@ -884,6 +884,7 @@
 
 ## Python 
 
+- [Egezenn/dota2-minify](https://github.com/Egezenn/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
