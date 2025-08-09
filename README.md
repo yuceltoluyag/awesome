@@ -1265,6 +1265,7 @@
 
 ## TypeScript 
 
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ctxs-ai/ctxs.ai](https://github.com/ctxs-ai/ctxs.ai) - an open-source, community-curated directory of contexts for use with LLMs
