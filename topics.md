@@ -589,6 +589,7 @@
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [tayfunerbilen/prototurk.com](https://github.com/tayfunerbilen/prototurk.com) - Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.
+- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 
@@ -1052,6 +1053,7 @@
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [tayfunerbilen/prototurk.com](https://github.com/tayfunerbilen/prototurk.com) - Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.
+- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license
 
 ## html5 
 
@@ -1602,6 +1604,8 @@
 
 ## others 
 
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 - [supertriodo/Arena-Tracker](https://github.com/supertriodo/Arena-Tracker) - Arena Tracker is a deck tracker that gives you a lot of extra info while playing Hearthstone.
 - [kozec/dumbxinputemu](https://github.com/kozec/dumbxinputemu) - xinput reimplementation compatibile with DirectInput controllers
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
@@ -2053,7 +2057,6 @@
 - [erdiucar/frontend-starter-pack](https://github.com/erdiucar/frontend-starter-pack) - This pack allows you to start a frontend project quickly.
 - [gulp-community/gulp-order](https://github.com/gulp-community/gulp-order) - This gulp plugin allows you to reorder a stream of files via globs.
 - [efe/soyadi](https://github.com/efe/soyadi) - Mevlüt Uysal'ın ünlü algoritması.
-- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license
 - [EllaTheCat/dopamine](https://github.com/EllaTheCat/dopamine) - Linux PC i3 window manager configuration specific to my having Parkinson's Disease
 - [anvoz/CodeIgniter-Skeleton](https://github.com/anvoz/CodeIgniter-Skeleton) - A decent starter for most web apps. Includes HMVC, jQuery, Bootstrap, Bootstrap TLDR, Ajax and Template libraries. Unit tests with PHPUnit and vfsStream.
 - [Ximi1970/FireTray](https://github.com/Ximi1970/FireTray) - Thunderbird 60 tray icon for Linux and Windows (js-ctypes version of Firetray)
@@ -2270,6 +2273,7 @@
 
 ## python 
 
+- [Egezenn/dota2-minify](https://github.com/Egezenn/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [tpvasconcelos/ridgeplot](https://github.com/tpvasconcelos/ridgeplot) - Beautiful ridgeline plots in Python
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
