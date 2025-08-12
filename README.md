@@ -675,6 +675,7 @@
 
 ## PHP 
 
+- [timjosten/mtk_imei](https://github.com/timjosten/mtk_imei) - A script that recreates the NVRAM partition and makes a private TWRP flashable for your phone
 - [fox91/php-dev-tools](https://github.com/fox91/php-dev-tools) - fox91 PHP Dev Tools
 - [fox91/php-coding-standard](https://github.com/fox91/php-coding-standard) - fox91 PHP Coding Standards
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
