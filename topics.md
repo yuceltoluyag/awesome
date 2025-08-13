@@ -1605,6 +1605,7 @@
 
 ## others 
 
+- [timjosten/mtk_imei](https://github.com/timjosten/mtk_imei) - A script that recreates the NVRAM partition and makes a private TWRP flashable for your phone
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 - [supertriodo/Arena-Tracker](https://github.com/supertriodo/Arena-Tracker) - Arena Tracker is a deck tracker that gives you a lot of extra info while playing Hearthstone.
