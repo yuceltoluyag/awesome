@@ -90,6 +90,7 @@
 
 ## C 
 
+- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [kozec/dumbxinputemu](https://github.com/kozec/dumbxinputemu) - xinput reimplementation compatibile with DirectInput controllers
 - [callofduty2x/CoD2x](https://github.com/callofduty2x/CoD2x) - CoD2x is an unofficial patch for Call of Duty 2 that fixes bugs and adds new features
