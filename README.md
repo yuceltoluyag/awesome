@@ -474,6 +474,7 @@
 - [bradvin/social-share-urls](https://github.com/bradvin/social-share-urls) - Social Share URLs
 - [Stanko/window-scroll-manager](https://github.com/Stanko/window-scroll-manager) - 60fps window scroll tracking event
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [Ondkloss/cg-candy-collector](https://github.com/Ondkloss/cg-candy-collector) - Automatically collects Coingecko candy
 - [atatanasov/gijgo](https://github.com/atatanasov/gijgo) - Gijgo - Free Javascript Controls
 - [shaack/bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input
@@ -591,6 +592,7 @@
 
 ## Nim 
 
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
 ## OCaml 
@@ -897,7 +899,6 @@
 - [DJHanceNL/Future-Roop](https://github.com/DJHanceNL/Future-Roop) - continuation of my favorite app - roop-unleashed - By C0untFloyd
 - [woctezuma/hidden-gems](https://github.com/woctezuma/hidden-gems) - Ranking of Steam games which favors "hidden gems". Featured in PC Gamer.
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [curvedinf/dir-assistant](https://github.com/curvedinf/dir-assistant) - Chat with your current directory's files using a local or API LLM.
 - [pelican-plugins/series](https://github.com/pelican-plugins/series) - Series is a Pelican plugin that joins multiple posts into a series
@@ -1295,7 +1296,6 @@
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
 - [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) - The default Dark+ theme, using Material's color palette.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [raftheunis87/order-alert-bot](https://github.com/raftheunis87/order-alert-bot) - Get Telegram notifications if orders are filled. Currently compatible with FTX Exchange.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
