@@ -54,6 +54,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vala](#vala)
@@ -1266,6 +1267,10 @@
 ## Smalltalk 
 
 - [mmervecerit/Mini-DOTA](https://github.com/mmervecerit/Mini-DOTA) - A Quick DOTA game written in Smalltalk using Pharo
+
+## Svelte 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## TypeScript 
 
