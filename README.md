@@ -963,7 +963,7 @@
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 - [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot) - Python Crypto Bot (PyCryptoBot)
 - [Wanderson-Magalhaes/PyBlackBox_Qt_Widgets_PySide6_Or_PyQt6_v1.0.0](https://github.com/Wanderson-Magalhaes/PyBlackBox_Qt_Widgets_PySide6_Or_PyQt6_v1.0.0) - 
-- [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
+- [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
 - [mumixam/weechat-twitch](https://github.com/mumixam/weechat-twitch) - Checks status of streams using twitch api
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - Make Ranger running in a floating window to communicate with Neovim via RPC
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
