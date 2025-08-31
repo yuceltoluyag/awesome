@@ -1626,6 +1626,7 @@
 
 ## others 
 
+- [yeyushengfan258/Reversal-gtk-theme](https://github.com/yeyushengfan258/Reversal-gtk-theme) - Reversal like theme for all gtk based desktops
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
 - [timjosten/mtk_imei](https://github.com/timjosten/mtk_imei) - A script that recreates the NVRAM partition and makes a private TWRP flashable for your phone
@@ -1849,7 +1850,6 @@
 - [LearnedVector/A-Hackers-AI-Voice-Assistant](https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant) - A hackers AI voice assistant, built using Python and PyTorch.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [vakata/jstree](https://github.com/vakata/jstree) - jquery tree plugin
 - [sencer/i3-notifier](https://github.com/sencer/i3-notifier) - Unobtrusive Notification Manager for i3
 - [spatie/laravel-mix-purgecss](https://github.com/spatie/laravel-mix-purgecss) - Zero-config Purgecss for Laravel Mix
@@ -2425,6 +2425,7 @@
 
 - [KhamisiKibet/QT-PyQt-PySide-Custom-Widgets](https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets) - Awesome custom widgets made for QT Desktop Applications. Simplify your UI development process. These widgets can be used in QT Designer then imported to PySide code.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 ## quantitative-finance 
 
