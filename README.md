@@ -91,6 +91,7 @@
 
 ## C 
 
+- [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [kozec/dumbxinputemu](https://github.com/kozec/dumbxinputemu) - xinput reimplementation compatibile with DirectInput controllers
