@@ -256,7 +256,6 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) - An application using the power of Magisk to debloat unwanted system apps!
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
@@ -1608,7 +1607,6 @@
 
 ## opencv 
 
-- [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
 - [bijection/sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 
 ## opengl 
@@ -1626,6 +1624,8 @@
 
 ## others 
 
+- [Donnnno/candybar-foss](https://github.com/Donnnno/candybar-foss) - A FOSS implementation of Candybar
+- [droidwayin/GentleDynamics](https://github.com/droidwayin/GentleDynamics) - This EasyEffects preset shapes audio and deliver a dynamically balanced, detail-rich sound that evolves in real time with the incoming audio signal.
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [yeyushengfan258/Reversal-gtk-theme](https://github.com/yeyushengfan258/Reversal-gtk-theme) - Reversal like theme for all gtk based desktops
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
@@ -2305,7 +2305,6 @@
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-- [noitaro/android-auto-play-opencv](https://github.com/noitaro/android-auto-play-opencv) - 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [Avtera/dota2-patcher](https://github.com/Avtera/dota2-patcher) - An utility for visual mod.
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
