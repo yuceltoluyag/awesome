@@ -1624,6 +1624,7 @@
 
 ## others 
 
+- [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [Donnnno/candybar-foss](https://github.com/Donnnno/candybar-foss) - A FOSS implementation of Candybar
 - [droidwayin/GentleDynamics](https://github.com/droidwayin/GentleDynamics) - This EasyEffects preset shapes audio and deliver a dynamically balanced, detail-rich sound that evolves in real time with the incoming audio signal.
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
