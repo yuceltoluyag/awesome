@@ -85,6 +85,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -225,6 +226,7 @@
 
 ## ai 
 
+- [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [ctxs-ai/ctxs.ai](https://github.com/ctxs-ai/ctxs.ai) - an open-source, community-curated directory of contexts for use with LLMs
@@ -634,6 +636,7 @@
 
 ## deep-learning 
 
+- [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
@@ -876,6 +879,13 @@
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+
+## gaming 
+
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
+- [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 
 ## git 
 
@@ -1291,6 +1301,7 @@
 
 ## linux 
 
+- [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager
 - [pythops/dmitui](https://github.com/pythops/dmitui) - ⚙️ TUI version of dmidecode tool
@@ -1625,6 +1636,7 @@
 
 ## others 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [Donnnno/candybar-foss](https://github.com/Donnnno/candybar-foss) - A FOSS implementation of Candybar
 - [droidwayin/GentleDynamics](https://github.com/droidwayin/GentleDynamics) - This EasyEffects preset shapes audio and deliver a dynamically balanced, detail-rich sound that evolves in real time with the incoming audio signal.
@@ -1638,7 +1650,6 @@
 - [supertriodo/Arena-Tracker](https://github.com/supertriodo/Arena-Tracker) - Arena Tracker is a deck tracker that gives you a lot of extra info while playing Hearthstone.
 - [kozec/dumbxinputemu](https://github.com/kozec/dumbxinputemu) - xinput reimplementation compatibile with DirectInput controllers
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [callofduty2x/CoD2x](https://github.com/callofduty2x/CoD2x) - CoD2x is an unofficial patch for Call of Duty 2 that fixes bugs and adds new features
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
 - [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
@@ -2417,6 +2428,8 @@
 
 ## pytorch 
 
+- [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
+- [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [DJHanceNL/Future-Roop](https://github.com/DJHanceNL/Future-Roop) - continuation of my favorite app - roop-unleashed - By C0untFloyd
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -2479,6 +2492,7 @@
 
 ## rust 
 
+- [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -2591,6 +2605,7 @@
 
 ## stable-diffusion 
 
+- [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 
