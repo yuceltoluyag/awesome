@@ -91,6 +91,7 @@
 
 ## C 
 
+- [GregorR/rnnoise-models](https://github.com/GregorR/rnnoise-models) - Trained neural networks and requisite information and data for rnnoise-nu
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
