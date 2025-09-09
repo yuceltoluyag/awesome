@@ -226,6 +226,7 @@
 
 ## ai 
 
+- [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
 - [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
@@ -1512,6 +1513,7 @@
 
 ## music 
 
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -1605,6 +1607,7 @@
 
 ## open-source 
 
+- [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
@@ -1636,6 +1639,9 @@
 
 ## others 
 
+- [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+- [ZFTurbo/MVSEP-MDX23-music-separation-model](https://github.com/ZFTurbo/MVSEP-MDX23-music-separation-model) - Model for MDX23 music separation contest
+- [GregorR/rnnoise-models](https://github.com/GregorR/rnnoise-models) - Trained neural networks and requisite information and data for rnnoise-nu
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [Donnnno/candybar-foss](https://github.com/Donnnno/candybar-foss) - A FOSS implementation of Candybar
@@ -2313,6 +2319,7 @@
 
 ## python 
 
+- [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
 - [Egezenn/dota2-minify](https://github.com/Egezenn/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [tpvasconcelos/ridgeplot](https://github.com/tpvasconcelos/ridgeplot) - Beautiful ridgeline plots in Python
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
@@ -2428,6 +2435,8 @@
 
 ## pytorch 
 
+- [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
