@@ -52,6 +52,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [Svelte](#svelte)
@@ -91,6 +92,7 @@
 
 ## C 
 
+- [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 - [GregorR/rnnoise-models](https://github.com/GregorR/rnnoise-models) - Trained neural networks and requisite information and data for rnnoise-nu
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
@@ -896,6 +898,7 @@
 
 ## Python 
 
+- [foresto/joystickwake](https://github.com/foresto/joystickwake) - joystick-aware screen waker
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [ZFTurbo/MVSEP-MDX23-music-separation-model](https://github.com/ZFTurbo/MVSEP-MDX23-music-separation-model) - Model for MDX23 music separation contest
 - [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
@@ -965,7 +968,7 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [ValvePython/vpk](https://github.com/ValvePython/vpk) - 📦 Open, Search, Extract and Create VPKs in python
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [drov0/python-imagesearch](https://github.com/drov0/python-imagesearch) - A wrapper around opencv2 and pyautogui to do image searching easily.
@@ -1180,6 +1183,10 @@
 - [chesterhow/tale](https://github.com/chesterhow/tale) - Minimal Jekyll theme for storytellers
 - [PunitGr/QuickBill](https://github.com/PunitGr/QuickBill) - Create unlimited invoices for free.
 
+## Scheme 
+
+- [loloolooo/photoshop-keymap-for-gimp](https://github.com/loloolooo/photoshop-keymap-for-gimp) - This extension ports popular Photoshop keyboard shortcuts to GIMP.
+
 ## Shell 
 
 - [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
@@ -1289,9 +1296,10 @@
 
 ## TypeScript 
 
+- [SteamGridDB/decky-steamgriddb](https://github.com/SteamGridDB/decky-steamgriddb) - Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
