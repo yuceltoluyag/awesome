@@ -1191,6 +1191,7 @@
 
 ## Shell 
 
+- [brendaningram/linux-audio-setup-scripts](https://github.com/brendaningram/linux-audio-setup-scripts) - Scripts to get you running with a professional audio quality Linux system.
 - [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
