@@ -1303,6 +1303,7 @@
 
 ## linux 
 
+- [brendaningram/linux-audio-setup-scripts](https://github.com/brendaningram/linux-audio-setup-scripts) - Scripts to get you running with a professional audio quality Linux system.
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
@@ -1515,6 +1516,7 @@
 
 ## music 
 
+- [brendaningram/linux-audio-setup-scripts](https://github.com/brendaningram/linux-audio-setup-scripts) - Scripts to get you running with a professional audio quality Linux system.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
