@@ -1312,7 +1312,7 @@
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Language server with improved support for SCSS, Sass indented and SassDoc. Workspace awareness and full support for Sass modules.
 - [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
