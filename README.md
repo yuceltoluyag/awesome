@@ -533,7 +533,7 @@
 - [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 - [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli rasathanesinin son dakika depremler ve tarihe göre deprem listesi için ara API (last minute earthquakes in turkey)
+- [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli ve AFAD Deprem API’si – Son depremler ve deprem arşivi
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes) - :metal: The biggest collection of themes for Terminator terminal.
 - [cagataycali/university-news-notifier](https://github.com/cagataycali/university-news-notifier) - :books: University news notifier
@@ -1313,7 +1313,7 @@
 - [ctxs-ai/ctxs.ai](https://github.com/ctxs-ai/ctxs.ai) - an open-source, community-curated directory of contexts for use with LLMs
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
