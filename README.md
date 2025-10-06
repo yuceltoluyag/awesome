@@ -1196,6 +1196,7 @@
 
 ## Shell 
 
+- [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [brendaningram/linux-audio-setup-scripts](https://github.com/brendaningram/linux-audio-setup-scripts) - Scripts to get you running with a professional audio quality Linux system.
 - [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
