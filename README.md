@@ -163,6 +163,7 @@
 
 ## C# # 
 
+- [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [builtbybel/xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp-AntiSpy, designed for the modern Windows experience
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
@@ -196,6 +197,7 @@
 
 ## C++ 
 
+- [just-harry/unofficial-xenia-femtofork-for-fable-ii](https://github.com/just-harry/unofficial-xenia-femtofork-for-fable-ii) - An unofficial fork of Xenia with game-specific-hacks for Fable II.
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit) - The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital
@@ -696,6 +698,7 @@
 
 ## PHP 
 
+- [sedteam/Seditio](https://github.com/sedteam/Seditio) - Seditio CMS Source
 - [timjosten/mtk_imei](https://github.com/timjosten/mtk_imei) - A script that recreates the NVRAM partition and makes a private TWRP flashable for your phone
 - [fox91/php-dev-tools](https://github.com/fox91/php-dev-tools) - fox91 PHP Dev Tools
 - [fox91/php-coding-standard](https://github.com/fox91/php-coding-standard) - fox91 PHP Coding Standards
