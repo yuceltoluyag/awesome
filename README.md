@@ -197,6 +197,7 @@
 
 ## C++ 
 
+- [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [just-harry/unofficial-xenia-femtofork-for-fable-ii](https://github.com/just-harry/unofficial-xenia-femtofork-for-fable-ii) - An unofficial fork of Xenia with game-specific-hacks for Fable II.
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
@@ -645,7 +646,7 @@
 - [utkuufuk/ubuntu-on-steroids](https://github.com/utkuufuk/ubuntu-on-steroids) - Developer setup & configuration guide for Ubuntu
 - [Optinux/dev-theme-for-chrome](https://github.com/Optinux/dev-theme-for-chrome) - A Chrome Extension to compliment Kdr3w's "Dev" Windows Theme
 - [sawantuday/pinescripts](https://github.com/sawantuday/pinescripts) - Trading view strategies in pinescript
-- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver Classic proxy for automating Firefox through Marionette
 - [matafokka/ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fixes Microsoft Excel appearance when custom Windows theme is used
 - [suryakantamangaraj/AwesomeGithubProfileTemplates](https://github.com/suryakantamangaraj/AwesomeGithubProfileTemplates) - It contains a curated list of awesome Github profile readme along with some tools and guides on how to improve yours too.
 - [sal0max/sublime-m3u](https://github.com/sal0max/sublime-m3u) - Syntax highlighting for m3u playlist files in Sublime Text
