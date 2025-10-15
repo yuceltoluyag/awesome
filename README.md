@@ -418,6 +418,7 @@
 
 ## Java 
 
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [Donnnno/candybar-foss](https://github.com/Donnnno/candybar-foss) - A FOSS implementation of Candybar
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
@@ -693,7 +694,7 @@
 - [grassmunk/Platinum9](https://github.com/grassmunk/Platinum9) - Mac OS 9 Theme for Xubuntu
 - [TalhaOztunca/Python-Turkce-Dokumanlar](https://github.com/TalhaOztunca/Python-Turkce-Dokumanlar) - Kendi Yazdığım veya çevirdiğim türkçe python dökümanları.
 - [dracula/telegram](https://github.com/dracula/telegram) - 🧛🏻‍♂️ Dark theme for Telegram Desktop
-- [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
+- [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :books: An awesome list of customization tools for your UN*X/Linux desktop.
 
 ## PHP 
