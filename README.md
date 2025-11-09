@@ -533,7 +533,6 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [vanderlee/colorpicker](https://github.com/vanderlee/colorpicker) - Colorpicker in jQueryUI style. Themeroller look & feel. Multiple color spaces, input/output formats, controls. Check the demo...
 - [itsjavi/bootstrap-colorpicker](https://github.com/itsjavi/bootstrap-colorpicker) - Bootstrap Colorpicker is a modular color picker plugin for Bootstrap.
-- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [jdewit/bootstrap-timepicker](https://github.com/jdewit/bootstrap-timepicker) - [Deprecated] A simple timepicker component for Twitter Bootstrap
 - [needim/noty](https://github.com/needim/noty) - ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 - [jasonday/printThis](https://github.com/jasonday/printThis) - jQuery printing plugin; print specific elements on a page
@@ -597,6 +596,7 @@
 ## MDX 
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 
 ## MQL4 
 
