@@ -1133,7 +1133,7 @@
 ## instagram 
 
 - [Ezzud/instify](https://github.com/Ezzud/instify) - Displays your spotify current track on your instagram bio
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [pgrimaud/instagram-user-feed](https://github.com/pgrimaud/instagram-user-feed) - This is a scrapper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.
 - [pouyadarabi/Instagram_SSL_Pinning](https://github.com/pouyadarabi/Instagram_SSL_Pinning) - Bypassing SSL Pinning in Instagram Android App
 
