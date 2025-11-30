@@ -1713,7 +1713,7 @@
 
 ## others 
 
-- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Eğitim, gelişim, düşünce, arşiv, şifreleme. (Alfa  sürümünde şimdilik en yakın zamanda kararlı sürümü de yayınlanacaktır)
+- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Eğitim, gelişim, düşünce, arşiv, şifreleme.
 - [jokull/markdown-ig-story](https://github.com/jokull/markdown-ig-story) - Convert markdown to Instagram story-sized PNG images (1080x1920px)
 - [PaRr0tBoY/Awesome-Vivaldi](https://github.com/PaRr0tBoY/Awesome-Vivaldi) - Vivaldi themes and mods that I wrote or modified from the vivaldi community
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
