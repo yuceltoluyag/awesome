@@ -911,7 +911,7 @@
 
 ## Python 
 
-- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Eğitim, gelişim, düşünce, arşiv, şifreleme. (Alfa  sürümünde şimdilik en yakın zamanda kararlı sürümü de yayınlanacaktır)
+- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Eğitim, gelişim, düşünce, arşiv, şifreleme.
 - [Fingel/tuimoji](https://github.com/Fingel/tuimoji) - Terminal based emoji chooser 💻 🤓
 - [BadKiko/steam-online-fix-launcher](https://github.com/BadKiko/steam-online-fix-launcher) - Steam Online Fix Launcher (SOFL) is a tool for easily launching and organizing online-fix games on Linux.
 - [foresto/joystickwake](https://github.com/foresto/joystickwake) - joystick-aware screen waker
@@ -921,7 +921,7 @@
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [Enemyx-net/VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI) - A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows.
-- [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
+- [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
 - [Egezenn/dota2-minify](https://github.com/Egezenn/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
