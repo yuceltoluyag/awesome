@@ -1713,6 +1713,7 @@
 
 ## others 
 
+- [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Eğitim, gelişim, düşünce, arşiv, şifreleme.
 - [jokull/markdown-ig-story](https://github.com/jokull/markdown-ig-story) - Convert markdown to Instagram story-sized PNG images (1080x1920px)
 - [PaRr0tBoY/Awesome-Vivaldi](https://github.com/PaRr0tBoY/Awesome-Vivaldi) - Vivaldi themes and mods that I wrote or modified from the vivaldi community
