@@ -170,6 +170,7 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [quantitative-finance](#quantitative-finance)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -2542,6 +2543,10 @@
 ## quantitative-finance 
 
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
+
+## rag 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## raspberry-pi 
 
