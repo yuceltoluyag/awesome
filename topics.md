@@ -164,6 +164,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
+- [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -501,6 +502,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
+- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -2403,6 +2405,10 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 
+## project-management 
+
+- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
+
 ## publishing 
 
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
@@ -2491,7 +2497,6 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [molcay/python-kaynaklari](https://github.com/molcay/python-kaynaklari) - Python Türkiye Facebook sayfasında başlatılan projenin yeni sayfası
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
-- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
