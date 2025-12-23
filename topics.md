@@ -1732,6 +1732,8 @@
 
 ## others 
 
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Eğitim, gelişim, düşünce, arşiv, şifreleme.
@@ -1758,7 +1760,7 @@
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [yeyushengfan258/Reversal-gtk-theme](https://github.com/yeyushengfan258/Reversal-gtk-theme) - Reversal like theme for all gtk based desktops
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [timjosten/mtk_imei](https://github.com/timjosten/mtk_imei) - A script that recreates the NVRAM partition and makes a private TWRP flashable for your phone
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - Unified launcher for Windows games on Linux
