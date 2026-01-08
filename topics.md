@@ -167,6 +167,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -821,7 +822,7 @@
 ## emulator 
 
 - [just-harry/unofficial-xenia-femtofork-for-fable-ii](https://github.com/just-harry/unofficial-xenia-femtofork-for-fable-ii) - An unofficial fork of Xenia with game-specific-hacks for Fable II.
-- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Emulating Apple Silicon devices.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
 - [dannygaray60/funemustation](https://github.com/dannygaray60/funemustation) - A simple but elegant launcher / frontend for emulators and pc games made with Godot Engine
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
@@ -1190,7 +1191,7 @@
 
 ## ios 
 
-- [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Emulating Apple Silicon devices.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/Ki
 
@@ -2433,6 +2434,11 @@
 ## project-management 
 
 - [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
+
+## prompt-engineering 
+
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+- [ctxs-ai/ctxs.ai](https://github.com/ctxs-ai/ctxs.ai) - an open-source, community-curated directory of contexts for use with LLMs
 
 ## publishing 
 
