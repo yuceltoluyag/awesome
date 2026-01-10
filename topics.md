@@ -2055,7 +2055,6 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [natanfelles/codeigniter4-simple-site](https://github.com/natanfelles/codeigniter4-simple-site) - 
 - [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Dota 2, CSGO, CS2 and Deadlock replay parser written in Java.
-- [ThePrimeagen/vim-royale](https://github.com/ThePrimeagen/vim-royale) - Because Nano sucks
 - [zagortenay333/conky_themes](https://github.com/zagortenay333/conky_themes) - A small collection of conky configs
 - [aichingm/arch-spawn](https://github.com/aichingm/arch-spawn) - Create offline and/or automated archlinux installation iso's
 - [TheWeirdDev/arch-wiki-bot](https://github.com/TheWeirdDev/arch-wiki-bot) - Fastest way to search through ArchWiki pages in telegram !
