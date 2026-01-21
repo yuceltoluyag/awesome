@@ -1144,7 +1144,6 @@
 
 ## Roff 
 
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [budlabs/polify](https://github.com/budlabs/polify) - Precision control for polybar modules
 
 ## Ruby 
@@ -1250,6 +1249,7 @@
 - [SofianeHamlaoui/movetocorner](https://github.com/SofianeHamlaoui/movetocorner) - A Movetocorner script for tilling WMs window
 - [aroma1994/polybar-windows](https://github.com/aroma1994/polybar-windows) - A polybar script that shows opened windows on your current display. Click on window titles to switch between windows.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [marinov98/dotfiles](https://github.com/marinov98/dotfiles) - All my configurations. Take a look! :blush:
 - [Liupold/pidswallow](https://github.com/Liupold/pidswallow) - A swallower script using process hierarchy.
