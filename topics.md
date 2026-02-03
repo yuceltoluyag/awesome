@@ -3078,7 +3078,7 @@
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [kivymd/KivyMD](https://github.com/kivymd/KivyMD) - KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. https://youtube.com/c/KivyMD https://twitter.com/Ki
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [Atvaark/GzsTool](https://github.com/Atvaark/GzsTool) - Fox Engine/MGSV/MGS dat, fpk, fpkd, pftxs and sbp unpacker/repacker
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
 - [HA6Bots/Twitch-Clips-Compilation-Generator-TCCG-](https://github.com/HA6Bots/Twitch-Clips-Compilation-Generator-TCCG-) - A system of 3 programs that collects clips automatically from Twitch, lets you edit videos and combine clips, and puts them together into a compilation video ready to be uploaded straight to any socia
