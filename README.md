@@ -186,7 +186,7 @@
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [scanhand/EasyRecorder](https://github.com/scanhand/EasyRecorder) - Easy to use a recorder for Keyboard & Mouse
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [github-for-unity/Unity](https://github.com/github-for-unity/Unity) - GitHub for Unity
 - [Atvaark/GzsTool](https://github.com/Atvaark/GzsTool) - Fox Engine/MGSV/MGS dat, fpk, fpkd, pftxs and sbp unpacker/repacker
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
