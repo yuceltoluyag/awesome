@@ -2632,7 +2632,7 @@
 
 - [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [toshimaru/jekyll-toc](https://github.com/toshimaru/jekyll-toc) - Jekyll plugin which generates a table of contents.
-- [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
+- [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant :ukraine:
 
 ## rust 
 
