@@ -610,7 +610,6 @@
 ## Makefile 
 
 - [gilbertw1/telegram-gruvbox-theme](https://github.com/gilbertw1/telegram-gruvbox-theme) - Gruvbox theme for Telegram Desktop
-- [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
 - [aichingm/arch-spawn](https://github.com/aichingm/arch-spawn) - Create offline and/or automated archlinux installation iso's
 - [Ventto/batify](https://github.com/Ventto/batify) - Only one udevrule file triggering plug and critical battery level notifications (multi-x sessions support)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
@@ -1165,6 +1164,7 @@
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [wookietreiber/strace-analyzer](https://github.com/wookietreiber/strace-analyzer) - analyzes strace output
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A CLI to organize and run short Unix shell scripts
+- [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [mobilecoinofficial/full-service](https://github.com/mobilecoinofficial/full-service) - A MobileCoin service for wallet implementations.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
