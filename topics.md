@@ -1957,7 +1957,6 @@
 - [cakebaker/scss-syntax.vim](https://github.com/cakebaker/scss-syntax.vim) - Vim syntax file for scss (Sassy CSS)
 - [mumixam/weechat-twitch](https://github.com/mumixam/weechat-twitch) - Checks status of streams using twitch api
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
-- [polyfloyd/soundcloud-fs](https://github.com/polyfloyd/soundcloud-fs) - A SoundCloud FUSE driver optimized for music libraries
 - [kenfus/tradingview](https://github.com/kenfus/tradingview) - Some pinescript programs.
 - [CryptoGnome/Crypto-Tracker](https://github.com/CryptoGnome/Crypto-Tracker) - Simple Bot to Track Balances using Python, SQLite, & Flask
 - [raftheunis87/order-alert-bot](https://github.com/raftheunis87/order-alert-bot) - Get Telegram notifications if orders are filled. Currently compatible with FTX Exchange.
