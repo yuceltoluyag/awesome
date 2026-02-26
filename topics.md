@@ -344,7 +344,7 @@
 
 ## awesome 
 
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 8000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 The world's largest Nano Banana Pro prompt library — 9,985+ curated prompts with images, 16 languages. Google Gemini AI image generation. Free & open source.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -357,6 +357,7 @@
 
 ## awesome-list 
 
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 The world's largest Nano Banana Pro prompt library — 9,985+ curated prompts with images, 16 languages. Google Gemini AI image generation. Free & open source.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [yuritsuki/awesome-dota2](https://github.com/yuritsuki/awesome-dota2) - A curated list of bookmarks, tutorials and other cool resources from the Dota 2 community
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
@@ -1748,6 +1749,7 @@
 
 ## others 
 
+- [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired) - A universal installer for ACCELA with SLSsteam integration.
 - [AceSLS/SLSsteam](https://github.com/AceSLS/SLSsteam) - 
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -2435,7 +2437,7 @@
 
 ## prompt-engineering 
 
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 8000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 The world's largest Nano Banana Pro prompt library — 9,985+ curated prompts with images, 16 languages. Google Gemini AI image generation. Free & open source.
 - [ctxs-ai/ctxs.ai](https://github.com/ctxs-ai/ctxs.ai) - an open-source, community-curated directory of contexts for use with LLMs
 
 ## publishing 
