@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
 - [amphp](#amphp)
@@ -252,6 +253,10 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 
+## ai-agents 
+
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+
 ## algorithm 
 
 - [yusufcakal/algorithms](https://github.com/yusufcakal/algorithms) - basic algorithms and solutions
@@ -329,6 +334,7 @@
 
 ## automation 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Marvomatic/n8n-templates](https://github.com/Marvomatic/n8n-templates) - A collection of free & premium n8n templates to automate SEO, content optimization and more.
 - [codeskyblue/uiautodev](https://github.com/codeskyblue/uiautodev) - Mobile UI viewer in browser, view the UI in a tree view, and generate XPath automatically.
@@ -1577,6 +1583,7 @@
 
 ## mcp 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
@@ -1750,6 +1757,7 @@
 
 ## others 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [harryeffinpotter/Steam-Autocracker-GUI](https://github.com/harryeffinpotter/Steam-Autocracker-GUI) - Steam-Autocracker-GUI by HarryEffinPotter, made for the legendary forum, cs.rin.ru.
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired) - A universal installer for ACCELA with SLSsteam integration.
 - [AceSLS/SLSsteam](https://github.com/AceSLS/SLSsteam) - 
