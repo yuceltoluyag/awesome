@@ -916,6 +916,7 @@
 
 ## Python 
 
+- [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Arşiv programı. Ekran kaydı, Ses, Resim ve metin dosyaları oluşturmanıza, düzenlemenize ve bu dosyalar arasında bağlantı kurarak bir zihin haritası oluşturmanıza ve bu dosyaların hepsini şifreleyerek 
 - [Fingel/tuimoji](https://github.com/Fingel/tuimoji) - Terminal based emoji chooser 💻 🤓
@@ -1325,6 +1326,8 @@
 
 ## TypeScript 
 
+- [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) - 
+- [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
 - [jokull/markdown-ig-story](https://github.com/jokull/markdown-ig-story) - Convert markdown to Instagram story-sized PNG images (1080x1920px)
