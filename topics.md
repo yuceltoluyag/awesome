@@ -1854,7 +1854,7 @@
 - [mayob/Grand-Theft-Auto-Vice-City-Turkce-Dil-Paketi-2020](https://github.com/mayob/Grand-Theft-Auto-Vice-City-Turkce-Dil-Paketi-2020) - Grand Theft Auto: Vice City'nin ilk ve tek profesyonel dil paketidir. İyi oyunlar.
 - [pathtrk/ariake-dark-syntax](https://github.com/pathtrk/ariake-dark-syntax) - Atom dark syntax with traditional Japan colors.
 - [getnf/getnf](https://github.com/getnf/getnf) - A better way to install Nerd Fonts
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
 - [p-chan5/EasyPulse](https://github.com/p-chan5/EasyPulse) - A set of HQ presets for Easy Effects.
