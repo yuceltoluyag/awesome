@@ -348,6 +348,7 @@
 
 ## Go 
 
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -1328,6 +1329,7 @@
 
 ## TypeScript 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) - 
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
