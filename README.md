@@ -628,6 +628,7 @@
 
 ## Others 
 
+- [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [droidwayin/GentleDynamics](https://github.com/droidwayin/GentleDynamics) - This EasyEffects preset shapes audio and deliver a dynamically balanced, detail-rich sound that evolves in real time with the incoming audio signal.
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [robson-66/Buuf](https://github.com/robson-66/Buuf) - Created by fana-m. Icons by mattahan. Modified by Hybrid Son Of Oxayotl
@@ -918,6 +919,7 @@
 
 ## Python 
 
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Arşiv programı. Ekran kaydı, Ses, Resim ve metin dosyaları oluşturmanıza, düzenlemenize ve bu dosyalar arasında bağlantı kurarak bir zihin haritası oluşturmanıza ve bu dosyaların hepsini şifreleyerek 
