@@ -1761,6 +1761,8 @@
 
 ## others 
 
+- [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 - [tsora1603/pixora-icons](https://github.com/tsora1603/pixora-icons) - 16-bit style icons theme for Linux
 - [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) - 
