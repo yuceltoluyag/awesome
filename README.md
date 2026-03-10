@@ -720,7 +720,7 @@
 - [monkenWu/TablesIgniter](https://github.com/monkenWu/TablesIgniter) - Tableslgniter is an addins base on CodeIgniter4. It will help you use jQuery Datatables in server side mode.
 - [tattersoftware/codeigniter4-files](https://github.com/tattersoftware/codeigniter4-files) - File uploads and management, for CodeIgniter 4
 - [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
-- [openclassify/openclassify](https://github.com/openclassify/openclassify) - OpenClassify is modular and most advanced open source classified platform build with Laravel 8.1 & PHP 8.2 Supported. Included Pyrocms
+- [openclassify/openclassify](https://github.com/openclassify/openclassify) - OpenClassify is modular and advanced open source classified platform with Laravel 12 & PHP 8.5
 - [munafio/chatify](https://github.com/munafio/chatify) - Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.
 - [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 - [pipe-dream/laravel-create](https://github.com/pipe-dream/laravel-create) - Create Laravel projects really fast
@@ -1344,7 +1344,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) - SVG icon font for popular brands
 - [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
