@@ -394,6 +394,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Marvomatic/n8n-templates](https://github.com/Marvomatic/n8n-templates) - A collection of free & premium n8n templates to automate SEO, content optimization and more.
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [u1ui/base.css](https://github.com/u1ui/base.css) - ⏚ Usefull css defaults
