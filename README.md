@@ -725,7 +725,7 @@
 - [munafio/chatify](https://github.com/munafio/chatify) - Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.
 - [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 - [pipe-dream/laravel-create](https://github.com/pipe-dream/laravel-create) - Create Laravel projects really fast
-- [TypiCMS/NestableCollection](https://github.com/TypiCMS/NestableCollection) - A Laravel Package that extends Eloquent\Collection to handle nested items following adjacency list model.
+- [typicms/nestablecollection](https://github.com/typicms/nestablecollection) - A Laravel Package that extends Eloquent\Collection to handle nested items following adjacency list model.
 - [beyondcode/laravel-query-detector](https://github.com/beyondcode/laravel-query-detector) - Laravel N+1 Query Detector
 - [beyondcode/laravel-dump-server](https://github.com/beyondcode/laravel-dump-server) - Bring Symfony's Var-Dump Server to Laravel
 - [MehediDracula/stylist](https://github.com/MehediDracula/stylist) - 
