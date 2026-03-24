@@ -2031,7 +2031,7 @@
 - [matanui159/ReplaySorcery](https://github.com/matanui159/ReplaySorcery) - An open-source, instant-replay solution for Linux
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
-- [TypiCMS/NestableCollection](https://github.com/TypiCMS/NestableCollection) - A Laravel Package that extends Eloquent\Collection to handle nested items following adjacency list model.
+- [typicms/nestablecollection](https://github.com/typicms/nestablecollection) - A Laravel Package that extends Eloquent\Collection to handle nested items following adjacency list model.
 - [beyondcode/laravel-dump-server](https://github.com/beyondcode/laravel-dump-server) - Bring Symfony's Var-Dump Server to Laravel
 - [MehediDracula/stylist](https://github.com/MehediDracula/stylist) - 
 - [titoBouzout/Dictionaries](https://github.com/titoBouzout/Dictionaries) - Hunspell UTF8 dictionaries. These work with Sublime Text. [Spell check]
