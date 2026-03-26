@@ -62,6 +62,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -751,6 +752,10 @@
 - [franekxtb/pywal-discord](https://github.com/franekxtb/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
 - [cniw/mpv-discordRPC](https://github.com/cniw/mpv-discordRPC) - Discord Rich Presence integration for mpv Media Player
 
+## distributed-systems 
+
+- [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
+
 ## django 
 
 - [robbyz512/dota2-minify](https://github.com/robbyz512/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
@@ -841,6 +846,7 @@
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Emulating Apple Silicon devices.
 - [dannygaray60/funemustation](https://github.com/dannygaray60/funemustation) - A simple but elegant launcher / frontend for emulators and pc games made with Godot Engine
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
 
 ## es6 
 
@@ -1321,6 +1327,7 @@
 - [laravel-frontend-presets/tailwindcss](https://github.com/laravel-frontend-presets/tailwindcss) - A Tailwind CSS frontend preset for the Laravel Framework
 - [pipe-dream/laravel-create](https://github.com/pipe-dream/laravel-create) - Create Laravel projects really fast
 - [shufo/vscode-blade-formatter](https://github.com/shufo/vscode-blade-formatter) - An opinionated Blade file formatter for VSCode
+- [typicms/nestablecollection](https://github.com/typicms/nestablecollection) - A Laravel package that extends Eloquent collections to handle nested data using the adjacency list model.
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
 - [always-open/laravel-totem](https://github.com/always-open/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
@@ -2031,7 +2038,6 @@
 - [matanui159/ReplaySorcery](https://github.com/matanui159/ReplaySorcery) - An open-source, instant-replay solution for Linux
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
-- [typicms/nestablecollection](https://github.com/typicms/nestablecollection) - A Laravel Package that extends Eloquent\Collection to handle nested items following adjacency list model.
 - [beyondcode/laravel-dump-server](https://github.com/beyondcode/laravel-dump-server) - Bring Symfony's Var-Dump Server to Laravel
 - [MehediDracula/stylist](https://github.com/MehediDracula/stylist) - 
 - [titoBouzout/Dictionaries](https://github.com/titoBouzout/Dictionaries) - Hunspell UTF8 dictionaries. These work with Sublime Text. [Spell check]
@@ -2635,7 +2641,6 @@
 ## raspberry-pi 
 
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems.
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 
 ## react 
