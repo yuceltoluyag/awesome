@@ -216,7 +216,7 @@
 - [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
 - [supertriodo/Arena-Tracker](https://github.com/supertriodo/Arena-Tracker) - Arena Tracker is a deck tracker that gives you a lot of extra info while playing Hearthstone.
 - [vslavik/poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [Wunkolo/UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL and Injector for dumping UWP applications at run-time to bypass encrypted file system protection.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
