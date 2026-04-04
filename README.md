@@ -350,7 +350,7 @@
 ## Go 
 
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
-- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
@@ -924,7 +924,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Arşiv programı. Ekran kaydı, Ses, Resim ve metin dosyaları oluşturmanıza, düzenlemenize ve bu dosyalar arasında bağlantı kurarak bir zihin haritası oluşturmanıza ve bu dosyaların hepsini şifreleyerek 
@@ -1005,7 +1005,6 @@
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - HyperView is a terminal-first TradingView strategy lab for downloading market data, backtesting Python strategies with Pine-like behavior, and optimizing SL/TP parameters.
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [drov0/python-imagesearch](https://github.com/drov0/python-imagesearch) - A wrapper around opencv2 and pyautogui to do image searching easily.
 - [ardamavi/Game-Bot](https://github.com/ardamavi/Game-Bot) - Artificial intelligence learn playing any game with watching you.
 - [A-PS1999/seo-research-assistant-project](https://github.com/A-PS1999/seo-research-assistant-project) - My first project, aiming to create a program that can help with SEO keyword research by carrying out a number of tasks and analyses.
