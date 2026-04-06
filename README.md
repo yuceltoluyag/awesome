@@ -920,11 +920,12 @@
 
 ## Python 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [Akascape/tkinter-toolkit](https://github.com/Akascape/tkinter-toolkit) - Explore all modern tkinter widget libraries and helpful tools! (Including customtkinter)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Arşiv programı. Ekran kaydı, Ses, Resim ve metin dosyaları oluşturmanıza, düzenlemenize ve bu dosyalar arasında bağlantı kurarak bir zihin haritası oluşturmanıza ve bu dosyaların hepsini şifreleyerek 
