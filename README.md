@@ -455,6 +455,7 @@
 
 ## JavaScript 
 
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [PaRr0tBoY/Awesome-Vivaldi](https://github.com/PaRr0tBoY/Awesome-Vivaldi) - Vivaldi themes and mods that I wrote or modified from the vivaldi community
 - [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon's toot conversation in a HTML page
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
@@ -920,6 +921,7 @@
 
 ## Python 
 
+- [stephengpope/no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [Akascape/tkinter-toolkit](https://github.com/Akascape/tkinter-toolkit) - Explore all modern tkinter widget libraries and helpful tools! (Including customtkinter)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
