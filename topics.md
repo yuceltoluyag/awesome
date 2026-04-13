@@ -2510,6 +2510,7 @@
 
 ## python 
 
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [Akascape/tkinter-toolkit](https://github.com/Akascape/tkinter-toolkit) - Explore all modern tkinter widget libraries and helpful tools! (Including customtkinter)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
@@ -2631,6 +2632,7 @@
 
 ## pytorch 
 
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [HAMM3REXTREME/ComfyUI-Installer](https://github.com/HAMM3REXTREME/ComfyUI-Installer) - Easily install ComfyUI on a Linux system. Installs completely inside a Python venv.
@@ -2938,6 +2940,7 @@
 
 ## text-to-speech 
 
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [Enemyx-net/VibeVoice-ComfyUI](https://github.com/Enemyx-net/VibeVoice-ComfyUI) - A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 
