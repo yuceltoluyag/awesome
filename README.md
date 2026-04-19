@@ -578,6 +578,7 @@
 
 ## Kotlin 
 
+- [zugaldia/speedofsound](https://github.com/zugaldia/speedofsound) - Voice typing for the Linux desktop.
 - [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses) - GPL licenced Android Expense Tracking App
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) - 
