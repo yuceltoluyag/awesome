@@ -164,6 +164,7 @@
 
 ## C# # 
 
+- [myildirimofficial/RSBot](https://github.com/myildirimofficial/RSBot) - A Silkroad Online Open Source Bot
 - [harryeffinpotter/Steam-Autocracker-GUI](https://github.com/harryeffinpotter/Steam-Autocracker-GUI) - Steam-Autocracker-GUI by HarryEffinPotter, made for the legendary forum, cs.rin.ru.
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -179,7 +180,7 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Ezzpify/HourBoostr](https://github.com/Ezzpify/HourBoostr) - Two programs for idling Steam game hours and trading cards
-- [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
+- [jonas-med-ett-s/idle_master_extended](https://github.com/jonas-med-ett-s/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [Bluegrams/MPos](https://github.com/Bluegrams/MPos) - Mouse position tracker and DPI information for Windows 10
 - [bdrazen/ImgurUploader](https://github.com/bdrazen/ImgurUploader) - Upload to Imgur from right-click context menu (Windows)
 - [bkeiren/EasyImgur](https://github.com/bkeiren/EasyImgur) - EasyImgur is a small and simple tool to easily upload images to imgur.com
@@ -933,7 +934,6 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
-- [tsora1603/pixora-icons](https://github.com/tsora1603/pixora-icons) - 16-bit pixel art style icons theme for Linux
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Arşiv programı. Ekran kaydı, Ses, Resim ve metin dosyaları oluşturmanıza, düzenlemenize ve bu dosyalar arasında bağlantı kurarak bir zihin haritası oluşturmanıza ve bu dosyaların hepsini şifreleyerek 
@@ -1182,7 +1182,7 @@
 
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [AJenbo/phpantom_lsp](https://github.com/AJenbo/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dlp. Download torrents and send 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs a
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [pythops/dmitui](https://github.com/pythops/dmitui) - ⚙️ TUI version of dmidecode tool
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
@@ -1231,6 +1231,7 @@
 
 ## Shell 
 
+- [tsora1603/pixora-icons](https://github.com/tsora1603/pixora-icons) - 16-bit pixel art style icons theme for Linux
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired) - A universal installer for ACCELA with SLSsteam integration.
 - [goddessfreya/hookey](https://github.com/goddessfreya/hookey) - Enables all the DLCs. Like Creamapi but just for linux and a subset of Paradox games.
