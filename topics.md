@@ -1808,6 +1808,7 @@
 
 ## others 
 
+- [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
 - [myildirimofficial/RSBot](https://github.com/myildirimofficial/RSBot) - A Silkroad Online Open Source Bot
 - [Danmoreng/llama.cpp-installer](https://github.com/Danmoreng/llama.cpp-installer) - A PowerShell script to fully automate the setup of `llama.cpp` on Windows. It installs all prerequisites, including the correct CUDA Toolkit and build tools, and compiles `llama.cpp` from the source.
 - [Danmoreng/local-qwen3-coder-env](https://github.com/Danmoreng/local-qwen3-coder-env) - Linux & Powershell scripts to easily set up and run the Qwen 3.5 series locally on Windows and Linux with llama.cpp.
@@ -2238,7 +2239,6 @@
 - [gnaqvi/dotfiles](https://github.com/gnaqvi/dotfiles) - Templatable dotfiles for my current Arch Linux setup using bspwm tiling window manager
 - [privatemajory/dots](https://github.com/privatemajory/dots) - A repository for my Linux dotfiles
 - [mut-ex/my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
-- [empatisoft/adresler](https://github.com/empatisoft/adresler) - Adres Kayıt Sistemi
 - [zoefiri/mpdvis](https://github.com/zoefiri/mpdvis) - An album art displayer for mpd
 - [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
 - [SeungheonOh/ColTerm](https://github.com/SeungheonOh/ColTerm) - 
