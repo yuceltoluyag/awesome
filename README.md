@@ -456,6 +456,7 @@
 
 ## JavaScript 
 
+- [cemalturkcan/nvidia-build-bypass](https://github.com/cemalturkcan/nvidia-build-bypass) - Bypass country restrictions on NVIDIA Build
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [PaRr0tBoY/Awesome-Vivaldi](https://github.com/PaRr0tBoY/Awesome-Vivaldi) - Vivaldi themes and mods that I wrote or modified from the vivaldi community
 - [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon's toot conversation in a HTML page
@@ -907,6 +908,7 @@
 
 ## PowerShell 
 
+- [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 - [Danmoreng/llama.cpp-installer](https://github.com/Danmoreng/llama.cpp-installer) - A PowerShell script to fully automate the setup of `llama.cpp` on Windows. It installs all prerequisites, including the correct CUDA Toolkit and build tools, and compiles `llama.cpp` from the source.
 - [Danmoreng/local-qwen3-coder-env](https://github.com/Danmoreng/local-qwen3-coder-env) - Linux & Powershell scripts to easily set up and run the Qwen 3.5 series locally on Windows and Linux with llama.cpp.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
@@ -1177,6 +1179,7 @@
 
 ## Rust 
 
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [AJenbo/phpantom_lsp](https://github.com/AJenbo/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
@@ -1342,6 +1345,7 @@
 
 ## TypeScript 
 
+- [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) - Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support.
