@@ -1177,6 +1177,7 @@
 
 ## Rust 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [AJenbo/phpantom_lsp](https://github.com/AJenbo/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
@@ -1348,7 +1349,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) - Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
-- [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) - 
+- [vudovn/ag-kit](https://github.com/vudovn/ag-kit) - 
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
