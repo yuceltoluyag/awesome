@@ -52,6 +52,7 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
+- [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
@@ -246,6 +247,7 @@
 
 ## ai 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -351,6 +353,7 @@
 
 ## automation 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) - Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -632,6 +635,7 @@
 
 ## crawler 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [WuLC/GoogleImagesDownloader](https://github.com/WuLC/GoogleImagesDownloader) - Enlarge training dataset by searching images with specified keywords in google and download the presented images
@@ -706,6 +710,10 @@
 ## dart 
 
 - [GimelStudio/GimelStudio](https://github.com/GimelStudio/GimelStudio) - Non-destructive 2D graphics editor (POC)
+
+## data 
+
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
 ## data-analysis 
 
@@ -1638,6 +1646,7 @@
 
 ## mcp 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -1816,6 +1825,7 @@
 
 ## others 
 
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [trufflesecurity/force-push-scanner](https://github.com/trufflesecurity/force-push-scanner) - Scan for secrets in dangling commits on GitHub using GH Archive data.
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
@@ -2540,6 +2550,7 @@
 
 ## python 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [Akascape/tkinter-toolkit](https://github.com/Akascape/tkinter-toolkit) - Explore all modern tkinter widget libraries and helpful tools! (Including customtkinter)
