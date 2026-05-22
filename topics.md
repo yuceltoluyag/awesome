@@ -1831,7 +1831,7 @@
 - [cemalturkcan/nvidia-build-bypass](https://github.com/cemalturkcan/nvidia-build-bypass) - Bypass country restrictions on NVIDIA Build
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 - [gabiuz/kape](https://github.com/gabiuz/kape) - A warm colorscheme, inspired by my love for coffee
-- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/CUDA gpus. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1× a
+- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1×
 - [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
 - [myildirimofficial/RSBot](https://github.com/myildirimofficial/RSBot) - A Silkroad Online Open Source Bot
 - [Danmoreng/llama.cpp-installer](https://github.com/Danmoreng/llama.cpp-installer) - A PowerShell script to fully automate the setup of `llama.cpp` on Windows. It installs all prerequisites, including the correct CUDA Toolkit and build tools, and compiles `llama.cpp` from the source.
