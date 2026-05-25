@@ -1937,7 +1937,7 @@
 - [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [dimtpap/obs-scale-to-sound](https://github.com/dimtpap/obs-scale-to-sound) - OBS filter plugin that scales a source reactively to sound levels
-- [p-chan5/EasyPulse](https://github.com/p-chan5/EasyPulse) - HQ Easy Effects presets for headphones.
+- [p-chan5/EasyPulse](https://github.com/p-chan5/EasyPulse) - HQ Easy Effects presets for headphones & earbuds.
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [zeroruka/video-wallpaper-scripts](https://github.com/zeroruka/video-wallpaper-scripts) - Some scripts to use video wallpapers on linux
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
