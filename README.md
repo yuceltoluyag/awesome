@@ -855,7 +855,6 @@
 - [seikan/Cart](https://github.com/seikan/Cart) - A simple PHP shopping cart class to use in ecommerce web applications.
 - [sDenizhan/codeigniter-ajax-il-ilce](https://github.com/sDenizhan/codeigniter-ajax-il-ilce) - Codeigniter'da Ajax ile İl ve İlçe Örneği
 - [netinternet/parasut-v4](https://github.com/netinternet/parasut-v4) - Parasut Php Api V4
-- [salyangoz/pazaryeri-parasut](https://github.com/salyangoz/pazaryeri-parasut) - N11, Gittigidiyor, Hepsiburada Pazaryerlerini; Paraşüt Web Tabanlı Fatura ve Tahsilat Yönetimine bağlayan API
 - [teknomavi/tcmb](https://github.com/teknomavi/tcmb) - Türkiye Cumhuriyeti Merkez Bankası (TCMB) Döviz Kurları
 - [epigra/tckimlik](https://github.com/epigra/tckimlik) - TC Kimlik Numarası Kontrolü ve Doğrulaması (Validation of Turkish Identification Number)
 - [volkansenturk/turkiye-iller-ilceler](https://github.com/volkansenturk/turkiye-iller-ilceler) - Türkiye - İller - İlçeler
