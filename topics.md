@@ -2325,7 +2325,6 @@
 - [seikan/Mailer](https://github.com/seikan/Mailer) - A very simple PHP SMTP email client.
 - [seikan/Cart](https://github.com/seikan/Cart) - A simple PHP shopping cart class to use in ecommerce web applications.
 - [sDenizhan/codeigniter-ajax-il-ilce](https://github.com/sDenizhan/codeigniter-ajax-il-ilce) - Codeigniter'da Ajax ile İl ve İlçe Örneği
-- [salyangoz/pazaryeri-parasut](https://github.com/salyangoz/pazaryeri-parasut) - N11, Gittigidiyor, Hepsiburada Pazaryerlerini; Paraşüt Web Tabanlı Fatura ve Tahsilat Yönetimine bağlayan API
 - [teknomavi/tcmb](https://github.com/teknomavi/tcmb) - Türkiye Cumhuriyeti Merkez Bankası (TCMB) Döviz Kurları
 - [epigra/tckimlik](https://github.com/epigra/tckimlik) - TC Kimlik Numarası Kontrolü ve Doğrulaması (Validation of Turkish Identification Number)
 - [yasinkuyu/Girogate](https://github.com/yasinkuyu/Girogate) - NestPay GiroGate dökümanlar
