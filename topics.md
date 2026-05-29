@@ -247,6 +247,7 @@
 
 ## ai 
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -267,6 +268,7 @@
 
 ## ai-agents 
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -508,6 +510,7 @@
 
 ## chatgpt 
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -526,6 +529,7 @@
 
 ## claude-code 
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -795,6 +799,7 @@
 
 ## django 
 
+- [SmartBase-SK/django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - SmartBase Admin application for Django. A modern, modular, and developer-friendly admin interface for Django. Built to speed up development of admin panels but also SaaS end-user experiences — beautif
 - [robbyz512/dota2-minify](https://github.com/robbyz512/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [raffienficiaud/django_mturk_minimalistic](https://github.com/raffienficiaud/django_mturk_minimalistic) - A minimalistic Django app for Amazon Mechanical Turk External Question
 - [molcay/python-kaynaklari](https://github.com/molcay/python-kaynaklari) - Python Türkiye Facebook sayfasında başlatılan projenin yeni sayfası
@@ -1037,6 +1042,7 @@
 
 ## go 
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [SwayKh/linksym](https://github.com/SwayKh/linksym) - Linksym is a dotfiles manager. Making it easier to create and manager symlink while creating automatic records.
@@ -1056,6 +1062,7 @@
 
 ## golang 
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -1800,6 +1807,7 @@
 
 ## openai 
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
@@ -1832,7 +1840,7 @@
 - [cemalturkcan/nvidia-build-bypass](https://github.com/cemalturkcan/nvidia-build-bypass) - Bypass country restrictions on NVIDIA Build
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 - [gabiuz/kape](https://github.com/gabiuz/kape) - A warm colorscheme, inspired by my love for coffee
-- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1×
+- [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B conf
 - [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
 - [myildirimofficial/RSBot](https://github.com/myildirimofficial/RSBot) - A Silkroad Online Open Source Bot
 - [Danmoreng/llama.cpp-installer](https://github.com/Danmoreng/llama.cpp-installer) - A PowerShell script to fully automate the setup of `llama.cpp` on Windows. It installs all prerequisites, including the correct CUDA Toolkit and build tools, and compiles `llama.cpp` from the source.
@@ -2549,6 +2557,7 @@
 
 ## python 
 
+- [SmartBase-SK/django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - SmartBase Admin application for Django. A modern, modular, and developer-friendly admin interface for Django. Built to speed up development of admin panels but also SaaS end-user experiences — beautif
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
@@ -2649,6 +2658,7 @@
 
 ## python3 
 
+- [SmartBase-SK/django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - SmartBase Admin application for Django. A modern, modular, and developer-friendly admin interface for Django. Built to speed up development of admin panels but also SaaS end-user experiences — beautif
 - [Akascape/tkinter-toolkit](https://github.com/Akascape/tkinter-toolkit) - Explore all modern tkinter widget libraries and helpful tools! (Including customtkinter)
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [avalon60/ctk_theme_builder](https://github.com/avalon60/ctk_theme_builder) - CTk Theme Builder for CustomTkinter, a comprehensive and easy solution, for creating  CustomTkinter themes.
@@ -2998,6 +3008,7 @@
 
 ## tui 
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [crocidb/bulletty](https://github.com/crocidb/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -3019,6 +3030,7 @@
 
 ## typescript 
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
