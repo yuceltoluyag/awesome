@@ -2006,7 +2006,7 @@
 - [nsxiv/nsxiv-extra](https://github.com/nsxiv/nsxiv-extra) - Read-only mirror of nsxiv-extra
 - [bdrazen/ImgurUploader](https://github.com/bdrazen/ImgurUploader) - Upload to Imgur from right-click context menu (Windows)
 - [bkeiren/EasyImgur](https://github.com/bkeiren/EasyImgur) - EasyImgur is a small and simple tool to easily upload images to imgur.com
-- [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
+- [Jmgr/actiona](https://github.com/Jmgr/actiona) - Actiona 3: cross-platform automation tool
 - [k0mpreni/saveYourEyes](https://github.com/k0mpreni/saveYourEyes) - VSCode theme
 - [bglw/jekyll-postcss-v2](https://github.com/bglw/jekyll-postcss-v2) - 
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
