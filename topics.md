@@ -1454,7 +1454,6 @@
 - [zugaldia/speedofsound](https://github.com/zugaldia/speedofsound) - Voice typing for the Linux desktop.
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [taj-ny/kwin-effects-forceblur](https://github.com/taj-ny/kwin-effects-forceblur) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
@@ -1585,7 +1584,6 @@
 
 ## mac 
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
@@ -1837,7 +1835,7 @@
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
 - [cemalturkcan/nvidia-build-bypass](https://github.com/cemalturkcan/nvidia-build-bypass) - Bypass country restrictions on NVIDIA Build
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
-- [gabiuz/kape](https://github.com/gabiuz/kape) - A warm colorscheme, inspired by my love for coffee
+- [kape-theme/kape](https://github.com/kape-theme/kape) - A warm colorscheme, inspired by my love for coffee
 - [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B conf
 - [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
 - [myildirimofficial/RSBot](https://github.com/myildirimofficial/RSBot) - A Silkroad Online Open Source Bot
@@ -1865,7 +1863,7 @@
 - [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit) - The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital
-- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
+- [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [falkTX/Carla](https://github.com/falkTX/Carla) - Audio plugin host
 - [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 - [loloolooo/photoshop-keymap-for-gimp](https://github.com/loloolooo/photoshop-keymap-for-gimp) - This extension ports popular Photoshop keyboard shortcuts to GIMP.
@@ -2758,6 +2756,7 @@
 - [crocidb/bulletty](https://github.com/crocidb/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
@@ -3182,7 +3181,6 @@
 ## windows 
 
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
