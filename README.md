@@ -365,7 +365,7 @@
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal
-- [dotabuff/manta](https://github.com/dotabuff/manta) - Dotabuff's Dota 2 Source 2 Replay Parser in Go
+- [dotabuff/manta](https://github.com/dotabuff/manta) - Dotabuff's Dota 2 replay parser in Go
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -571,6 +571,7 @@
 
 - [Luxadevi/Ollama-Colab-Integration](https://github.com/Luxadevi/Ollama-Colab-Integration) - Jupyter Notebooks for Ollama integration
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern, bright color theme for Sublime Text
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -653,7 +654,6 @@
 - [gizemcifguvercin/Resources](https://github.com/gizemcifguvercin/Resources) - This repo includes my blog posts & online videos
 - [varisDogukan/Premium_Dark_Theme](https://github.com/varisDogukan/Premium_Dark_Theme) - Premium Dark Theme
 - [marqu3ss/Aurora-X](https://github.com/marqu3ss/Aurora-X) - A nice theme for your Visual Studio Code
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [40huo/Patched-Fonts](https://github.com/40huo/Patched-Fonts) - Nerd font patch of Operator Mono
 - [utkuufuk/ubuntu-on-steroids](https://github.com/utkuufuk/ubuntu-on-steroids) - Developer setup & configuration guide for Ubuntu
