@@ -916,7 +916,7 @@
 
 ## fastapi 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 
 ## finance 
 
@@ -1756,7 +1756,7 @@
 
 ## nextjs 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
@@ -2575,7 +2575,7 @@
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [Akascape/tkinter-toolkit](https://github.com/Akascape/tkinter-toolkit) - Explore all modern tkinter widget libraries and helpful tools! (Including customtkinter)
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
 - [Egezenn/dota2-minify](https://github.com/Egezenn/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
@@ -2731,7 +2731,7 @@
 
 ## react 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
@@ -3048,7 +3048,7 @@
 ## typescript 
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
