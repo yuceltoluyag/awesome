@@ -305,6 +305,7 @@
 - [mut-ex/my-i3-dotfiles](https://github.com/mut-ex/my-i3-dotfiles) - Dotfiles for my i3 setup
 - [rosario/kasper](https://github.com/rosario/kasper) - Ghost's default theme (Casper v1.0) on Jekyll
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
+- [stisla/stisla](https://github.com/stisla/stisla) - Component library built on constraint.
 - [ogzcakar/oopBlog](https://github.com/ogzcakar/oopBlog) - PHP-OOP yapısı ile Blog
 - [0xhjohnson/arc-theme-gotham](https://github.com/0xhjohnson/arc-theme-gotham) - A flat theme with transparent elements based on gotham vim scheme
 
@@ -413,7 +414,6 @@
 - [cangokceaslan/FastCrop.js](https://github.com/cangokceaslan/FastCrop.js) - Fast crop and resize images using only JavaScript.
 - [tayfunerbilen/prototurk.com](https://github.com/tayfunerbilen/prototurk.com) - Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.
 - [efe/soyadi](https://github.com/efe/soyadi) - Mevlüt Uysal'ın ünlü algoritması.
-- [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [chekromul/uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 
 ## Haskell 
@@ -919,6 +919,7 @@
 
 ## Python 
 
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-Detect Browser that passes every bot detection test. Drop-in Playwright replacement.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [SmartBase-SK/django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - SmartBase Admin application for Django. A modern, modular, and developer-friendly admin interface for Django. Built to speed up development of admin panels but also SaaS end-user experiences — beautif
