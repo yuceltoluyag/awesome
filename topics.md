@@ -239,6 +239,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
 
@@ -1855,6 +1856,7 @@
 
 ## others 
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -1944,7 +1946,6 @@
 - [christian-fei/minimal-analytics](https://github.com/christian-fei/minimal-analytics) - Read more at https://cri.dev/posts/2021-04-28-fullstack-nodejs-preact-minimal-web-analytics-introduction/
 - [minchinweb/minchin.pelican.plugins.post_stats](https://github.com/minchinweb/minchin.pelican.plugins.post_stats) - A Pelican plugin which calculates various statistics about a post and store them in an article.stats dictionary.
 - [Cippo95/nvidia-fan-control](https://github.com/Cippo95/nvidia-fan-control) - Controlling fans on my NVIDIA graphics card
-- [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 - [gvansickle/ucg](https://github.com/gvansickle/ucg) - UniversalCodeGrep (ucg) is an extremely fast grep-like tool specialized for searching large bodies of source code.
 - [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
@@ -3259,6 +3260,10 @@
 - [cniw/mpv-discordRPC](https://github.com/cniw/mpv-discordRPC) - Discord Rich Presence integration for mpv Media Player
 - [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
 - [misyltoad/d9vk](https://github.com/misyltoad/d9vk) - A Direct3D9 to Vulkan layer using the DXVK backend. [Upstreamed to DXVK]
+
+## workflow 
+
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 
 ## youtube 
 
