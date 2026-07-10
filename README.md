@@ -716,7 +716,6 @@
 - [fox91/php-dev-tools](https://github.com/fox91/php-dev-tools) - fox91 PHP Dev Tools
 - [fox91/php-coding-standard](https://github.com/fox91/php-coding-standard) - fox91 PHP Coding Standards
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-- [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [IsThereAnyDeal/AugmentedSteam_Server](https://github.com/IsThereAnyDeal/AugmentedSteam_Server) - A PHP server application that powers the Enhanced Steam API
 - [tattersoftware/codeigniter4-outbox](https://github.com/tattersoftware/codeigniter4-outbox) - Email toolkit for CodeIgniter 4
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
@@ -1353,6 +1352,7 @@
 
 ## TypeScript 
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
