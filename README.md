@@ -903,6 +903,7 @@
 
 ## PowerShell 
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [Danmoreng/llama.cpp-installer](https://github.com/Danmoreng/llama.cpp-installer) - A PowerShell script to fully automate the setup of `llama.cpp` on Windows. It installs all prerequisites, including the correct CUDA Toolkit and build tools, and compiles `llama.cpp` from the source.
 - [Danmoreng/local-qwen3-coder-env](https://github.com/Danmoreng/local-qwen3-coder-env) - Linux & Powershell scripts to easily set up and run the Qwen 3.5 series locally on Windows and Linux with llama.cpp.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
