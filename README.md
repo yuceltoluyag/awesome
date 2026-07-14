@@ -205,7 +205,6 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [AceSLS/SLSsteam](https://github.com/AceSLS/SLSsteam) - 
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [taj-ny/kwin-effects-forceblur](https://github.com/taj-ny/kwin-effects-forceblur) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [just-harry/unofficial-xenia-femtofork-for-fable-ii](https://github.com/just-harry/unofficial-xenia-femtofork-for-fable-ii) - An unofficial fork of Xenia with game-specific-hacks for Fable II.
@@ -459,7 +458,7 @@
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
 - [cemalturkcan/nvidia-build-bypass](https://github.com/cemalturkcan/nvidia-build-bypass) - Bypass country restrictions on NVIDIA Build
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
-- [PaRr0tBoY/Awesome-Vivaldi](https://github.com/PaRr0tBoY/Awesome-Vivaldi) - Vivaldi themes and mods that I wrote or modified from the vivaldi community
+- [PaRr0tBoY/Awesome-Vivaldi](https://github.com/PaRr0tBoY/Awesome-Vivaldi) - The hands-down best Vivaldi modpack to recreate the Zen/Arc browser Vibe.
 - [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon's toot conversation in a HTML page
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [zakandaiev/frontend-starter](https://github.com/zakandaiev/frontend-starter) - FrontEnd Starter is a boilerplate kit for easy building modern static web-sites using Gulp
@@ -1008,7 +1007,6 @@
 - [robbyz512/dota2-minify](https://github.com/robbyz512/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [jan-warchol/limestone-colors](https://github.com/jan-warchol/limestone-colors) - Minimalistic syntax highlighting with great readability and thoughtful design.
@@ -1191,6 +1189,7 @@
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [pythops/dmitui](https://github.com/pythops/dmitui) - ⚙️ TUI version of dmidecode tool
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
