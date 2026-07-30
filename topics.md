@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -257,6 +258,10 @@
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+
+## agents 
+
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 
 ## ai 
 
@@ -734,6 +739,7 @@
 
 ## cybersecurity 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 
@@ -2424,12 +2430,12 @@
 
 ## penetration-testing 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 
 ## pentesting 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 
 ## perl 
 
@@ -2827,6 +2833,7 @@
 
 ## security 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [builtbybel/xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp-AntiSpy, designed for the modern Windows experience
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
@@ -2836,7 +2843,7 @@
 
 ## security-tools 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [GitGuardian/ggshield-action](https://github.com/GitGuardian/ggshield-action) - GitGuardian Shield GitHub Action - Find exposed credentials in your commits
 - [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
