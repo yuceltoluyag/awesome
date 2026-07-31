@@ -413,6 +413,7 @@
 - [cangokceaslan/FastCrop.js](https://github.com/cangokceaslan/FastCrop.js) - Fast crop and resize images using only JavaScript.
 - [tayfunerbilen/prototurk.com](https://github.com/tayfunerbilen/prototurk.com) - Web dilleri ve teknolojileriyle ilgili referanslar JSON formatında ve Türkçe olarak hazırlanmaktadır.
 - [efe/soyadi](https://github.com/efe/soyadi) - Mevlüt Uysal'ın ünlü algoritması.
+- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license
 - [chekromul/uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 
 ## Haskell 
@@ -919,6 +920,7 @@
 
 ## Python 
 
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Undetected Playwright automation in Python. Stealth-patched Firefox, anti-detect browser fingerprint in the engine, not injected. Passes bot detection.
