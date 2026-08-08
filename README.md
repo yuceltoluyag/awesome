@@ -725,7 +725,7 @@
 - [tattersoftware/codeigniter4-files](https://github.com/tattersoftware/codeigniter4-files) - File uploads and management, for CodeIgniter 4
 - [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
 - [openclassify/openclassify](https://github.com/openclassify/openclassify) - OpenClassify is modular and advanced open source classified platform with Laravel 13 & PHP 8.5
-- [munafio/chatify](https://github.com/munafio/chatify) - Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.
+- [munafio/chatify](https://github.com/munafio/chatify) - Laravel’s #1 real-time chat package. Direct messages, groups, voice notes, and much more, with a full messenger UI — plus a headless API. Install in one command.
 - [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 - [pipe-dream/laravel-create](https://github.com/pipe-dream/laravel-create) - Create Laravel projects really fast
 - [typicms/nestablecollection](https://github.com/typicms/nestablecollection) - A Laravel package that extends Eloquent collections to handle nested data using the adjacency list model.
@@ -1012,7 +1012,7 @@
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [jan-warchol/limestone-colors](https://github.com/jan-warchol/limestone-colors) - Minimalistic syntax highlighting with great readability and thoughtful design.
 - [rr-/10ff](https://github.com/rr-/10ff) - Typing tests in CLI
