@@ -380,7 +380,7 @@
 
 ## automation 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Antidetect browser stealth for Playwright: undetected fingerprint in a patched Firefox, headless or headed. Python scraping, captcha-challenged sites. MIT
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected Firefox fingerprint, headless/headed. Python scraping, hcaptcha/recaptcha bypass. Open source
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) - Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -958,7 +958,7 @@
 
 ## firefox 
 
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Antidetect browser stealth for Playwright: undetected fingerprint in a patched Firefox, headless or headed. Python scraping, captcha-challenged sites. MIT
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected Firefox fingerprint, headless/headed. Python scraping, hcaptcha/recaptcha bypass. Open source
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
@@ -2610,7 +2610,7 @@
 ## python 
 
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Antidetect browser stealth for Playwright: undetected fingerprint in a patched Firefox, headless or headed. Python scraping, captcha-challenged sites. MIT
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Free antidetect browser stealth for Playwright: undetected Firefox fingerprint, headless/headed. Python scraping, hcaptcha/recaptcha bypass. Open source
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [SmartBase-SK/django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - SmartBase Admin application for Django. A modern, modular, and developer-friendly admin interface for Django. Built to speed up development of admin panels but also SaaS end-user experiences — beautif
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
