@@ -355,7 +355,7 @@
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Kandilli ve AFAD Deprem API’si – Son depremler ve deprem arşivi
+- [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Türkiye için Kandilli Rasathanesi ve AFAD verilerini birleştiren ücretsiz, açık kaynaklı deprem API’si. Gerçek zamanlı veriler, GeoJSON, gelişmiş filtreleme, şehir/havaalanı yakınlığı, istatistikler v
 
 ## archlinux 
 
@@ -2162,7 +2162,7 @@
 - [leuchte/bulma-autocomplete](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework
 - [tattersoftware/codeigniter4-assets](https://github.com/tattersoftware/codeigniter4-assets) - Asset handling for CodeIgniter 4
 - [codeigniter4/tasks](https://github.com/codeigniter4/tasks) - Task Scheduler for CodeIgnter 4
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [nikp123/xava](https://github.com/nikp123/xava) - X11 Audio Visualizer for ALSA
 - [fartyg/xfce_wm_themes](https://github.com/fartyg/xfce_wm_themes) - tweaked xfce window manager themes
 - [eduarguz/shift-php-cs](https://github.com/eduarguz/shift-php-cs) - Laravel Shift recommended style config
