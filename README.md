@@ -942,7 +942,7 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Proqram neredeyse bir işletim sistemi gücündedir.Eğer var olan 10 (+1) proqram sizin için yeterli olmazsa kendi geliştirdiğiniz proqramları sisteme dahil ede bilrsiniz .Her türden dosyayı oluşturmanız
+- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Kavram, eğitim ve medya çalışmalarını tek bir çatı altında birleştiren, özgür ve açık kaynak kodlu bir masaüstü platformudur.
 - [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [Fingel/tuimoji](https://github.com/Fingel/tuimoji) - Terminal based emoji chooser 💻 🤓
 - [BadKiko/steam-online-fix-launcher](https://github.com/BadKiko/steam-online-fix-launcher) - Steam Online Fix Launcher (SOFL) is a tool for easily launching and organizing online-fix games on Linux.
