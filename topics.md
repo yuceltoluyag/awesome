@@ -774,6 +774,7 @@
 
 ## database 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
@@ -1318,7 +1319,6 @@
 - [zakandaiev/frontend-starter](https://github.com/zakandaiev/frontend-starter) - FrontEnd Starter is a boilerplate kit for easy building modern static web-sites using Gulp
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -1417,7 +1417,7 @@
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5+
 - [Bottelet/DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
-- [milon/barcode](https://github.com/milon/barcode) - Laravel Barcode Generator
+- [milon/barcode](https://github.com/milon/barcode) - Barcode Generator for PHP and Laravel
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [ben182/laravel-auto-translate](https://github.com/ben182/laravel-auto-translate) - Automatically translate your language files using a translator service
 - [mailerlite/laravel-elasticsearch](https://github.com/mailerlite/laravel-elasticsearch) - An easy way to use the official Elastic Search client in your Laravel applications.
@@ -1703,6 +1703,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 ## microservices 
 
@@ -1910,7 +1911,7 @@
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
-- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Kavram, eğitim ve medya çalışmalarını tek bir çatı altında birleştiren, özgür ve açık kaynak kodlu bir arşiv platformudur. Not: Proje Geliştirme aşamasındadır. Linux Mint XFCE kullanıyorsanız bu progr
+- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Kavram is a free and open-source archive platform that brings educational and media projects together under a single roof.  **Note:** The project is currently under development. If you are using Linux
 - [jokull/markdown-ig-story](https://github.com/jokull/markdown-ig-story) - Convert markdown to Instagram story-sized PNG images (1080x1920px)
 - [PaRr0tBoY/Awesome-Vivaldi](https://github.com/PaRr0tBoY/Awesome-Vivaldi) - The hands-down best Vivaldi modpack to recreate the Zen/Arc browser Vibe.
 - [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
@@ -2476,6 +2477,7 @@
 - [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis/Valkey client for PHP.
 - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5+
 - [pgrimaud/instagram-user-feed](https://github.com/pgrimaud/instagram-user-feed) - This is a scrapper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.
+- [milon/barcode](https://github.com/milon/barcode) - Barcode Generator for PHP and Laravel
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [ben182/laravel-auto-translate](https://github.com/ben182/laravel-auto-translate) - Automatically translate your language files using a translator service
@@ -2773,7 +2775,6 @@
 ## react 
 
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
@@ -2976,7 +2977,6 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [SublimeText/TailwindCSS](https://github.com/SublimeText/TailwindCSS) - Tailwind CSS syntax for Sublime Text
 - [Alicannklc/intellij-tailwind-css](https://github.com/Alicannklc/intellij-tailwind-css) - Tailwind IntelliJ Plugin  Tailwind Cheat Sheet
 - [moesaid/cleopatra](https://github.com/moesaid/cleopatra) - Admin Dashboard Template Built On Tailwind CSS
