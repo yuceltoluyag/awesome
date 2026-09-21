@@ -1884,7 +1884,7 @@
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Anti-detect stealth browser: undetected Firefox fingerprint, anti-bot detection bypass. Python web scraping automation, Cloudflare, captcha.
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright anti-detect: automatically bypass captcha, anti-bot detection. Undetected Firefox fingerprint, stealth browser. Python web scraping automation, Cloudflare.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
