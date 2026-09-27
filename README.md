@@ -90,6 +90,7 @@
 
 ## C 
 
+- [xXJSONDeruloXx/proton-LinUwUx-patch](https://github.com/xXJSONDeruloXx/proton-LinUwUx-patch) - preservation focused proton patch
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [bol-van/zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
@@ -1193,7 +1194,6 @@
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, M
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [pythops/dmitui](https://github.com/pythops/dmitui) - ⚙️ TUI version of dmidecode tool
