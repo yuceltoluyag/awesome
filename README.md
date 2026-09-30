@@ -646,6 +646,7 @@
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [phillbush/shod](https://github.com/phillbush/shod) - https://codeberg.org/seninha/shod
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [k0mpreni/saveYourEyes](https://github.com/k0mpreni/saveYourEyes) - VSCode theme
@@ -1010,7 +1011,6 @@
 - [robbyz512/dota2-minify](https://github.com/robbyz512/dota2-minify) - Dota2 Mod Patcher & Toolkit for everyone to use mods easily
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [jan-warchol/limestone-colors](https://github.com/jan-warchol/limestone-colors) - Minimalistic syntax highlighting with great readability and thoughtful design.
 - [rr-/10ff](https://github.com/rr-/10ff) - Typing tests in CLI
