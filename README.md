@@ -1205,7 +1205,7 @@
 - [wookietreiber/strace-analyzer](https://github.com/wookietreiber/strace-analyzer) - analyzes strace output
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A CLI to organize and run short Unix shell scripts
 - [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [mobilecoinofficial/full-service](https://github.com/mobilecoinofficial/full-service) - A MobileCoin service for wallet implementations.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
