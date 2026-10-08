@@ -964,6 +964,7 @@
 
 ## firefox 
 
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
@@ -1457,7 +1458,6 @@
 - [sametsahindogan/laravel-jwtredis](https://github.com/sametsahindogan/laravel-jwtredis) - :rocket: This package allows JWT-authenticated users to be stored and management in Redis with their roles, permissions, statuses and anything you want.
 - [gustmartins/Slice-Library](https://github.com/gustmartins/Slice-Library) - Slice-Library is a CodeIgniter library that simulates Laravel's Blade templating system!
 - [superv/platform](https://github.com/superv/platform) - superV Platform for Laravel
-- [markomilivojevic/autocomplete](https://github.com/markomilivojevic/autocomplete) - Laravel redis autocomplete
 - [TheoKouzelis/laravel-airbrake](https://github.com/TheoKouzelis/laravel-airbrake) - Laravel service provider for Airbrake https://github.com/airbrake/phpbrake
 - [serversideup/roastandbrew](https://github.com/serversideup/roastandbrew) - Updated content available! We learned a lot since we originally wrote this article. We now have this updated for Laravel 8, Vue, and NuxtJS 👉 https://srvrsi.de/book
 - [mewebstudio/laravel-pos](https://github.com/mewebstudio/laravel-pos) - Türk bankaları için sanal pos paketi (Laravel 5/6/7/8)
@@ -1891,7 +1891,6 @@
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -2509,7 +2508,6 @@
 - [sametsahindogan/laravel-jwtredis](https://github.com/sametsahindogan/laravel-jwtredis) - :rocket: This package allows JWT-authenticated users to be stored and management in Redis with their roles, permissions, statuses and anything you want.
 - [adoy/vim-php-refactoring-toolbox](https://github.com/adoy/vim-php-refactoring-toolbox) - VIM Php Refactoring Toolbox
 - [superv/platform](https://github.com/superv/platform) - superV Platform for Laravel
-- [markomilivojevic/autocomplete](https://github.com/markomilivojevic/autocomplete) - Laravel redis autocomplete
 - [izniburak/demet](https://github.com/izniburak/demet) - Simple and useful LAMP & LEMP and more stack environments to use on Docker.
 - [TheoKouzelis/laravel-airbrake](https://github.com/TheoKouzelis/laravel-airbrake) - Laravel service provider for Airbrake https://github.com/airbrake/phpbrake
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
@@ -2618,6 +2616,7 @@
 ## python 
 
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build voice agents with open-source models
+- [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [SmartBase-SK/django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - SmartBase Admin application for Django. A modern, modular, and developer-friendly admin interface for Django. Built to speed up development of admin panels but also SaaS end-user experiences — beautif
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
