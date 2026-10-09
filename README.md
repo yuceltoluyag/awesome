@@ -285,7 +285,7 @@
 - [at-import/breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
 - [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
-- [aldi/bulma-social](https://github.com/aldi/bulma-social) - 🤳 Social Buttons and Colors for Bulma
+- [aldi/bulma-social](https://github.com/aldi/bulma-social) - 🤳 Bulma CSS extension for social login buttons and brand color utilities, with 26 providers and modular CSS imports
 - [huphtur/jekyll-tailwind-starter-plus](https://github.com/huphtur/jekyll-tailwind-starter-plus) - Starter project for Jekyll with Tailwind CSS
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
