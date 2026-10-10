@@ -397,7 +397,6 @@
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [u1ui/base.css](https://github.com/u1ui/base.css) - ⏚ Usefull css defaults
 - [u1ui/norm.css](https://github.com/u1ui/norm.css) - CSS normalization for crossbrowser compatibility
-- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [kannansuresh/jekyll-blog-archive-workflow](https://github.com/kannansuresh/jekyll-blog-archive-workflow) - Jekyll Archives workflow action. This action brings archive feature to Jekyll blogs hosted on GitHub pages.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
@@ -1009,6 +1008,7 @@
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
+- [Abdess/retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with em
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [jan-warchol/limestone-colors](https://github.com/jan-warchol/limestone-colors) - Minimalistic syntax highlighting with great readability and thoughtful design.
 - [rr-/10ff](https://github.com/rr-/10ff) - Typing tests in CLI
@@ -1096,7 +1096,6 @@
 - [SublimeLinter/SublimeLinter-shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - This linter plugin for SublimeLinter provides an interface to shellcheck.
 - [aerobounce/Sublime-Pretty-Shell](https://github.com/aerobounce/Sublime-Pretty-Shell) - 🐚 Shell Script Formatter / Syntax Checker (Powered by shfmt)
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
-- [haxorjim/youtube-tools](https://github.com/haxorjim/youtube-tools) - Power Tools for YouTube Subscribers
 - [altdesktop/i3-dstatus](https://github.com/altdesktop/i3-dstatus) - Another great statusline generator for i3wm
 - [aydinnyunus/LinuxVoiceAssistant](https://github.com/aydinnyunus/LinuxVoiceAssistant) - Linux Voice Assistant for to Make Your Work Easier
 - [marianosimone/epub-thumbnailer](https://github.com/marianosimone/epub-thumbnailer) - Script to extract the cover of an epub book and create a thumbnail for it
@@ -1211,7 +1210,6 @@
 - [sorah/subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [herzrasen/pkghist](https://github.com/herzrasen/pkghist) - Query the local version history of packages
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
