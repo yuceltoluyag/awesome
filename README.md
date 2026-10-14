@@ -940,6 +940,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [tsora1603/pixora-icons](https://github.com/tsora1603/pixora-icons) - 16-bit pixel art style icons theme for Linux
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Kavram, eğitim ve medya çalışmalarını tek bir çatı altında birleştiren, özgür ve açık kaynak kodlu bir arşiv platformudur. Not: Proje Geliştirme aşamasındadır. Linux Mint XFCE kullanıyorsanız bu progr
@@ -1248,7 +1249,6 @@
 
 - [c0deJedi/nbd-vram](https://github.com/c0deJedi/nbd-vram) - Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD,
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
-- [tsora1603/pixora-icons](https://github.com/tsora1603/pixora-icons) - 16-bit pixel art style icons theme for Linux
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ciscosweater/enter-the-wired](https://github.com/ciscosweater/enter-the-wired) - 
 - [goddessfreya/hookey](https://github.com/goddessfreya/hookey) - Enables all the DLCs. Like Creamapi but just for linux and a subset of Paradox games.
