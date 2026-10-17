@@ -435,7 +435,6 @@
 - [corsicanu/hKtweaks](https://github.com/corsicanu/hKtweaks) - Fork of MTweaks with compatibility added for more exynos devices + other goodies
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [uber/marmaray](https://github.com/uber/marmaray) - Generic Data Ingestion & Dispersal Library for Hadoop
 - [HamidMoghaddam/dota2dqn](https://github.com/HamidMoghaddam/dota2dqn) - This is a deep Q-network (reinforcement learning) AI for Dota 2
@@ -585,7 +584,7 @@
 - [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses) - GPL licenced Android Expense Tracking App
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) - 
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
 
 ## Less 
 
