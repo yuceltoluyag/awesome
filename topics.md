@@ -1883,6 +1883,7 @@
 
 ## others 
 
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [fyzugx/DEsk](https://github.com/fyzugx/DEsk) - 
 - [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch) - Root access to the kernel can be achieved simply by patching the Boot partition for reflashing. This solution is based on a non-parallel extended branch of APatch, with a primary focus on UI/UX design
 - [xXJSONDeruloXx/proton-LinUwUx-patch](https://github.com/xXJSONDeruloXx/proton-LinUwUx-patch) - preservation focused proton patch
@@ -1899,7 +1900,6 @@
 - [kape-theme/kape](https://github.com/kape-theme/kape) - A warm colorscheme, inspired by my love for coffee
 - [noonghunna/club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, sglang, llama.cpp and other custom engines) and model-agnostic. Currently shipping Qwen3.8-27B Qwen3.6 35B Gemma
 - [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - LLM inference in C/C++
-- [myildirimofficial/RSBot](https://github.com/myildirimofficial/RSBot) - A Silkroad Online Open Source Bot
 - [Danmoreng/llama.cpp-installer](https://github.com/Danmoreng/llama.cpp-installer) - A PowerShell script to fully automate the setup of `llama.cpp` on Windows. It installs all prerequisites, including the correct CUDA Toolkit and build tools, and compiles `llama.cpp` from the source.
 - [Danmoreng/local-qwen3-coder-env](https://github.com/Danmoreng/local-qwen3-coder-env) - Linux & Powershell scripts to easily set up and run the Qwen 3.5 series locally on Windows and Linux with llama.cpp.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
