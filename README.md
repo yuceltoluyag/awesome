@@ -127,7 +127,6 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [LAKostis/nvdock](https://github.com/LAKostis/nvdock) - Fork of nvdock, a tray icon to easily launch the nvidia-settings control panel
-- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [Falldog/pyconcrete](https://github.com/Falldog/pyconcrete) - Protect your python script, encrypt it as .pye and decrypt when import it
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
@@ -238,6 +237,7 @@
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Actiona 3: cross-platform automation tool
 - [google/UIforETW](https://github.com/google/UIforETW) - User interface for recording and managing ETW traces
 - [yalov/eyes-thanks](https://github.com/yalov/eyes-thanks) - Eyes' Thanks is a software that protect your eyes. The program frequently alerts you to take rest breaks...
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
@@ -918,6 +918,7 @@
 
 ## Python 
 
+- [linsaftw/dragonrise-gamepad-fix](https://github.com/linsaftw/dragonrise-gamepad-fix) - Fixed mappings for Dragonrise Gamepads for Linux.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build voice agents with open-source models
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
