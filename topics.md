@@ -240,6 +240,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -2034,7 +2035,6 @@
 - [corsicanu/hKtweaks](https://github.com/corsicanu/hKtweaks) - Fork of MTweaks with compatibility added for more exynos devices + other goodies
 - [master131/ExtremeInjector](https://github.com/master131/ExtremeInjector) - 
 - [dmajkic/redis](https://github.com/dmajkic/redis) - Redis key-value store (Win32 / Win64 port)
-- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
 - [sineto/vpsm](https://github.com/sineto/vpsm) - vpsm - Void-Packages Sources Management wrapper for XBPS-SRC
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [Shuzhengz/TPFanCtrl2](https://github.com/Shuzhengz/TPFanCtrl2) - ThinkPad Fan Control 2 (Dual Fan) for Windows 10 and 11
@@ -2138,7 +2138,6 @@
 - [inuitcss/inuitcss](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
 - [varisDogukan/Premium_Dark_Theme](https://github.com/varisDogukan/Premium_Dark_Theme) - Premium Dark Theme
 - [marqu3ss/Aurora-X](https://github.com/marqu3ss/Aurora-X) - A nice theme for your Visual Studio Code
-- [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) - The default Dark+ theme, using Material's color palette.
 - [Jackpison/IDM-reset](https://github.com/Jackpison/IDM-reset) - IDM Trail Reset Help
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 - [at-import/breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
@@ -2408,7 +2407,6 @@
 - [superjamie/snippets](https://github.com/superjamie/snippets) - Snippets of code which may or may not be useful.
 - [FabianBeiner/PHP-IMDB-Grabber](https://github.com/FabianBeiner/PHP-IMDB-Grabber) - This PHP library enables you to scrape data from IMDB.com.
 - [canavci2016/shopier](https://github.com/canavci2016/shopier) - Shopier api ile ödeme yapma
-- [onur-ozkan/vscode-deepdark-material](https://github.com/onur-ozkan/vscode-deepdark-material) - A clean dark material theme for Visual Studio Code Editor
 - [chuyskywalker/rolling-curl](https://github.com/chuyskywalker/rolling-curl) - Rolling-Curl: A non-blocking, non-dos multi-curl library for PHP
 - [mmervecerit/Mini-DOTA](https://github.com/mmervecerit/Mini-DOTA) - A Quick DOTA game written in Smalltalk using Pharo
 - [sineld/money](https://github.com/sineld/money) - A PHP library to make working with money easier
@@ -3260,6 +3258,20 @@
 
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Improved fork of https://github.com/Detanup01/gbe_fork for Goldberg Steam Emulator, originally developed by Mr_Goldberg - https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
+
+## vscode 
+
+- [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
+- [wkillerud/some-sass](https://github.com/wkillerud/some-sass) - Language server with improved support for SCSS, Sass indented and SassDoc. Workspace awareness and full support for Sass modules.
+- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The themes with a long beard.
+- [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
+- [roberthgnz/bulma-css-class-completion](https://github.com/roberthgnz/bulma-css-class-completion) - Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.
+- [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) - The default Dark+ theme, using Material's color palette.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [utkuufuk/ubuntu-on-steroids](https://github.com/utkuufuk/ubuntu-on-steroids) - Developer setup & configuration guide for Ubuntu
+- [shufo/vscode-blade-formatter](https://github.com/shufo/vscode-blade-formatter) - An opinionated Blade file formatter for VSCode
+- [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
+- [onur-ozkan/vscode-deepdark-material](https://github.com/onur-ozkan/vscode-deepdark-material) - A clean dark material theme for Visual Studio Code Editor
 
 ## vue 
 
