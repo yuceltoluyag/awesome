@@ -927,7 +927,7 @@
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [feder-cr/invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
+- [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [SmartBase-SK/django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - SmartBase Admin application for Django. A modern, modular, and developer-friendly admin interface for Django. Built to speed up development of admin panels but also SaaS end-user experiences — beautif
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -945,7 +945,7 @@
 - [tsora1603/pixora-icons](https://github.com/tsora1603/pixora-icons) - 16-bit pixel art style icons theme for Linux
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Kavram, eğitim ve medya çalışmalarını tek bir çatı altında birleştiren, özgür ve açık kaynak kodlu bir arşiv platformudur. Not: Proje Geliştirme aşamasındadır. Linux Mint XFCE kullanıyorsanız bu progr
+- [kavramproqram/Kavram](https://github.com/kavramproqram/Kavram) - Eğitim ve medya çalışmalarını tek çatı altında toplayan, özgür ve açık kaynaklı arşiv platformu .                  ----------------------------------------------------                  A free and open
 - [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [Fingel/tuimoji](https://github.com/Fingel/tuimoji) - Terminal based emoji chooser 💻 🤓
 - [BadKiko/steam-online-fix-launcher](https://github.com/BadKiko/steam-online-fix-launcher) - Steam Online Fix Launcher (SOFL) is a tool for easily launching and organizing online-fix games on Linux.
