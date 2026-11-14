@@ -594,7 +594,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 
 ## claude-skills 
 
@@ -927,7 +927,7 @@
 ## downloader 
 
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader since 2013
 - [irevenko/koneko](https://github.com/irevenko/koneko) - 🐈🌐 nyaa.si terminal BitTorrent tracker
 - [HA6Bots/Twitch-Clips-Compilation-Generator-TCCG-](https://github.com/HA6Bots/Twitch-Clips-Compilation-Generator-TCCG-) - A system of 3 programs that collects clips automatically from Twitch, lets you edit videos and combine clips, and puts them together into a compilation video ready to be uploaded straight to any socia
@@ -1763,7 +1763,7 @@
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server that lets Claude, ChatGPT, Cursor and other AI assistants operate n8n: debug, edit, validate, test and build workflows on any n8n instance
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
@@ -1944,6 +1944,7 @@
 
 ## others 
 
+- [FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp) - Call of Duty 3 (Xbox 360) static recompilation: host runtime, tools and notes
 - [linsaftw/dragonrise-gamepad-fix](https://github.com/linsaftw/dragonrise-gamepad-fix) - Fixed mappings for Dragonrise Gamepads for Linux.
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [fyzugx/DEsk](https://github.com/fyzugx/DEsk) - 
