@@ -1131,7 +1131,7 @@
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [AlfredoSequeida/venus](https://github.com/AlfredoSequeida/venus) - Venus aims to be a cross-platform tool to automatically change your desktop wallpaper to something random using images from Unsplash.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
-- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
+- [jmaupetit/Watson](https://github.com/jmaupetit/Watson) - :watch: A wonderful CLI to track your time!
 - [Kyubyong/dc_tts](https://github.com/Kyubyong/dc_tts) - A TensorFlow Implementation of DC-TTS: yet another text-to-speech model
 - [StuntsPT/Radeon-tray](https://github.com/StuntsPT/Radeon-tray) - A simple tray icon for controlling Radeon power profiles
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
