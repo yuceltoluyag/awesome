@@ -62,7 +62,6 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [cssninjaStudio/krypton](https://github.com/cssninjaStudio/krypton) - 🚀 Free Astro + Bulma ICO / Crypto template
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
@@ -1193,6 +1192,8 @@
 
 ## Rust 
 
+- [brcly/legion-kvm](https://github.com/brcly/legion-kvm) - Legion is a lightweight KVM made for running games. Legion provides set specific hardware values to ensure compatibility.
+- [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) - A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [c9dev/penguin-mail](https://github.com/c9dev/penguin-mail) - Mail and calendar for Linux and macOS. Gmail and IMAP accounts, Google Calendar, contacts, OpenPGP and S/MIME. GTK4 and libadwaita, written in Rust.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [crocidb/bulletty](https://github.com/crocidb/bulletty) - bulletty is a pretty feed reader for the terminal that stores the articles as Markdown
@@ -1201,7 +1202,7 @@
 - [boxxy-dev/boxxy](https://github.com/boxxy-dev/boxxy) - Stupid Linux Terminal
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) - Custom GeForce Now Client Named OpenNOW
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downloader for video, mus
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [pythops/dmitui](https://github.com/pythops/dmitui) - ⚙️ TUI version of dmidecode tool
@@ -1417,6 +1418,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [enesozturk/sticker-store](https://github.com/enesozturk/sticker-store) - E-commerce website powered with Next.js.
 - [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) - The default Dark+ theme, using Material's color palette.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital proj
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [raftheunis87/order-alert-bot](https://github.com/raftheunis87/order-alert-bot) - Get Telegram notifications if orders are filled. Currently compatible with FTX Exchange.
