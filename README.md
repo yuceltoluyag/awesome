@@ -90,6 +90,7 @@
 
 ## C 
 
+- [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam using SteamGridDB. Supports Windows, Linux and MacOS written completely in C.
 - [fyzugx/DEsk](https://github.com/fyzugx/DEsk) - 
 - [xXJSONDeruloXx/proton-LinUwUx-patch](https://github.com/xXJSONDeruloXx/proton-LinUwUx-patch) - preservation focused proton patch
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -793,7 +794,7 @@
 - [MacsiDigital/laravel-stripe](https://github.com/MacsiDigital/laravel-stripe) - Stripe API with Laravel Eloquent type syntax
 - [tayfunerbilen/jquery-to-javascript-convert](https://github.com/tayfunerbilen/jquery-to-javascript-convert) - It helps to convert your simple jquery codes to vanilla javascript codes
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 13 blog application on PHP 8.6 with Hotwire, Horizon, Telescope, Sanctum and Pest
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [xingxingso/Build-A-Laravel-App-With-TDD](https://github.com/xingxingso/Build-A-Laravel-App-With-TDD) - It's time to take the techniques we learned in Laravel From Scratch, and put them to good use building your first real-world application. Together, we'll leverage TDD to create Birdboard: a minimal Ba
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
@@ -919,6 +920,7 @@
 
 ## Python 
 
+- [frameprobe/frameprobe](https://github.com/frameprobe/frameprobe) - End-to-end display latency measurement: the time from a mouse click to a visible change on screen, measured with a photodiode strapped to the monitor.
 - [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou
 - [mutonby/openshorts](https://github.com/mutonby/openshorts) - Open source AI clip generator: turns long videos into viral 9:16 shorts with AI moment detection, face tracking, subtitles and dubbing. Self-host free with Docker (MIT), or use the cloud with GPU spee
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games
