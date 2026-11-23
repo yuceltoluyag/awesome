@@ -634,6 +634,7 @@
 
 ## Others 
 
+- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [loloolooo/photoshop-keymap-for-gimp](https://github.com/loloolooo/photoshop-keymap-for-gimp) - This extension ports popular Photoshop keyboard shortcuts to GIMP.
 - [droidwayin/GentleDynamics](https://github.com/droidwayin/GentleDynamics) - This EasyEffects preset shapes audio and deliver a dynamically balanced, detail-rich sound that evolves in real time with the incoming audio signal.
@@ -1194,6 +1195,7 @@
 
 ## Rust 
 
+- [Lumice/artitux](https://github.com/Lumice/artitux) - A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [brcly/legion-kvm](https://github.com/brcly/legion-kvm) - Legion is a lightweight KVM made for running games. Legion provides set specific hardware values to ensure compatibility.
 - [brcly/linuwux-runtime](https://github.com/brcly/linuwux-runtime) - A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
 - [c9dev/penguin-mail](https://github.com/c9dev/penguin-mail) - Mail and calendar for Linux and macOS. Gmail and IMAP accounts, Google Calendar, contacts, OpenPGP and S/MIME. GTK4 and libadwaita, written in Rust.
