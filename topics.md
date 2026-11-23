@@ -388,7 +388,7 @@
 - [Bogdanp/molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [spatie/flysystem-dropbox](https://github.com/spatie/flysystem-dropbox) - A flysystem driver for Dropbox that uses the v2 API
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 13 blog application on PHP 8.6 with Hotwire, Horizon, Telescope, Sanctum and Pest
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [orhanayd/kandilli-rasathanesi-api](https://github.com/orhanayd/kandilli-rasathanesi-api) - Türkiye için Kandilli Rasathanesi ve AFAD verilerini birleştiren ücretsiz, açık kaynaklı deprem API’si. Gerçek zamanlı veriler, GeoJSON, gelişmiş filtreleme, şehir/havaalanı yakınlığı, istatistikler v
@@ -1499,7 +1499,7 @@
 - [furkankadioglu/efatura](https://github.com/furkankadioglu/efatura) - eArşiv üzerinden Fatura Oluşturucu
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 13 blog application on PHP 8.6 with Hotwire, Horizon, Telescope, Sanctum and Pest
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [xingxingso/Build-A-Laravel-App-With-TDD](https://github.com/xingxingso/Build-A-Laravel-App-With-TDD) - It's time to take the techniques we learned in Laravel From Scratch, and put them to good use building your first real-world application. Together, we'll leverage TDD to create Birdboard: a minimal Ba
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
@@ -1958,6 +1958,10 @@
 
 ## others 
 
+- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
+- [Lumice/artitux](https://github.com/Lumice/artitux) - A lightweight Rust compatibility runtime for Windows games running through Wine and Proton on Linux.
+- [SteamGridDB/SGDBoop](https://github.com/SteamGridDB/SGDBoop) - A program used for applying custom artwork to Steam using SteamGridDB. Supports Windows, Linux and MacOS written completely in C.
+- [frameprobe/frameprobe](https://github.com/frameprobe/frameprobe) - End-to-end display latency measurement: the time from a mouse click to a visible change on screen, measured with a photodiode strapped to the monitor.
 - [brcly/legion-kvm](https://github.com/brcly/legion-kvm) - Legion is a lightweight KVM made for running games. Legion provides set specific hardware values to ensure compatibility.
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - Keep your coding agent up to date with the latest web best practices
 - [FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp) - Call of Duty 3 (Xbox 360) static recompilation: host runtime, tools and notes
@@ -2574,7 +2578,7 @@
 - [furkankadioglu/efatura](https://github.com/furkankadioglu/efatura) - eArşiv üzerinden Fatura Oluşturucu
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 13 blog application on PHP 8.6 with Hotwire, Horizon, Telescope, Sanctum and Pest
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [xingxingso/Build-A-Laravel-App-With-TDD](https://github.com/xingxingso/Build-A-Laravel-App-With-TDD) - It's time to take the techniques we learned in Laravel From Scratch, and put them to good use building your first real-world application. Together, we'll leverage TDD to create Birdboard: a minimal Ba
 - [sametsahindogan/laravel-jwtredis](https://github.com/sametsahindogan/laravel-jwtredis) - :rocket: This package allows JWT-authenticated users to be stored and management in Redis with their roles, permissions, statuses and anything you want.
